@@ -11,7 +11,7 @@ This is purely so we can report back to the organisation who paid for its develo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a8Mj2Dlrn_A?si=KfztOlljWzRETdq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+---
 
 # Gemini from the Ground-Floor
 
@@ -28,10 +28,13 @@ Again, this course is free! We just need to collect registration data using this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O95dzpvoDxQ?si=f91yUXPNq3ERd7tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 
 # The Appsolute Beginner's Guide to Appsheets
 Got an idea for an app? Don't know where to begin? Turns out Google has you covered! Appsheet builds on a google sheet backend to handle all your basic data entry needs. Couple this with a relatively light amount of scripting in appscript, and you can be VERY dangerous.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=E2vRdmoL5dgSF_cR&amp;list=PL2TwGN9VmXKWa38bSUqMxZMNo41L0pQPB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 # Crash Course Creative Coding (WIP)
