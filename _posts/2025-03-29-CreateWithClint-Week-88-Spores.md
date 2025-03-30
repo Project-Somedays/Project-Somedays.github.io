@@ -13,7 +13,6 @@ toc: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhG7VmlsF6g?si=f8u0Tf8GUcCxLXd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Summary
-## WCCChallenge Blurb
 
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
