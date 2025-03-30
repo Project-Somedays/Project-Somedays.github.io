@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Who am I?
+Creative Coder, Maker, App Developer, Blender Beginner, Course Designer, Teacher in remission, Full-time Science Communicator. Slave to many passions.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Qualifications
+ - Bachelor of Science majoring in Pure Mathematics and Applied Physics, University of New England, Australia, 2010 - 2012
+ - Master of Teaching (Secondary), University of New England, Australia, 2013 - 2014
+ - Master of Science Communication Outreach (with Commendation), Australian National University, Australia, 2019
+
+# Work Experience
+ - 2010 - 2012: Seasonal Factory Worker, Photocreate, Glen Innes
+ - 2012 - 2014: Peer Assisted Study Session Leader, University of New England, Australia
+ - 2013 - 2014: Homework Centre Master, The Armidale School, Armidale, NSW, 2350
+ - 2015 - 2018: Classroom Teacher, NSW Department of Education and Training, Mungindi NSW, 2046
+ - 2019: Questacon Science Communicator, Canberra, ACT, 2600
+ - 2020 - Current: Science and Engineering Challenge Team Leader, University of Newcastle, NSW, 2287
