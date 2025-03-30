@@ -1,9 +1,17 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Showcase"
+    url: /showcase/
+  - title: "3D Printing"
+    url: /3dprinting/
+  - title: "Weekly Creative Coding Challenges"
+    url: /wccc/
+  - title: "Render Challenges"
+    url: /blender/
+  - title: "Genuary"
+    url: /genuary/
+  - title: "Courses"
+    url: /courses/
   - title: "About"
     url: /about/
