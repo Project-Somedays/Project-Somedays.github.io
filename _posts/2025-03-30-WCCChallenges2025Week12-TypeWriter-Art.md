@@ -12,7 +12,7 @@ toc: true
 
 # Weekly Creative Coding Challenges 2025 - Week 13 - 'Typewriter Art'
 ## Final Live Code
-<iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
+<iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 ## Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
@@ -20,7 +20,7 @@ toc: true
 ## WCCChallenge Blurb
 
 | Biz             | Biz Biz                               |
-|:---             | :---                                  |
+|:-----           | :-----                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
 | 📅 Started      | 2025-03-23, updated 2025-03-29        |
@@ -71,7 +71,7 @@ Join The Birb's Nest Discord community! https://discord.gg/g5J6Ajx9Am
     - Calculate target positions
     - Do a cool swirly and lerp between exploded and assembled states
   
-  ![Basic scene as a test](../assets/images/2025-03-30-WCCC-Basic-Scene.png)
+  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png)
   
   - Realise after a couple of hours that OBJ exports don't embed positional data
   - Switch to GLTF
@@ -80,14 +80,14 @@ Join The Birb's Nest Discord community! https://discord.gg/g5J6Ajx9Am
   - Easing functions are fun
   - Begin work on making my own in Blender
   
-  ![Typewriter Mockup](../assets/images//2025-03-30-WCCC-Basic-Mockup.png)
+  ![Typewriter Mockup](/assets/images//2025-03-30-WCCC-Basic-Mockup.png)
 
   ### 2025-03-30 The Deadline approaches
 
    - Quick tests with applying transforms or resetting... not quite what I'm after
    - Hooray! Generating random targets works great and is close enough to what I'm after
   
-  ![Test](../assets/images/2025-03-30_QuickTest.png)
-  ![Test](../assets/images/2025-03-30_QuickTestSuccess.png)
+  ![Test](/assets/images/2025-03-30_QuickTest.png)
+  ![Test](/assets/images/2025-03-30_QuickTestSuccess.png)
 
   - Get it to run in openProcessing --> involved declaring my initial setup in p5js setup. Good to know!
