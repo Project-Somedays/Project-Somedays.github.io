@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Project Somedays - Just Do Stuff
+email: projectsomedays@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Hosting the creative and professional work of Pete of Project Somedays; Creative Coder, Maker, App Developer, Blender Beginner, Course Designer, Teacher in remission, Full-time Science Communicator. Slave to many passions.
+twitter_username: ProjectSomedays
+github_username: Project-Somedays
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Pete Newman"
+  avatar : "/assets/images/Project Somedays and Pete.jpg"
+  bio    : "Creative Coder, Maker, App Developer, Blender Beginner, Course Designer, Teacher in remission, Full-time Science Communicator. Slave to many passions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
