@@ -81,8 +81,8 @@ author:
     - label: "Bluesky.social"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/projectsomedays.bsky.social"
-    - label: "OpenProcessing.ogn"
-      icon: "💻"
+    - label: "OpenProcessing.org"
+      icon: "fab fa-fw fa-solid fa-laptop-code"
       url: "https://openprocessing.org/user/410675/"
 
 footer:
