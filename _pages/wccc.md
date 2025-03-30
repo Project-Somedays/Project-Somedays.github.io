@@ -1,17 +1,18 @@
 ---
 permalink: /wccc/
 title: "Weekly Creative Coding Challenges"
+toc: true
 ---
 # What are these Weekly Creative Coding Challenges?
 Every week, creative coders from all over the world participate in responding to a prompt. It's a beginner-friendly great excuse to stretch those brain muscles and jump in!
 
-Sounds fun? Join us on Discord: https://discord.gg/S8c7qcjw2b
+Sounds fun? Join us on Discord: [https://discord.gg/S8c7qcjw2b](https://discord.gg/S8c7qcjw2b)
 
-Check out the streams here: https://www.twitch.tv/sableraph
+Check out the streams here: [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
 # What are we talking about here?
-Check out this playlist of live code playing from all over the world
-https://openprocessing.org/curation/78544/slideshow
+Check out this playlist of live code playing from all over the world: 
+[https://openprocessing.org/curation/78544/slideshow](https://openprocessing.org/curation/78544/slideshow)
 
 # My Biz
 

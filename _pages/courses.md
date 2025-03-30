@@ -1,6 +1,7 @@
 ---
 permalink: /courses/
 title: "Courses"
+toc: true
 ---
 
 # Crash Course CAD - Onshape and Fusion
@@ -24,7 +25,7 @@ The course currently addresses the main big-ticket items in teacher admin:
     - Assessment Tasks
     - Risk Assessments and Excursion Applications
 
-Again, this course is free! We just need to collect registration data using this form: https://bit.ly/GeminiTeacherPD
+Again, this course is free! We just need to collect registration data using this form: [https://bit.ly/GeminiTeacherPD](https://bit.ly/GeminiTeacherPD)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O95dzpvoDxQ?si=f91yUXPNq3ERd7tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

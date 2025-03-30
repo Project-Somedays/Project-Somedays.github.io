@@ -1,9 +1,11 @@
 ---
 permalink: /3dprinting/
 title: "3D Printing Projects and Files"
+toc: true
 ---
 
 # My Rig
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6iIC-GlxI7Q?si=qDv8je8gieP5hbkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Designs
 ## Julius Caesar Knife Block

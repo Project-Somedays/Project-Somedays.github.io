@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 ---
 
 # Who am I?

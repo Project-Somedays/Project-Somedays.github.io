@@ -1,6 +1,7 @@
 ---
 permalink: /blender/
 title: "Create with Clint Render Challenges"
+toc: true
 ---
 # What are these Render Challenges?
 The [pwnisher](https://www.youtube.com/channel/UCWIfzAYHyNSyHmT2AO-54yg) has an incredible community of 3D artists from around the world that come together to learn, create and showcase their incredible talennts. I'm a complete novice in the world of VFX and, while I've spent a fair amount of time creative coding and 3D printing, the waters are VERY deep here.
@@ -20,4 +21,4 @@ Apart from a month-long thing twice a year, the community votes on a different p
 Join us on Discord - [Create with Clint](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbjdmcGhJb0JMM3BSc1dvc2JwMWdaT0VGdF9QUXxBQ3Jtc0trVGNmZ0FWSjZRcHFLb3h1M1pheUdfWWx6SnNsajJ1djJEQUx2YWI3bGg2YkVJU29oU05uS0VJZE1hVjJCTkh0dkZPV05aanItVE9TaXo4SDAxazdheC12OUdKanEwYU56R3RDT0xEbTN0ZFRscUYzWQ&q=https%3A%2F%2Fdiscord.gg%2FuqTcJDy)
 
 # My Blender Render Portfolio
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0GvmzhL6Do?si=0Mixnm5_eroBCeLN&amp;start=6424" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=i0FT0eVlN4MOCoIg&amp;list=PLFQlXhwnTBUH5xrEaxldpxePuZW2Wumyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
