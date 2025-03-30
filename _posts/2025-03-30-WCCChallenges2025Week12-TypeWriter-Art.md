@@ -10,13 +10,13 @@ tags:
 toc: true
 ---
 
-# Weekly Creative Coding Challenges 2025 - Week 13 - 'Typewriter Art'
-## Final Live Code
+# Final Live Code
 <iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
-## Final Result - Video
+# Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
 
+# Summary
 ## WCCChallenge Blurb
 
 | Biz             | Biz Biz                               |
@@ -63,9 +63,9 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - OBJ doesn't store the initial positional data
 - THREE.js is SO much more complex than p5js. Which I already knew, but I've worked in p5 for so long, I'd forgotten how many niceties is has. Like handling mouse presses etc.
 
-## 🪵Dev Log🪵
+# 🪵Dev Log🪵
 
-### 2025-03-29 Threejs exploded view
+## 2025-03-29 Threejs exploded view
   - Test: export a simple scene from Blender
     - Store initial positions
     - Calculate target positions
@@ -82,7 +82,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
   
   ![Typewriter Mockup](/assets/images//2025-03-30-WCCC-Basic-Mockup.png "Didn't really want this to become a modelling project...")
 
-### 2025-03-30 The Deadline approaches
+## 2025-03-30 The Deadline approaches
 
    - Quick tests with applying transforms or resetting... not quite what I'm after
    - Hooray! Generating random targets works great and is close enough to what I'm after
