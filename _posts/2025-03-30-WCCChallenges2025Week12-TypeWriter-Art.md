@@ -20,19 +20,19 @@ toc: true
 ## WCCChallenge Blurb
 
 | Biz             | Biz Biz                               |
-|:-----           | :-----                                |
+|:--------           | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
 | 📅 Started      | 2025-03-23, updated 2025-03-29        |
 | 📅 Completed    | 2025-03-23, updated 2025-03-30        |
-| 🕒 Taken 🕒    | 6hrs        |
-| 🤯 Concept     | Exploded views are neat        |
-| 🔎 Focus 🔍    | Manipulating GLTF Scenes. Might actually be handy for work RE documentation/instructions for constructing and maintaining STEM equipment        |
+| 🕒 Taken        | 6hrs                                  |
+| 🤯 Concept      | Exploded views are neat        |
+| 🔎 Focus        | Manipulating GLTF Scenes. Might actually be handy for work RE documentation/instructions for constructing and maintaining STEM equipment        |
 
 
-Made for Sableraph's weekly creative coding challenges, reviewed weekly on https://www.twitch.tv/sableraph
-See other submissions here: https://openprocessing.org/curation/78544
-Join The Birb's Nest Discord community! https://discord.gg/g5J6Ajx9Am
+Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
+See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
+Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
 ## Resources:
 - "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39)
@@ -71,7 +71,7 @@ Join The Birb's Nest Discord community! https://discord.gg/g5J6Ajx9Am
     - Calculate target positions
     - Do a cool swirly and lerp between exploded and assembled states
   
-  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png)
+  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png "If I've learned anything, it's start REALLY simple and build on solid ground")
   
   - Realise after a couple of hours that OBJ exports don't embed positional data
   - Switch to GLTF
@@ -80,14 +80,14 @@ Join The Birb's Nest Discord community! https://discord.gg/g5J6Ajx9Am
   - Easing functions are fun
   - Begin work on making my own in Blender
   
-  ![Typewriter Mockup](/assets/images//2025-03-30-WCCC-Basic-Mockup.png)
+  ![Typewriter Mockup](/assets/images//2025-03-30-WCCC-Basic-Mockup.png "Didn't really want this to become a modelling project...")
 
-  ### 2025-03-30 The Deadline approaches
+### 2025-03-30 The Deadline approaches
 
    - Quick tests with applying transforms or resetting... not quite what I'm after
    - Hooray! Generating random targets works great and is close enough to what I'm after
   
-  ![Test](/assets/images/2025-03-30_QuickTest.png)
-  ![Test](/assets/images/2025-03-30_QuickTestSuccess.png)
+  ![Test](/assets/images/2025-03-30_QuickTest.png "And THIS is why we test as we go.")
+  ![Test](/assets/images/2025-03-30_QuickTestSuccess.png "FaaaaaaTASTIC")
 
   - Get it to run in openProcessing --> involved declaring my initial setup in p5js setup. Good to know!
