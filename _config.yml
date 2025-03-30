@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/projectsomedays.bsky.social"
     - label: "OpenProcessing.org"
-      icon: "fab fa-fw fa-laptop-code"
+      icon: "fa-solid fa-laptop-code"
       url: "https://openprocessing.org/user/410675/"
 
 footer:
@@ -109,7 +109,7 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/projectsomedays.bsky.social"
     - label: "OpenProcessing.org"
-      icon: "fab fa-fw fa-laptop-code"
+      icon: "fa-solid fa-laptop-code"
       url: "https://openprocessing.org/user/410675/"
 
 defaults:
