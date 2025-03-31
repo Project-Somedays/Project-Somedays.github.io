@@ -22,7 +22,7 @@ toc: true
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
-| Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
+| Title           | WCCChallenge 2025 Week 123 - Typewriter Art|
 | 📅 Started      | 2025-03-23, updated 2025-03-29        |
 | 📅 Completed    | 2025-03-23, updated 2025-03-30        |
 | 🕒 Taken        | 6hrs                                  |
