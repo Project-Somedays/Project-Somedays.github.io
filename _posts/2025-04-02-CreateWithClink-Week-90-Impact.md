@@ -9,18 +9,18 @@ toc: true
 ---
 
 # Final Result - Video
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+[![Watch the video](https://img.youtube.com/vi/Xl7YNlMi67k/maxresdefault.jpg)](https://youtu.be/Xl7YNlMi67k)
 
 # Summary
 ## Blurb
-
+https://youtube.com/shorts/Xl7YNlMi67k
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | Create with Clint Weekly Challenge 90 - Impact |
 | 📅 Started      | 2025-04-02        |
-| 📅 Completed    |         |
-| 🕒 Taken        |                                   |
+| 📅 Completed    | 2025-04-5       |
+| 🕒 Taken        | 3.5hrs                                  |
 | 🤯 Concept      | Mufasa's death in the Lion King: core memory       |
 | 🔎 Focus        | Physics sims, cell fracture   |
 
@@ -32,6 +32,7 @@ toc: true
 - Glass breaking sound: [https://pixabay.com/sound-effects/breaking-glass-84819/](https://pixabay.com/sound-effects/breaking-glass-84819/)
 - Lion King Clip: [https://www.youtube.com/watch?v=mdypP_qOVI0&t=106s](https://www.youtube.com/watch?v=mdypP_qOVI0&t=106s)
 
+Started from scratch a couple of times
 
 ## Stretch Goals/Extension Ideas
 
@@ -54,7 +55,7 @@ toc: true
 - Played around scale... This was a mistake RE physics sims 😅
 - Got thoroughly confused why my simulations kept exploding. Or doing zero things.
 
-## 2025-04-05 Finishing before the deadline
+## 2025-04-05 Finishing before the deadline 🕒1.5hrs
 - Started from scratch
 - Final edit and transitions in Premier
 
