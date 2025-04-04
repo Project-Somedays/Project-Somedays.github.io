@@ -21,13 +21,17 @@ toc: true
 | 📅 Started      | 2025-04-02        |
 | 📅 Completed    |         |
 | 🕒 Taken        |                                   |
-| 🤯 Concept      | Atlas accidentally drops the world       |
-| 🔎 Focus        | Physics sims, cell fracture, fly-pov, multiple cameras    |
+| 🤯 Concept      | Mufasa's death in the Lion King: core memory       |
+| 🔎 Focus        | Physics sims, cell fracture   |
 
 ## Resources:
-- "Atlas holding the Earth" [https://skfb.ly/6nVZG](https://skfb.ly/6nVZG) by Wabbaboy is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - Excellent Cell Fracture Tutorial by Blender Made Easy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xdrz7icUvC4?si=nbuQG6mGM25nYc1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Heart Model: [https://www.printables.com/model/517516-low-poly-heart](https://www.printables.com/model/517516-low-poly-heart)
+- Glass breaking sound: [https://pixabay.com/sound-effects/breaking-glass-84819/](https://pixabay.com/sound-effects/breaking-glass-84819/)
+- Lion King Clip: [https://www.youtube.com/watch?v=mdypP_qOVI0&t=106s](https://www.youtube.com/watch?v=mdypP_qOVI0&t=106s)
+
 
 ## Stretch Goals/Extension Ideas
 
@@ -35,8 +39,7 @@ toc: true
 - [x] Sketch
 - [x] Globe Sim
 - [x] Globe cell fracture
-- [x] Learn about shapekeys
-- [ ] Setting: Grassy Knoll on Olympus?
+
 
 ## Things I've learned
 - Collections is how the physics sim knows which objects should interact
@@ -47,10 +50,12 @@ toc: true
 
 # 🪵Dev Log🪵
 
-## 2025-04-02 Frist Steps - Isolate skills 🕒2hrs
-- Sketch complete - Set out the basic shots I want
-- Found an Atlas model
+## 2025-04-02 First Steps - Isolate skills 🕒2hrs
 - Played around scale... This was a mistake RE physics sims 😅
 - Got thoroughly confused why my simulations kept exploding. Or doing zero things.
+
+## 2025-04-05 Finishing before the deadline
+- Started from scratch
+- Final edit and transitions in Premier
 
 
