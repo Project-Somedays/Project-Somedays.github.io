@@ -66,12 +66,14 @@ toc: true
 |  [x]    | 2      | Medium   | 150f     | 300f         |Tunnel to bathroom with cool twisty motion |
 |  [x]    | 3      | CU       | 5s/120f  |              |Astronaut in toilet front on --> Astronaut + Window --> Astronaut + Buttons. Looks from button to button and presses "Eject" |
 |  [ ]    | 4      | Wide       | 5s/120f  |              |Toilet module detaches |
-|  [ ]    | 5      | Medium Over shoulder       | 5s/120f  |              |Other astronaut watch him float away |
+|  [ ]    | 5      | Over shoulder       | 5s/120f  |              |Other astronaut watch him float away |
 |  [ ]    | 6      | CU       | 5s/120f  |              | Hands pressed up against the glass floating away|
 
 
 ## Things I've learned
 - Cloth sims: how good
+- Press 'm' to make markers in the timeline and then CTRL+B to bind the active camera to the marker
+- Press CTRL+Num 0 to set the selected camera to active
 
 
 # 🪵Dev Log🪵
