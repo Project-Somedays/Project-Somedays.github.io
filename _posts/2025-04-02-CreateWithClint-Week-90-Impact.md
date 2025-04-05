@@ -13,7 +13,7 @@ toc: true
 
 # Summary
 ## Blurb
-https://youtube.com/shorts/Xl7YNlMi67k
+
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
