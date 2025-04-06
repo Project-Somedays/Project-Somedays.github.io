@@ -96,13 +96,20 @@ toc: true
 
 # 🪵Dev Log🪵
 
-## 2025-04-02 First Steps - Story-boarding, gathering ref
+## 2025-04-02 First Steps - Story-boarding, gathering ref 🕒4hrs
 - Story-boarding:
 ![Storyboard part 1](/assets/images/2025-04-05-Lone_Storyboard_Page_1.jpg)
 ![Storyboard part 2](/assets/images/2025-04-05-Lone_Storyboard_Page_2.jpg)
 - Started learning cloth sims
 - TP and book test done!
 ![TP test](/assets/images/2025-04-05_Lone_ClothSimTest.png)
+
+## 2025-04-06 Finish blocking, music and sound effectsd 🕒2hrs
+- Finished block out
+- Established other cameras
+- Made little scenes for other astronauts
+- Made choices about the ending: sad, then reads Farside
+- Retimed for the music
 
 
 
