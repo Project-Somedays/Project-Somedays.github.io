@@ -54,8 +54,26 @@ toc: true
 - [x] Cloth sim toilet roll
 - [x] Floating book
 - [ ] Block out scenes
+  - [ ] Scene 1 - Wide
+  - [ ] Scene 2 - 
+  - [ ] Scene 3
+  - [ ] Scene 4
+- [ ] Buttons
+  - [ ] Block
+  - [ ] Texturing
+  - [ ] Button Press Animation
+  - [ ] Choosing hand
 - [ ] Model ISS
+  - [x] Basic Shape
+  - [x] Solar Panels
+  - [ ] Antennae
+  - [ ] Cargo biz? 
 - [ ] Model Tunnel to bathroom
+  - [x] Hallway Structure
+  - [ ] Laptops
+  - [ ] Cameras
+  - [ ] Cabling
+  - [ ] 
 - [ ] Model Bathroom
 - [ ] Model buttons
 - [ ] Rig Model
@@ -67,7 +85,7 @@ toc: true
 |  [x]    | 3      | CU       | 5s/120f  |              |Astronaut in toilet front on --> Astronaut + Window --> Astronaut + Buttons. Looks from button to button and presses "Eject" |
 |  [ ]    | 4      | Wide       | 5s/120f  |              |Toilet module detaches |
 |  [ ]    | 5      | Over shoulder       | 5s/120f  |              |Other astronaut watch him float away |
-|  [ ]    | 6      | CU       | 5s/120f  |              | Hands pressed up against the glass floating away|
+|  [ ]    | 6      | CU       | 5s/120f  |              | Looks Sad. Reads Farside.|
 
 
 ## Things I've learned
