@@ -54,6 +54,8 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 
 ## Things I've learned
 - mesh.geometry.attribute.position.array is a big old 1D array in Threejs of positional data that gets passed to the GPU if you call .needsUpdate = true
+- It's soooo worth it to make a new mini-project when you want to try out a new technique BEFORE you try and integrate it into a more complicated project
+- Reverse-Engineering: such a great way to learn and develop your own taste and sensibilities
 
 
 
@@ -72,4 +74,5 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
   - Adapted code from "What happened to my donut" to slightly distort each torus
   - Made the adapted code run with 4D noise given it will be used just once at setup
   - Added local rotation to each set of discs
-  - 
+  - Vibe coded a hole in a plane and positioned it as the frame
+![Vibe-coded distorted torus using Gemini](/assets/images/2025-04-06_WCCC_Zentangle_SteppingStoneMiniProject.png)
