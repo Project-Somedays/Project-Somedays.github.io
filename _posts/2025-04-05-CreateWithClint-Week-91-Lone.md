@@ -30,7 +30,7 @@ toc: true
 - This excellent Cloth Sim Tutorial by [Pixxo 3D](https://www.youtube.com/@PIXXO3D):
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/I82qy2nj1gU?si=J0_VnvivAYvAbd8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- This REALLY excellent rigging tutorial by [CGDive (Blender Rigging Tuts)(https://www.youtube.com/@CGDive)
+- This REALLY excellent rigging tutorial by [CGDive (Blender Rigging Tuts)](https://www.youtube.com/@CGDive)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVRka6XEQmY?si=e3JaicsOW8Osh-8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
