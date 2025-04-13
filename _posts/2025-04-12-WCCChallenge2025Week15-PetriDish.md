@@ -49,6 +49,8 @@ Each time we retarget the main cell:
 ## Resources:
 - [PetriDish Thing Image](https://www.freepik.com/free-photo/still-life-world-science-day-chemistry-composition_19334009.htm?log-in=google#fromView=keyword&page=1&position=0&uuid=07057ae8-3715-440f-a4ac-a8f7ccdcd6d6&query=Petri+Dish+Lab)
 - [Palette from coolors.co](https://coolors.co/palettes/popular/10%20colors)
+- [🎵 Tech Music (Science Technology Ambient Background Intro Theme) on Pixabay](MFCChttps://pixabay.com/music/beats-tech-music-science-technology-ambient-background-intro-theme-300452/)
+- [🔊Worm Movement, Universfield on Pixabay](https://pixabay.com/sound-effects/worm-movement-277577/)
 
 
 ## Stretch Goals/Extension Ideas
