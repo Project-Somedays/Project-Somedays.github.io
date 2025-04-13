@@ -35,6 +35,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 
 ## Resources:
 - Metamere's Sample Code for using Three.js in OpenProcessing: [https://openprocessing.org/sketch/2198844](https://openprocessing.org/sketch/2198844)
+- 🎵 ["Night Detective", Amaksi on Pixabay](https://pixabay.com/music/beats-night-detective-226857/)
 
 ## Stretch Goals/Extension Ideas
 - [ ] Adapt metamere's template to fix the window fit issue
