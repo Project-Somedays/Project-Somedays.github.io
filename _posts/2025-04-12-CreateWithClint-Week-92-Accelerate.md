@@ -72,3 +72,26 @@ toc: true
 
 ## 2025-04-13 🕒1hr
 - Set up soft body on a clown fish... Ok. I think we're getting somewhere... 😊
+
+## 2025-04-16 🕒1.5hr
+- Thought about making a short film about pneumatic tubes
+- Someone turns up the power and I could do a bunch of physics sims
+- Made this test render... WAY more moody than I was actually going for but  I like the setup
+
+![Note to self: make the lighting more corporate office-like](/assets/images/2025-04-14_TestRender.jpeg)
+
+## 2025-04-16 🕒1hr
+- Pivoting wildly... Thought about looking at Bloodhounds having their faces pulled back
+- Tried modelling a bloodhound. Gave up almost immediately 🤣
+- Went back to pneumatic tubes
+  - Learned about collection instances: CTRL+G to join parts together in a collection and then you can instance that collection 
+  - Was trying to follow-curve but having weird issues with scale? Maybe it's the things
+- Epiphany!
+  - What's doable? Original idea where we can have cars in a traffic jam... It's a ton of people with their heads out the windows of their cars. Lots of soft-body physics going on.
+  - A lady with a necklace
+  - An old guy with a stupidly long beard
+  - A proboscus monkey
+  - An elephant seal
+  - A tapir
+  - An elephant
+- Hooray! 
