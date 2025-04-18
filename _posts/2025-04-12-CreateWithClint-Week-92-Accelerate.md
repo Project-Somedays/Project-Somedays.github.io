@@ -19,11 +19,11 @@ toc: true
 | Author          | Project Somedays                      |
 | Title           | Create with Clint Weekly Challenge 92 - Accelerate|
 | 📅 Started      | 2025-04-12 12:00PM        |
-| 📅 Completed    | 2025-04-12 10:00       |
-| 🕒 Taken        | ??                                  |
-| 🖨️ Render       | ??                              |
-| 🤯 Concept      | Elephant Seal is stuck in jerky peak-hour traffic       |
-| 🔎 Focus        | Soft body sims   |
+| 📅 Completed    | 2025-04-18 17:00PM       |
+| 🕒 Taken        | 9.5hrs                                  |
+| 🖨️ Render       | 3hrs                              |
+| 🤯 Concept      | ~~Elephant Seal is stuck in jerky peak-hour traffic~~ ~~Pneumatic tube system gets turned up way too high~~ Physics Sim balls down ramps     |
+| 🔎 Focus        | ~~Soft body sims~~ ~~cell fracture~~ Physics sims   |
 | 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080
 
 ## Resources:
@@ -35,9 +35,14 @@ toc: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eggOO9CIyp4?si=iGckLiBACr6hs0FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- 🔊 [Rolling-24B by glitterglass (Freesound) on Pixabay](https://pixabay.com/sound-effects/rolling-24b-100544/)
+- 🔊 [marble rolling by jradcoolness (Freesound) ](https://pixabay.com/sound-effects/marble-rolling-83123/)
+- 🔊 [Ding 1 by greenvwbeetle (Freesound) on Pixabay](https://pixabay.com/sound-effects/ding-1-14705/)
+- 🔊 [Thud by Universfield on Pixabay](https://pixabay.com/sound-effects/thud-291047/)
+- [Wood War Tower model by MohamadS salari](https://www.blenderkit.com/asset-gallery-detail/0eadf6b9-03bf-43e9-9a0f-c6bbeac82f3d/)
 
 
-## TODO:
+## TODO: (COMPLETELY ABANDONED)
 - [ ] Learn about soft body sims
 - [ ] Do a quick monkey head jello test
 - [ ] Block out scene
@@ -58,9 +63,12 @@ toc: true
 |  ❌    | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
 
 ## Stretch Goals/Extension Ideas
+- Release mechanism
+- Bit more of a story to the release
 
 # Things I've learned
-
+- Probably better to try smaller, attainable projects 😅
+- Abandoning good ideas is fine if it means a faster iteration cycle
 
 
 # 🪵Dev Log🪵
@@ -94,4 +102,17 @@ toc: true
   - An elephant seal
   - A tapir
   - An elephant
-- Hooray! 
+- Hooray!
+
+## 2025-04-17  🕒1hr
+- Blocked out the scene
+- Used Transform Constraint to set equal and opposite direction using "extrapolate" to save a few keyframes
+- Found a little girl model with the ideal hair as my first model
+
+## 2025-04-18  🕒3hrs
+- Hmmm time to pivot to something ACTUALLY doable in the time available --> accelerating rocks down ramps
+- Found a cool tower
+- Made a profile --> bevel
+- Physics sim --> bake the physics sim from 
+- End block modelling with a pop-up sign on the frame where it hits
+- Sound effects editing in Premier
