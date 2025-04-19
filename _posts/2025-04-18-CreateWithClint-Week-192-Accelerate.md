@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Final Result - Video
-<!-- [![Watch the video](https://img.youtube.com/vi/33sSfidvtpo/maxresdefault.jpg)](https://youtu.be/33sSfidvtpo) -->
+[![Watch the video](https://img.youtube.com/vi/-bWgyifCxtU/maxresdefault.jpg)](https://youtu.be/-bWgyifCxtU)
 
 # Summary
 ## Blurb
