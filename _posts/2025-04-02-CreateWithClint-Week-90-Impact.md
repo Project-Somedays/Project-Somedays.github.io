@@ -42,7 +42,7 @@ Started from scratch a couple of times
 - [x] Globe cell fracture
 
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Collections is how the physics sim knows which objects should interact
 - Substeps per frame: 130, Solver interations: 40
 - If you start objects overlapping, everything freaks out

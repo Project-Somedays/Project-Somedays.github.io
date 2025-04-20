@@ -47,7 +47,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 ## TODO:
 - [ ] To do
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Item 1
 
 

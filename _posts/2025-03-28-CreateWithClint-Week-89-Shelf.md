@@ -52,7 +52,7 @@ music_for_video](https://pixabay.com/music/modern-classical-sad-21403/) on Pixab
 - [ ] ~~Dust motes? --> Job for another day~~
 - [x] Fix camera
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Mixamo would really bring this to life
 
 # 🪵Dev Log🪵

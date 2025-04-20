@@ -59,7 +59,7 @@ toc: true
 - [x] Subtle animation on goomba
 - [x] Better lighting on Goomba face --> side lighting?
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Always start with the block out
 - Wave modifiers
 - Hair particle system

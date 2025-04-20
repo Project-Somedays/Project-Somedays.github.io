@@ -67,7 +67,7 @@ toc: true
 - Release mechanism
 - Bit more of a story to the release
 
-# Things I've learned
+# 🎓Lessons Learned🎓
 - Probably better to try smaller, attainable projects 😅
 - Abandoning good ideas is fine if it means a faster iteration cycle
 

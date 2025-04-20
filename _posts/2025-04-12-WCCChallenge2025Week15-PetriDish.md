@@ -62,7 +62,7 @@ Each time we retarget the main cell:
 - [ ] Implement in 3D
 
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Tackling one problem at a time is ALWAYS the way to go: https://openprocessing.org/sketch/2612804
 
 # 🪵 Dev Log 🪵

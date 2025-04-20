@@ -55,7 +55,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [x] Vibe code the frame with a hole in it
 - [x] Call it a day
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - mesh.geometry.attribute.position.array is a big old 1D array in Threejs of positional data that gets passed to the GPU if you call .needsUpdate = true
 - It's soooo worth it to make a new mini-project when you want to try out a new technique BEFORE you try and integrate it into a more complicated project
 - Reverse-Engineering: such a great way to learn and develop your own taste and sensibilities

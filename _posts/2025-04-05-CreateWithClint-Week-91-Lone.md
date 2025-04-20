@@ -95,7 +95,7 @@ toc: true
 |  [x]    | 6      | CU       | 5s/120f  |              | Looks Falorn |
 
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - **Cloth sims**
   - how good (though none made it in the final thing)
 - **Timeline Biz**

@@ -88,7 +88,7 @@ So, pretty much like a REAL tutor 🤣
 - [x] Add abduction sound
 - [x] Add ambient spaceship sound
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - When you've baked the texture in blender, you need to make sure each material channel has an image texture node referencing the texture you're baking to
 - Make sure your uv unwrap has a bit of an island offset
 - How to add audio! Not too bad. Lots of boilerplate, but pretty straightforward. According to Gemini you can add positional sound in your scene. Three.js is NUTS.

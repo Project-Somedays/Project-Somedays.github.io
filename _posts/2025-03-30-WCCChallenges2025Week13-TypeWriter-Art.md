@@ -61,7 +61,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [x] lil-gui biz
 
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - OBJ doesn't store the initial positional data
 - THREE.js is SO much more complex than p5js. Which I already knew, but I've worked in p5 for so long, I'd forgotten how many niceties is has. Like handling mouse presses etc.
 

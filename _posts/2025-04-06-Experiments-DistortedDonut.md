@@ -48,7 +48,7 @@ toc: true
 - [x] Ask AI to help
 - [x] Lil-GUI controls
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Three.js stores the vertices in a 1D array which gets passed to the GPU
   ```
   const verticePositions = mesh.geometry.attributes.position;

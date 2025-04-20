@@ -41,7 +41,7 @@ toc: true
 - [x] Rig
 - [x] Light
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Edit Mode > Select > Select Random and then CTRL + to make the selection more blobby
 - God rays: the narrower the area light, the clearer the godrays
 - I need to work harder at understanding weight painting 😅

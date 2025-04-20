@@ -1,5 +1,5 @@
 ---
-title: "Create with Clint Weekly Challenge 90 - Impact"
+title: "Create with Clint Weekly Challenge 90 - Impact V1 - Abandoned"
 last_modified_at: 2025-04-02T16:20:02-05:00
 categories:
   - Blender Animations
@@ -17,7 +17,7 @@ toc: true
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
-| Title           | Create with Clint Weekly Challenge 90 - Impact |
+| Title           | Create with Clint Weekly Challenge 90 - Impact V1 - Abandoned |
 | 📅 Started      | 2025-04-02        |
 | 📅 Completed    |         |
 | 🕒 Taken        |                                   |
@@ -43,7 +43,7 @@ toc: true
 - [x] Learn about shapekeys
 - [ ] Setting: Grassy Knoll on Olympus?
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Collections is how the physics sim knows which objects should interact
 - Substeps per frame: 130, Solver interations: 40
 - If you start objects overlapping, everything freaks out

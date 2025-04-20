@@ -39,7 +39,7 @@ Join [the discord community!](https://discord.com/channels/673719770410909696/68
 - [x] Find model
 - [ ] Rig
 
-## Things I've learned
+## 🎓Lessons Learned🎓
 - Item 1
 
 

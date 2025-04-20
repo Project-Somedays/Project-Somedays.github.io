@@ -50,7 +50,7 @@ Using lil-gui to speed up my iteration time
  - [x] Lil-GUI controls
  - [x] Refinement 
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Open Simple Noise returns values between -1 and 1 🤯 Haha was scratching my head for a very long time trying to work out why I wasn't filtering out more blocks. Too used to Perlin noise.
 
 

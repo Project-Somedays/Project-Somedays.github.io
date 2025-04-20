@@ -39,7 +39,7 @@ toc: true
 - [ ] Clean wood
 - [ ] Offset all paths by 2.5mm
 
-## Things I've learned
+# 🎓Lessons Learned🎓
 - Item 1
 
 
