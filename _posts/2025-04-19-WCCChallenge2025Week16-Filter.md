@@ -1,6 +1,6 @@
 ---
-title: "Post Template"
-last_modified_at: 2025-04-019T16:20:02-05:00
+title: "WCCChallenge 2025 Week 16 - Filter"
+last_modified_at: 2025-04-20T16:20:02-05:00
 categories:
   - Coding
 tags:
@@ -22,17 +22,20 @@ toc: true
 | Biz             | Biz Biz                               |
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
-| Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
+| Title           | WCCChallenge 2025 Week 16 - Filter |
 | 📅 Started      | 2025-04-19, updated 2025-03-29        |
 | 📅 Completed    | 2025-03-23, updated 2025-03-30        |
-| 🕒 Taken        | ~6hrs                                  |
+| 🕒 Taken        | ~10hrs 😅 and it's REALLY not quite finished but I've well run out of time|
 | 🤯 Concept      | Quick! Abduct the ~~stretch sheep~~ Alpacas!        |
 | 🔎 Focus        | Working with InstanceMeshes to take full advantage of Three.js' WEBGL Performance      |
-
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
+
+Bit off more than I could chew with some very unfamiliar ground to cover but learned a LOT.
+Gemini was my tutor - I asked it lots of questions rather than relying on it to write my code - only half the time the tutor was getting it wrong... 
+So, pretty much like a REAL tutor 🤣 
 
 ## Resources:
 - [Low Poly Sheep by mohnely on BlenderKit](https://www.blenderkit.com/asset-gallery?query=category_subtree:mammal+sheep+order:_score)
@@ -40,11 +43,13 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [Sheep by PapercutterJohn (Freesound) on Pixabay](https://pixabay.com/sound-effects/sheep-23761/)
 - [abduction bass by phoenelai (Freesound) on Pixabay](https://pixabay.com/sound-effects/abduction-bass-78451/)
 - [Spaceship Ambient by BatuhanYldz (Freesound) on Pixabay](https://pixabay.com/sound-effects/spaceship-ambient-27988/)
+- [Abduction Single Bass by phoenelai (Freesound) on Pixabay](https://pixabay.com/sound-effects/abduction-single-bass-107937/)
 
 ## Stretch Goals/Extension Ideas
-- [ ] Swirl the parts around artistically with open simplex noise
-- [ ] Look at a bunch of different machines that would be cool to explode
-- [ ] Explode extent controls
+- [ ] Tilt the saucer when moving in any given direction
+- [ ] Make the controls MUCH smoother... basic physics probably so it's a bit tricky with overshooting
+- [ ] Make a safe zone to mark when alpacas have craftily escaped...
+- [ ] Different levels with faster sheep/alpacas
 
 ## TODO:
 ### Models
@@ -55,7 +60,11 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [x] Get a walk cycle sorted
 - [x] Import UFO
 - [x] Make it spin
-- [ ] Bake the UFO texture
+- [x] Bake the UFO texture
+
+### Code Structure/Biz
+- [x] Refactor so we can work with TWO instancedMeshes
+- [x] Work with Promises because loading
 
 ### Controls
 - [x] UFO Controls with arrow keys
@@ -64,7 +73,8 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 
 ### Gameplay
 - [x] Work out abduction reset
-- [ ] Replace some sheep with alpacas by setting the scale for those sheep to 0?
+- [x] Choose initial animals in positions by Math.random() < alpacaRatio
+- [ ] Update biz
 - [ ] Scoring
 - [ ] Display scoring?
 - [ ] Set up an end zone?
@@ -77,12 +87,12 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 ## Things I've learned
 - When you've baked the texture in blender, you need to make sure each material channel has an image texture node referencing the texture you're baking to
 - Make sure your uv unwrap has a bit of an island offset
-- How to add audio! Not too bad. Lots of boilerplate, but pretty straightforward. According to Gemini you can add positional sound in your scene. Three.js is NUTS. 
+- How to add audio! Not too bad. Lots of boilerplate, but pretty straightforward. According to Gemini you can add positional sound in your scene. Three.js is NUTS.
 
 
 # 🪵Dev Log🪵
 
-## 2025-04-19 One and done
+## 2025-04-19 Most of the build... (or so I thought)
   - Alpacas are just stretch sheep, right? 
   
   ![Blender biz](/assets/images/2025-04-19_StretchSheep.png "Seems legit 😅")
@@ -97,3 +107,12 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
   - Changed the starting perspective and checked the alpacas... Hooray!
 
   ![Stretch Sheep Success!](/assets/images/2025-04-19_AlpacaParty.jpg)
+
+
+## 2025-04-20 Refactoring and finishing
+- Quite a bit of refactoring to work with TWO instancedmeshes
+- Refactoring for promises
+- Worked out how to distribute the alpacas among the sheep
+- Worked out how to import the textures with the refactored code
+- Added a html element to track scoring
+- Added REALLY rudimentary scoring mechanic
