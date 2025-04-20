@@ -40,6 +40,7 @@ For cells as a whole
 3. Lerp to that interTarget and update again
 
 Cell are made up of perimeter points based on the location of the cell.
+
 Each time we retarget the main cell:
 
 4. So that the closest points move first, calculate a delay based on how a perimeter point is away from the target.

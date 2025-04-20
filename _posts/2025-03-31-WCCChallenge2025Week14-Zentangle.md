@@ -30,7 +30,9 @@ toc: true
 
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
+
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
+
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
 ## Resources:

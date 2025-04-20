@@ -24,7 +24,9 @@ toc: true
 | 🔎 Focus        | Rigging and Posing        |
 
 Created for the weekly Creat with Clint/pwnisher community
+
 Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher)
+
 Join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
 ## Resources:
