@@ -23,8 +23,8 @@ toc: true
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 16 - Filter |
-| 📅 Started      | 2025-04-19, updated 2025-03-29        |
-| 📅 Completed    | 2025-03-23, updated 2025-03-30        |
+| 📅 Started      | 2025-04-19        |
+| 📅 Completed    | 2025-04-20        |
 | 🕒 Taken        | ~10hrs 😅 and it's REALLY not quite finished but I've well run out of time|
 | 🤯 Concept      | Quick! Abduct the ~~stretch sheep~~ Alpacas!        |
 | 🔎 Focus        | Working with InstanceMeshes to take full advantage of Three.js' WEBGL Performance      |

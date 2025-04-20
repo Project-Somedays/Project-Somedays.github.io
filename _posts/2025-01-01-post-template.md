@@ -23,8 +23,8 @@ toc: true
 |:--------           | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
-| 📅 Started      | 2025-03-23, updated 2025-03-29        |
-| 📅 Completed    | 2025-03-23, updated 2025-03-30        |
+| 📅 Started      | 2025-03-23        |
+| 📅 Completed    | 2025-03-23        |
 | 🕒 Taken        | ~6hrs                                  |
 | 🤯 Concept      | Exploded views are neat        |
 | 🔎 Focus        | Manipulating GLTF Scenes. Might actually be handy for work RE documentation/instructions for constructing and maintaining STEM equipment        |
