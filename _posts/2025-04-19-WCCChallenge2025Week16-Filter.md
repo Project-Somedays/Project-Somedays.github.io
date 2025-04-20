@@ -30,11 +30,15 @@ toc: true
 | 🔎 Focus        | Working with InstanceMeshes to take full advantage of Three.js' WEBGL Performance      |
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
+
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
+
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
 Bit off more than I could chew with some very unfamiliar ground to cover but learned a LOT.
+
 Gemini was my tutor - I asked it lots of questions rather than relying on it to write my code - only half the time the tutor was getting it wrong... 
+
 So, pretty much like a REAL tutor 🤣 
 
 ## Resources:
