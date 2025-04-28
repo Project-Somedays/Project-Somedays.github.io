@@ -37,22 +37,22 @@ Basically, I'm looping over all the cubes and seeing if their 3D opensimplexnois
 
 Using lil-gui to speed up my iteration time
 
+## 🎓Lessons Learned🎓
+- Open Simple Noise returns values between -1 and 1 🤯 Haha was scratching my head for a very long time trying to work out why I wasn't filtering out more blocks. Too used to Perlin noise.
+
 ## Resources:
 - Sliders: lil-gui
 
 ## Stretch Goals/Extension Ideas
 - [ ] Implement as a shader
 - [ ] Learn ThreeJS shaders
+- [ ] Use InstancedMeshes instead = massive performance boost
 
 ## TODO:
  - [x] Make a column of a bunch boxes
  - [x] Set box visibility based on noise value over time
  - [x] Lil-GUI controls
  - [x] Refinement 
-
-# 🎓Lessons Learned🎓
-- Open Simple Noise returns values between -1 and 1 🤯 Haha was scratching my head for a very long time trying to work out why I wasn't filtering out more blocks. Too used to Perlin noise.
-
 
 # 🪵Dev Log🪵
 

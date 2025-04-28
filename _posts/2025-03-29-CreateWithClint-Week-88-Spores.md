@@ -21,10 +21,17 @@ toc: true
 | 📅 Started      | 2025-03-25        |
 | 📅 Completed    | 2025-03-30        |
 | 🕒 Taken        | ~10.5hrs          |
-| ⚒️🕒            | ~8hrs          |
+| Render🕒        | ~8hrs          |
 | 🤯 Concept      | Mario has been taken by the cordycepts       |
 | 🔎 Focus        | Subsurface scattering        |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
+## 🎓Lessons Learned🎓
+- Always always always start with the block out
+- Wave modifiers
+- Hair particle system
+- Subsurface scattering
+- I REALLY have to learn how to map Mixamo animations onto models
 
 ## Resources:
 - Mario Model: "Mario obj" [https://skfb.ly/6X8o8](https://skfb.ly/6X8o8) by MatiasH290 is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
@@ -58,13 +65,6 @@ toc: true
 - [x] ~~Torch beams?~~
 - [x] Subtle animation on goomba
 - [x] Better lighting on Goomba face --> side lighting?
-
-# 🎓Lessons Learned🎓
-- Always start with the block out
-- Wave modifiers
-- Hair particle system
-- Subsurface scattering
-- I REALLY have to learn how to map Mixamo animations onto models
 
 # 🪵Dev Log🪵
 ## 2025/03/25 🕒 0.5 hrs

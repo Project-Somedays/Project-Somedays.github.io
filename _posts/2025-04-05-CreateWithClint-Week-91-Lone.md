@@ -24,7 +24,31 @@ toc: true
 | 🖨️ Render       | 30hrs 😱                              |
 | 🤯 Concept      | ISS Astronaut accidentally ejects the toilet module       |
 | 🔎 Focus        | Cloth sim toilet roll, multiple cameras/shots   |
-| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+
+Created for the weekly Create with Clint/pwnisher community
+
+Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
+
+## 🎓Lessons Learned🎓
+- **Cloth sims**
+  - how good (though none made it in the final thing)
+- **Timeline Biz**
+  - Press 'm' to make markers in the timeline and then CTRL+B to bind the active camera to the marker
+  - Press CTRL+Num 0 to set the selected camera to active
+- **Weight Painting Biz**
+  - Weight Painting = determines how much a bone will influence a vertex
+  - Automatic weights struggles a bit with items like straps.
+  - Select a vertex in the group
+  - In Edit Mode, look at the influence data and set it to zero where it's being inappropriately controlled
+  - With that vertex active, CTRL+Numpad+ to increase selection and hit copy to sever the connections
+    - This is SO much easier than Weight painting where it's too easy to accidentally miss a vertex here and ther
+    - Getting into it is confusing. Select mesh THEN select rig so it's active THEN hit CTRL+TAB to bring up the Weight Painting menu 🤔
+- **Overall Workflow Biz**
+  - Blender slows down significantly on my current rig - I should do all my blocking in clay render mode THEN texture biz later
+  - Need a way to see the keyframes in audio in the Video Sequencer. I'll go digging. Or maybe I'm just supposed to use the Graph view
+  - Do lots of little test renders. Not only does it help with the feeling of progress, but it makes for handy socials content as you go.
+  - Render as you go - once signed off on a scene, render it for later editing. No need to save that until the end. Especially on my poor old PC 😅
 
 ## Resources:
 - This excellent Cloth Sim Tutorial by [Pixxo 3D](https://www.youtube.com/@PIXXO3D):
@@ -33,7 +57,6 @@ toc: true
 - This REALLY excellent rigging tutorial by [CGDive (Blender Rigging Tuts)](https://www.youtube.com/@CGDive)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVRka6XEQmY?si=e3JaicsOW8Osh-8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 - ["Astronut Character" by Adam Krhanek on Blenderkit](https://www.blenderkit.com/asset-gallery-detail/a9579835-2dfe-407b-add4-62facfa66c94/)
 - ["Model: Earth" by Matteo Pascale on Blenderkit](https://www.blenderkit.com/asset-gallery-detail/804a6541-e20d-4a0f-977c-47b8bd17164a/)
@@ -93,27 +116,6 @@ toc: true
 |  [x]    | 4      | Wide       | 5s/120f  |              |Toilet module detaches |
 |  [x]    | 5      | Over shoulder       | 5s/120f  |              |Other astronaut watch him float away |
 |  [x]    | 6      | CU       | 5s/120f  |              | Looks Falorn |
-
-
-# 🎓Lessons Learned🎓
-- **Cloth sims**
-  - how good (though none made it in the final thing)
-- **Timeline Biz**
-  - Press 'm' to make markers in the timeline and then CTRL+B to bind the active camera to the marker
-  - Press CTRL+Num 0 to set the selected camera to active
-- **Weight Painting Biz**
-  - Weight Painting = determines how much a bone will influence a vertex
-  - Automatic weights struggles a bit with items like straps.
-  - Select a vertex in the group
-  - In Edit Mode, look at the influence data and set it to zero where it's being inappropriately controlled
-  - With that vertex active, CTRL+Numpad+ to increase selection and hit copy to sever the connections
-    - This is SO much easier than Weight painting where it's too easy to accidentally miss a vertex here and ther
-    - Getting into it is confusing. Select mesh THEN select rig so it's active THEN hit CTRL+TAB to bring up the Weight Painting menu 🤔
-- **Overall Workflow Biz**
-  - Blender slows down significantly on my current rig - I should do all my blocking in clay render mode THEN texture biz later
-  - Need a way to see the keyframes in audio in the Video Sequencer. I'll go digging. Or maybe I'm just supposed to use the Graph view
-  - Do lots of little test renders. Not only does it help with the feeling of progress, but it makes for handy socials content as you go.
-  - Render as you go - once signed off on a scene, render it for later editing. No need to save that until the end. Especially on my poor old PC 😅
 
 
 # 🪵Dev Log🪵

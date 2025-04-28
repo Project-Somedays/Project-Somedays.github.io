@@ -19,9 +19,11 @@ toc: true
 | Title           | Create with Clint #193 - Temptation |
 | 📅 Started      | 2025-04-19  |
 | 📅 Completed    | 2025-03-23  |
-| 🕒 Taken        | ~                                  |
+| 🕒 Taken        | ~6hrs                                  |
+| Render 🕒       | ~12hrs |
 | 🤯 Concept      | Dog with shoulder angels contemplates eating burger |
 | 🔎 Focus        | Rigging and Posing        |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
 Created for the weekly Creat with Clint/pwnisher community
 
@@ -40,7 +42,7 @@ Join [the discord community!](https://discord.com/channels/673719770410909696/68
 - [ ] Rig
 
 ## 🎓Lessons Learned🎓
-- Item 1
+- I need to learn texture painting
 
 
 # 🪵Dev Log🪵

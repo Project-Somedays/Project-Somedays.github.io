@@ -1,17 +1,13 @@
 ---
-title: "Post Template"
-last_modified_at: 2025-03-30T16:20:02-05:00
+title: "Reverse Engineering Challenge - Kinetic Sculpture Blender Render"
+last_modified_at: 2025-04-28T16:20:02-05:00
 categories:
-  - Coding
-tags:
-  - ThreeJS
-  - WCCC
   - Blender
+tags:
+  - Blender
+  - Reverse-Engineering
 toc: true
 ---
-
-# Final Live Code
-<iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 # Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
@@ -28,6 +24,8 @@ toc: true
 | 🕒 Taken        | ~6hrs                                  |
 | 🤯 Concept      | Exploded views are neat        |
 | 🔎 Focus        | Manipulating GLTF Scenes. Might actually be handy for work RE documentation/instructions for constructing and maintaining STEM equipment        |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+
 
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)

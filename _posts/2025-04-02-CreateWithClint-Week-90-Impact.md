@@ -23,6 +23,13 @@ toc: true
 | 🕒 Taken        | 3.5hrs                                  |
 | 🤯 Concept      | Mufasa's death in the Lion King: core memory       |
 | 🔎 Focus        | Physics sims, cell fracture   |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+
+## 🎓Lessons Learned🎓
+- Collections is how the physics sim knows which objects should interact
+- Substeps per frame: 130, Solver interations: 40
+- If you start objects overlapping, everything freaks out
+- Convex hulls don't fit convex parts of 3D models very well
 
 ## Resources:
 - Excellent Cell Fracture Tutorial by Blender Made Easy
@@ -40,14 +47,6 @@ Started from scratch a couple of times
 - [x] Sketch
 - [x] Globe Sim
 - [x] Globe cell fracture
-
-
-# 🎓Lessons Learned🎓
-- Collections is how the physics sim knows which objects should interact
-- Substeps per frame: 130, Solver interations: 40
-- If you start objects overlapping, everything freaks out
-- Convex hulls don't fit convex parts of 3D models very well
-
 
 # 🪵Dev Log🪵
 

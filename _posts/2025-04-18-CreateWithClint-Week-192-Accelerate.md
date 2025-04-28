@@ -25,7 +25,13 @@ toc: true
 | 🖨️ Render       | 3hrs                              |
 | 🤯 Concept      | ~~Elephant Seal is stuck in jerky peak-hour traffic~~ ~~Pneumatic tube system gets turned up way too high~~ Physics Sim balls down ramps     |
 | 🔎 Focus        | ~~Soft body sims~~ ~~cell fracture~~ Physics sims   |
-| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+
+## 🎓Lessons Learned🎓
+- Probably better to try smaller, attainable projects 😅
+- Abandoning good ideas is fine if it means a faster iteration cycle
+- If you're wondering why your physics sims are going screwy, double-check you haven't accidentally used convex hull on your curved slide 😆
+- Rigid Body > Bake to keyframes
 
 ## Resources:
 - This excellent Soft Body Tutorial by [Lewis Animation](https://www.youtube.com/@lewisanimation):
@@ -42,7 +48,6 @@ toc: true
 - 🔊 [Thud by Universfield on Pixabay](https://pixabay.com/sound-effects/thud-291047/)
 - [Wood War Tower model by MohamadS salari](https://www.blenderkit.com/asset-gallery-detail/0eadf6b9-03bf-43e9-9a0f-c6bbeac82f3d/)
 
-
 ## TODO: (COMPLETELY ABANDONED)
 - [ ] Learn about soft body sims
 - [ ] Do a quick monkey head jello test
@@ -57,6 +62,8 @@ toc: true
   - [ ] Find a suitable cartoony
   - [ ] Start soft body sim before the render starts
 
+## Shot list
+
 |Complete | Shot   | Type     | Duration | Cumulative Frames | Description                    |
 | :----:  | :----: | :----:   | :----:   | :----        | :----:                              |
 |  ❌     | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
@@ -67,9 +74,6 @@ toc: true
 - Release mechanism
 - Bit more of a story to the release
 
-# 🎓Lessons Learned🎓
-- Probably better to try smaller, attainable projects 😅
-- Abandoning good ideas is fine if it means a faster iteration cycle
 
 
 # 🪵Dev Log🪵

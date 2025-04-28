@@ -20,13 +20,21 @@ toc: true
 | 📅 Started      | 2025-03-22        |
 | 📅 Completed    | 2025-03-24        |
 | 🕒 Taken        | ~6hrs          |
-| ⚒️🕒            | ~10hrs          |
+| Render🕒        | ~10hrs          |
 | 🤯 Concept      | Telling a father-and-son story of bonding over baseball before the untimely death of the son       |
 | 🔎 Focus        | Lighting and story-telling        |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+
+Created for the weekly Create with Clint/pwnisher community
+
+Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
 May have (importectly) followed a tutorial to get the baseball trophy but that's probably fine, right?
 
 Using Blenderkit materials and some models also. Modelled the trophies myself though 🏆
+
+## 🎓Lessons Learned🎓
+- Mixamo would really bring this to life
 
 ## Resources:
 - Images: [@ProjectSomedays - NightCafe](https://creator.nightcafe.studio/u/projectsomedays?ru=projectsomedays)
@@ -51,9 +59,6 @@ music_for_video](https://pixabay.com/music/modern-classical-sad-21403/) on Pixab
 - [x] God rays... except you can't see them 😅
 - [ ] ~~Dust motes? --> Job for another day~~
 - [x] Fix camera
-
-# 🎓Lessons Learned🎓
-- Mixamo would really bring this to life
 
 # 🪵Dev Log🪵
 ## 2025/03/23 🕒 4 hrs

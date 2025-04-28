@@ -36,6 +36,10 @@ See other submissions here: [https://openprocessing.org/curation/78544](https://
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
+## 🎓Lessons Learned🎓
+- OBJ doesn't store the initial positional data in ways that are easy to work with apparently??
+- THREE.js is SO much more complex than p5js. Which I already knew, but I've worked in p5 for so long, I'd forgotten how many niceties is has. Like handling mouse presses etc.
+
 ## Resources:
 - "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39)
 
@@ -60,10 +64,6 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [x] Ooft wrap some of it in p5js so it works in OpenProcessing
 - [x] lil-gui biz
 
-
-# 🎓Lessons Learned🎓
-- OBJ doesn't store the initial positional data
-- THREE.js is SO much more complex than p5js. Which I already knew, but I've worked in p5 for so long, I'd forgotten how many niceties is has. Like handling mouse presses etc.
 
 # 🪵Dev Log🪵
 

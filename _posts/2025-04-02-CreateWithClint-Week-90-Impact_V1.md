@@ -23,6 +23,7 @@ toc: true
 | 🕒 Taken        |                                   |
 | 🤯 Concept      | Atlas accidentally drops the world       |
 | 🔎 Focus        | Physics sims, cell fracture, fly-pov, multiple cameras    |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
 ## Resources:
 - "Atlas holding the Earth" [https://skfb.ly/6nVZG](https://skfb.ly/6nVZG) by Wabbaboy is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).

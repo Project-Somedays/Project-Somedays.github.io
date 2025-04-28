@@ -28,19 +28,19 @@ toc: true
 | 🤯 Concept      | Electrical Resistivity Tomography emulation for gas bubbles in a pipe        |
 | 🔎 Focus        | Vibe-coding and not taking too long 😆        |
 
-
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
-## Resources:
-- Claude.ai
-- [https://en.wikipedia.org/wiki/Electrical_resistivity_tomography](https://en.wikipedia.org/wiki/Electrical_resistivity_tomography)
-
-# 🎓Lessons Learned🎓
+## 🎓Lessons Learned🎓
 - Hooray! My old applied physics degree is finally coming in handy... 🤣 
 - Electrical restivity tomography is a pretty awesome technology for detecting the structure of biz from the electrical resistance between electrodes
 - Turns out it can be used for fluid analysis in pipes and not just geological surveys
 - I really like science-ish displays
+
+## Resources:
+- Claude.ai
+- [https://en.wikipedia.org/wiki/Electrical_resistivity_tomography](https://en.wikipedia.org/wiki/Electrical_resistivity_tomography)
+

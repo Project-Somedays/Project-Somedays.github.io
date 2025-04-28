@@ -28,6 +28,7 @@ toc: true
 | 🕒 Taken        | ~10hrs 😅 and it's REALLY not quite finished but I've well run out of time|
 | 🤯 Concept      | Quick! Abduct the ~~stretch sheep~~ Alpacas!        |
 | 🔎 Focus        | Working with InstanceMeshes to take full advantage of Three.js' WEBGL Performance      |
+| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
@@ -40,6 +41,11 @@ Bit off more than I could chew with some very unfamiliar ground to cover but lea
 Gemini was my tutor - I asked it lots of questions rather than relying on it to write my code - only half the time the tutor was getting it wrong... 
 
 So, pretty much like a REAL tutor 🤣 
+
+## 🎓Lessons Learned🎓
+- When you've baked the texture in blender, you need to make sure each material channel has an image texture node referencing the texture you're baking to
+- Make sure your uv unwrap has a bit of an island offset
+- How to add audio! Not too bad. Lots of boilerplate, but pretty straightforward. According to Gemini you can add positional sound in your scene. Three.js is NUTS.
 
 ## Resources:
 - [Low Poly Sheep by mohnely on BlenderKit](https://www.blenderkit.com/asset-gallery?query=category_subtree:mammal+sheep+order:_score)
@@ -87,12 +93,6 @@ So, pretty much like a REAL tutor 🤣
 - [x] Add ambient sheep audio
 - [x] Add abduction sound
 - [x] Add ambient spaceship sound
-
-# 🎓Lessons Learned🎓
-- When you've baked the texture in blender, you need to make sure each material channel has an image texture node referencing the texture you're baking to
-- Make sure your uv unwrap has a bit of an island offset
-- How to add audio! Not too bad. Lots of boilerplate, but pretty straightforward. According to Gemini you can add positional sound in your scene. Three.js is NUTS.
-
 
 # 🪵Dev Log🪵
 
