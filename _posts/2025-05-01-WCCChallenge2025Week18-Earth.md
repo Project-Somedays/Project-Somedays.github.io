@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Final Live Code
-<!-- <iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe> -->
+<iframe src="https://openprocessing.org/sketch/2634514/embed/?plusEmbedHash=be87330e&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 # Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
@@ -23,10 +23,10 @@ toc: true
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 18 - Earth |
 | 📅 Started      | 2025-05-01        |
-| 📅 Completed    | 2025-05-01        |
-| 🕒 Taken        | ~6hrs                                  |
+| 📅 Completed    | 2025-05-02        |
+| 🕒 Taken        | ~4hrs                                  |
 | 🤯 Concept      | A shattered voxel earth        |
-| 🔎 Focus        | InstancedMesh/ThreeJS implementation of a p5js project        |
+| 🔎 Focus        | InstancedMesh/ThreeJS implementation of a [Genuary p5js project](https://openprocessing.org/sketch/2500775)       |
 
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
@@ -71,9 +71,23 @@ const geometry = new THREE.BoxGeometry(voxelSize, voxelSize, voxelSize);
     voxelEarth.instanceMatrix.needsUpdate = true;
     voxelEarth.instanceColor.needsUpdate = true;
 ```
+- Optimisation 2: cutting out a TON of the calculations by pre-computing starting positions
 
-## Resources:
-- "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39)
+```
+ for(let x = 0; x < resolution; x++){
+        for(let y = 0; y < resolution; y++){
+            for(let z = 0; z < resolution; z++){
+                let position = new THREE.Vector3(-span/2 + x * voxelSize, -span/2 + y*voxelSize, -span/2 + z*voxelSize);
+                let normD = Math.sqrt(position.x**2 + position.y**2 + position.z**2)/(span/2);
+                if(isOutsideBounds(normD)) continue;
+                startingPositions.push({p: position.clone(), col: getInstanceColor(normD), d: normD});
+            }
+        }
+    }
+```
+
+<!-- ## Resources:
+- "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39) -->
 
 ## Stretch Goals/Extension Ideas
 - [ ] Meteor strike 😲
@@ -88,7 +102,8 @@ const geometry = new THREE.BoxGeometry(voxelSize, voxelSize, voxelSize);
 - [x] Set noiseZoom differently for the clouds
 - [x] Find the relevant ranges for biz
 - [x] Optimise - ignore voxels that are outside our bounds
-- [ ] Optimise - use a lookup table rather than calculating normD over and over again - we really only need to do this once
+- [x] Optimise - use a lookup table rather than calculating normD over and over again - we really only need to do this once
+- [x] Smooth-step the transitions
 
 
 # 🪵Dev Log🪵
@@ -111,3 +126,8 @@ const geometry = new THREE.BoxGeometry(voxelSize, voxelSize, voxelSize);
 ![Closer still](/assets/images/2025-05-01_VoxelEarth3.png "THAT's more  like it")
 
 ![Even closer still!](/assets/images/2025-05-01_VoxelEarth4.png "Still looking for perfomance boosts...")
+
+## 2025-05-02 21:00 - 21:30 🕒1hr
+- GREAT performance boost by a) cutting out calculating positions every time and b) droppin ginstances that are scaled to zero anyway.
+
+![Hooray! I think I'm done here!](/assets/images/2025-05-01_VoxelEarth5.png "Clouds are pleasingly fluffy")
