@@ -23,7 +23,7 @@ toc: true
 | Render🕒        | ~10hrs          |
 | 🤯 Concept      | What's the story?        |
 | 🔎 Focus        | What's the technical focus?       |
-| 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
+| 🖥️Rig Deets     | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
 
 Created for the weekly Create with Clint/pwnisher community
 
@@ -39,6 +39,14 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - [ ] Swirl the parts around artistically with open simplex noise
 - [ ] Look at a bunch of different machines that would be cool to explode
 - [ ] Explode extent controls
+
+## 🎥Shot list🎥
+
+|Complete | Shot   | Type     | Duration | Cumulative Frames | Description                    |
+| :----:  | :----: | :----:   | :----:   | :----        | :----:                              |
+|  ❌     | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
+|  ❌     | 2      | Medium     | 150f     | 150f       |Elephant seal lurching forward and stopping quickly |
+|  ❌    | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
 
 ## TODO:
 - [ ] To do
