@@ -30,7 +30,13 @@ Created for the weekly Create with Clint/pwnisher community
 Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
 ## 🎓Lessons Learned🎓
-- Item 1
+- Rigging and Weight Painting:
+  - For harder to reach places, much better technique is to select a vertex and then SHIFT + expand the selection and copy the weight
+  - When you parent with automatic weights, Blender attempts to assign vertex groups to bones
+  - When weight painting, you can select the current bone you're interested in at the top of the screen
+
+![Selecting the current bone top of screen in weight paint mode](/assets/images/2025-05-05_Chop_SelectingWeightPaint.png "Took me WAY too long to find this")
+
 
 ## Resources:
 - ["Junk Wheel" model by Rex Hans on BlenderKit](https://www.blenderkit.com/asset-gallery-detail/16c92522-68f7-4a86-acea-de5ab230e70c/)
@@ -61,7 +67,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 ### Modelling
 - [x] Rough version of the Lumberjack Chop Bot
 - [x] Texturing
-- [ ] Refinement
+- [x] Refinement
 
 ### Animation - Chop Bot
 
@@ -69,8 +75,8 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - [x] Rotation on the wheel
 - [x] Set up eye movement
 - [x] Constrain the top half to match the rotation of the pivotControl
-- [ ] Rig the arms
-- [ ] Chop cycle
+- [x] Rig the arms
+- [x] Chop cycle
 
 ### Animation - Tree Fall
 - [ ] Simulate tree falling over --> keyframes
@@ -96,3 +102,10 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
   - Maybe it's all a bit fast? Can slow everything down later
 
 ![A network of parents](/assets/images/2025-05-04_LotsOfParents.png "Hmmm I wonder how people usually manage a network of parents like this...")
+
+## 2025-05-05 Arm rigging a d animation 19:20 - 22:00 🕒 2hrs40m 
+- Learned a lot about rigging, vertex groups and weight painting. Namely, the many way you shouldn't do it and that internal faces are SUPER annoying
+- Eventually got the weight painting right
+- Got a basic 2 stage chop animation aaand stuffed it up again... but it's not so bad
+
+![Weight Paintint demo](/assets/images/2025-05-05_Chop_WeightPaintingNotMyFave.png)

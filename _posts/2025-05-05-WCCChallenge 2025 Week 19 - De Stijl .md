@@ -1,5 +1,5 @@
 ---
-title: "WCCChallenge 2025 Week 19 - De Stijl"
+title: "[WIP] WCCChallenge 2025 Week 19 - De Stijl"
 last_modified_at: 2025-05-05T16:20:02-05:00
 categories:
   - Coding
