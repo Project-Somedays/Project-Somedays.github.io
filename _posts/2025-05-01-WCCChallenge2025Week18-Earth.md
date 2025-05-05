@@ -35,8 +35,14 @@ See other submissions here: [https://openprocessing.org/curation/78544](https://
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
+## Resources
+- ["Inspiring Cinematic Ambient" by Clavier-Music on Pixabay](https://pixabay.com/music/electronic-inspiring-cinematic-ambient-255033/)
+
+
 ## 🎓Lessons Learned🎓
 - Using that dummy object to set up my biz
+
+
 
 ```
 const geometry = new THREE.BoxGeometry(voxelSize, voxelSize, voxelSize);
