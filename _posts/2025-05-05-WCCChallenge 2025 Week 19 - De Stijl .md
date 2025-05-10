@@ -11,7 +11,7 @@ toc: true
 ---
 
 <!-- # Final Live Code -->
-<!-- <iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe> -->
+<iframe src="https://openprocessing.org/sketch/2643165/embed/?plusEmbedHash=04524ee8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 <!-- # Final Result - Video -->
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
@@ -24,12 +24,14 @@ toc: true
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 19 - De Stijl |
 | 📅 Started      | 2025-05-05        |
-| 📅 Completed    |         |
-| 🕒 Taken        | ~6hrs                                  |
+| 📅 Completed    | 20250-05-10        |
+| 🕒 Taken        | ~3hrs                                  |
 | 🤯 Concept      | What's the story?        |
 | 🔎 Focus        | Partitions and scaling by custom points    |
 
 Started in 3D then realised I'd bitten off more than I could chew and switched back to sweet sweet familiar ground: p5js 🥰
+(Mostly) Worked out an algorithm for partitioning the grid by exluding potential starter corner points
+Hope the warp doesn't give you as much sea-sickness as it does me 😅
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
@@ -54,6 +56,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [ ] Encapsulate the scaling and debugging in a class?
 - [ ] Dynamically set the strokeweight
 - [ ] Fix the final overlap problem
+- [ ] Sliders?
 
 
 # 🪵Dev Log🪵
