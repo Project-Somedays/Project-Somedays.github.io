@@ -29,6 +29,7 @@ toc: true
 | 🤯 Concept      | What's the story?        |
 | 🔎 Focus        | Partitions and scaling by custom points    |
 
+Started in 3D then realised I'd bitten off more than I could chew and switched back to sweet sweet familiar ground: p5js 🥰
 
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
@@ -51,6 +52,8 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - [ ] Function to scale from a pivot point in one dimension at a time
 - [ ] Move pivot points around to the corners and to midpoints along edges
 - [ ] Encapsulate the scaling and debugging in a class?
+- [ ] Dynamically set the strokeweight
+- [ ] Fix the final overlap problem
 
 
 # 🪵Dev Log🪵
@@ -79,6 +82,25 @@ function scaleFromPt(body, origin, pivot, scl, showCornerMarker){
     const translation = new THREE.Vector3().copy(pivot).multiplyScalar(1 - scl);
     cube.position.copy(origin).add(translation);
 }
-  ```
+```
 
   ![Isolate one step at a time](/assets/images/2025-05-05_WCCChallenge2025Wk19_Step1.png "Using Gemini to TEACH me, rather than blindly following it")
+
+## 2025-05-09 Pivoting to the 2D version for doability 🕒2hr
+- Started with just a grid
+
+![Biz](/assets/images/2025-05-10_DuStijl_Start.png)
+
+- Looping through and deciding if it's a 1 or 2 step in the x and y and, if so, excluding those points in future
+
+![Biz2](/assets/images/2025-05-10_deStijl_Hmmm.png)
+
+- Hmmm a lot of overlap I'm seeing... must be missing excluding some points...
+
+![Biz3](/assets/images/2025-05-10_deStijl_Fixed.png)
+
+- Aha! It was the middle point in cases of step 2 in the x and y! 
+- Also, changing it so that it ends at the bounds
+- Also shifting it with translate to centre on the canvas
+
+![Biz4](/assets/images/2025-05-10_deStijl_BoundProblems.png)

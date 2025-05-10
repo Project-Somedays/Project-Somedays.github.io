@@ -37,21 +37,25 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
 ![Selecting the current bone top of screen in weight paint mode](/assets/images/2025-05-05_Chop_SelectingWeightPaint.png "Took me WAY too long to find this")
 
-
 ## Resources:
 - ["Junk Wheel" model by Rex Hans on BlenderKit](https://www.blenderkit.com/asset-gallery-detail/16c92522-68f7-4a86-acea-de5ab230e70c/)
 - ["Lumberjack Flannel" material by NK Productions on BlenderKit](https://www.blenderkit.com/asset-gallery-detail/116973d9-ca12-439b-9200-f114d59d067e/)
 - Axe Model from BlenderKit
+- ["Pine Tree" by Benham Nekooei on BlenderKit](https://www.blenderkit.com/asset-gallery-detail/e440b3e9-adbd-45c6-bf81-82b9c32df2cf/)
+- **Sounds**
+  - ["Chopping a tree with hatchet in a forest (far away)" by CaganCelik (Freesound)](https://pixabay.com/sound-effects/chopping-a-tree-with-hatchet-in-a-forest-far-away-54150/)
+  - ["Timber Tree Falling 1" by matt_beer (Freeosound)](https://pixabay.com/sound-effects/timber-tree-falling-1-40384/)
+  - ["Servo noises" by peridactyloptrix (Freesound) on Pixabay](https://pixabay.com/sound-effects/servo-noises-55301/)
 
 ## Stretch Goals/Extension Ideas
-- [ ] Constrain the rotation of the wheel with distance travelled?
+- [x] Constrain the rotation of the wheel with distance travelled?
 
 ## TODO:
 ### Scenework
 - [x] Layout Basic Scene
 - [x] Background
-- [ ] Sound design
-- [ ] Looping background?
+- [x] Sound design
+- ~~[ ] Looping background?~~
 
 ### Camera Biz
 - [x] Set up vertical camera
@@ -79,7 +83,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - [x] Chop cycle
 
 ### Animation - Tree Fall
-- [ ] Simulate tree falling over --> keyframes
+- [x] Simulate tree falling over --> keyframes with bounce: worked great!
 
 
 # 🪵Dev Log🪵
@@ -109,3 +113,28 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - Got a basic 2 stage chop animation aaand stuffed it up again... but it's not so bad
 
 ![Weight Paintint demo](/assets/images/2025-05-05_Chop_WeightPaintingNotMyFave.png)
+
+## 2025-05-09 The final push 🕒 3hrs
+- Fixed animation
+- Duplicated animated arms and adjusted angles to avoid self-intersections a little
+
+![Chop Bot upgrade](/assets/images/2025-05-09_LumberBotUpgrade.png "He makes me happy 🥰")
+
+
+- Offset the animation by 2 frames in this pattern: TR, ML, MR, BL, BR, TL
+- Chop Bot was clipping through the log so moved the second tree over
+- Found a cool tree
+
+![Tree](/assets/images/2025-05-09_TreeModel.png "Kitbashing is tricky to match styles")
+
+![Tree 2](/assets/images/2025-05-09_TreeTexturing.png "Booleans did weird things to my textures when applied. Don't apply in future??")
+
+- Spent a while learning all the ways NOT to get a slice of it in the middle
+- Cell fracture the target puck and apply rigid body physics to it
+- Applied physics to the axes (not sure that was super necessary)
+- Hid the transition behind the body of Chop Bot
+- Added in sound effects
+- Sorted render settings
+
+![Final Scene](/assets/images/2025-05-09_ChopBotFinalClayView.png)
+
