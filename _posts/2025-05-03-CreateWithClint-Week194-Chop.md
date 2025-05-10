@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Create with Clint Weekly Challenge #194: Chop"
+title: "Create with Clint Weekly Challenge #194: Chop"
 last_modified_at: 2025-05-03T16:20:02-05:00
 categories:
   - Blender Biz

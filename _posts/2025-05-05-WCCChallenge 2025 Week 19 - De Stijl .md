@@ -1,5 +1,5 @@
 ---
-title: "[WIP] WCCChallenge 2025 Week 19 - De Stijl"
+title: "WCCChallenge 2025 Week 19 - De Stijl"
 last_modified_at: 2025-05-05T16:20:02-05:00
 categories:
   - Coding
@@ -38,14 +38,6 @@ Made for Sableraph's weekly creative coding challenges, reviewed weekly on [http
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
-
-## 🎓Lessons Learned🎓
-- Item 1
-
-## Resources:
-
-
-## Stretch Goals/Extension Ideas
 
 
 ## TODO:
