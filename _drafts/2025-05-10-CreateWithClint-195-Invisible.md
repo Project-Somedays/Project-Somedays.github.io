@@ -1,6 +1,6 @@
 ---
-title: "Post Template"
-last_modified_at: 2025-03-30T16:20:02-05:00
+title: "Create With Clint Weekly Challenge 195 - Invisible"
+last_modified_at: 2025-05-10T16:20:02-05:00
 categories:
   - Blender Biz
 tags:
@@ -17,12 +17,12 @@ toc: true
 |:--------        | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
-| 📅 Started      | 2025-03-23        |
-| 📅 Completed    | 2025-03-23        |
-| 🕒 Taken        | ~6hrs                                  |
-| Render🕒        | ~10hrs          |
-| 🤯 Concept      | What's the story?        |
-| 🔎 Focus        | What's the technical focus?       |
+| 📅 Started      | 2025-05-10       |
+| 📅 Completed    |         |
+| 🕒 Taken        |                                  |
+| Render🕒        |          |
+| 🤯 Concept      | Cyberdude being held up by invisi-troopers highlighted by the rain  |
+| 🔎 Focus        | Particle + Rigid Body Sim       |
 | 🖥️Rig Deets     | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
 
 Created for the weekly Create with Clint/pwnisher community
@@ -40,20 +40,20 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - [ ] Look at a bunch of different machines that would be cool to explode
 - [ ] Explode extent controls
 
-## 🎥Shot list🎥
-
-|Complete | Shot   | Type     | Duration | Cumulative Frames | Description                    |
-| :----:  | :----: | :----:   | :----:   | :----        | :----:                              |
-|  ❌     | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
-|  ❌     | 2      | Medium     | 150f     | 150f       |Elephant seal lurching forward and stopping quickly |
-|  ❌    | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
-
 ## TODO:
-- [ ] To do
-
+- [x] Test - setting up the particle system
+- [x] Initial blockout
+- [x] Texture Ground
+- [x] Texture Walls
+- [x] Set up atmospheric fog
+- [ ] Super trooper model
+- [ ] Cyber model
+- [ ] Posing everyone
+- [ ] Rain
 
 # 🪵Dev Log🪵
 
-## 2025-03-29 Threejs exploded view
-  - Item 1  
-  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png "If I've learned anything, it's start REALLY simple and build on solid ground")
+## 2025-05-10 10:00 - 10:30AM 🕒0.5hrs
+   - Test to set up the particle physics and collisions
+  
+  ![Basic test](/assets/images/2025-05-10_CreateWithClint195_Test.png "If I've learned anything, it's start REALLY simple and build on solid ground")
