@@ -9,7 +9,8 @@ toc: true
 ---
 
 # The Final Result
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Dp1ggOsia3o?si=l8cbwiBZlWnO6yl_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Summary
 
@@ -21,7 +22,7 @@ toc: true
 | 📅 Completed    |         |
 | 🕒 Taken        | 
 | Render🕒        |           |
-| 🤯 Concept      | What's the story?        |
+| 🤯 Concept      | Robot Chef controlled by Techno Rat        |
 | 🔎 Focus        | What's the technical focus?       |
 | 🖥️Rig Deets     | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
 
@@ -33,7 +34,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - Item 1
 
 ## Resources:
-- "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39)
+- ["Street Rat" by Sean Buckley](https://www.blenderkit.com/asset-gallery-detail/ae9d4911-9372-468f-a095-71c21f383c9c/)
 
 ## Stretch Goals/Extension Ideas
 - [ ] Swirl the parts around artistically with open simplex noise

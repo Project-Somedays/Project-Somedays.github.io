@@ -32,12 +32,14 @@ Created for the weekly Create with Clint/pwnisher community
 Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
 ## 🎓Lessons Learned🎓
-- Item 1
+- So fluid sims are CRAZY cool
+- Resolution effectively sets the viscosity
+- There are so many excellent presets out there!
 
 ## Resources:
 - INCREDIBLY helpful tutorial by [MTR Animation](https://www.youtube.com/@mtranimation)
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ws0PgEkgUZs?si=abrWdfVdR6iwqp94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ws0PgEkgUZs?si=abrWdfVdR6iwqp94&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Sounds
   - Predator Sound
@@ -70,7 +72,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 ## 2025-05-14 8:00 - 10:00 🕒2hrs
  - Test out fluid sims
   
-  <iframe width="315" height="560" src="https://www.youtube.com/embed/9Y8lIwY-v9I?si=REgaPxHqX2yPZ2BW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/9Y8lIwY-v9I?si=REgaPxHqX2yPZ2BW&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   
 
