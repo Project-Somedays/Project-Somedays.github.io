@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Final Live Code
-<!-- <iframe src="https://openprocessing.org/sketch/2596343/embed/?plusEmbedHash=898e24b8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe> -->
+<iframe src="https://openprocessing.org/sketch/2658689/embed/?plusEmbedHash=9a60bf79&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
 
 # Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
@@ -36,8 +36,11 @@ See other submissions here: [https://openprocessing.org/curation/78544](https://
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
+## 🎯Stretch Goals🎯:
+- Make the cube actually move with the mouse so the user can jostle it about
+
 ## 🎓Lessons Learned🎓
-- Cannon.js is just like all the other physics engines I've tried... Hooray!
+- Cannon.js is pretty much just like all the other physics engines I've tried... Hooray! You just have to add objects into the world and tell the world to update each cycle and then set your visuals by its corresponding physics sim object 🥰
 
 # 🪵Dev Log🪵
 
