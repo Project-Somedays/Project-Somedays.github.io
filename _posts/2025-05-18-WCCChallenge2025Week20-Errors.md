@@ -11,7 +11,7 @@ toc: true
 ---
 
 # Final Live Code
-<iframe src="https://openprocessing.org/sketch/2652072/embed/?plusEmbedHash=b8644ff8&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
+<iframe src="https://openprocessing.org/sketch/2652072/embed/?plusEmbedHash=b8644ff8&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 <!-- # Final Result - Video -->
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) --> -->

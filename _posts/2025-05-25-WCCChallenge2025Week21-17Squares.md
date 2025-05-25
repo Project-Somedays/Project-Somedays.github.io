@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Final Live Code
-<iframe src="https://openprocessing.org/sketch/2658689/embed/?plusEmbedHash=9a60bf79&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
+<iframe src="https://openprocessing.org/sketch/2658689/embed/?plusEmbedHash=9a60bf79&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
 
 # Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
