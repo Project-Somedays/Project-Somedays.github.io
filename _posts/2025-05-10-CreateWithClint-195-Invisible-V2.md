@@ -22,8 +22,7 @@ toc: true
 | 📅 Completed    | 2025-05-16        |
 | 🕒 Taken        |  6hrs                                |
 | Render🕒        |  1hr        |
-| 🤯 Concept      | Business Predator standing at a bus stop gets splashed by car going by
-  |
+| 🤯 Concept      | Business Predator standing at a bus stop gets splashed by car going by |
 | 🔎 Focus        | Fluid Sim      |
 | 🖥️Rig Deets     | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
 

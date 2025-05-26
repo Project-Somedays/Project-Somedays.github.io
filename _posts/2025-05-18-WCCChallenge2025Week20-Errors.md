@@ -24,7 +24,7 @@ toc: true
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 20 - Errors |
 | 📅 Started      | 2025-05-18        |
-| 📅 Completed    | 2025-05-18        |
+| 📅 Completed    | 2025-05-26        |
 | 🕒 Taken        | ~4hrs                                  |
 | 🤯 Concept      | Opening Pandora's Box of Computer Errors        |
 | 🔎 Focus        | Importing and playing animations from Blender 🤯        |
@@ -36,14 +36,60 @@ See other submissions here: [https://openprocessing.org/curation/78544](https://
 
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
-Massively run out of time for the challenge, but I think I'll make the effort to finish this one off:
-
-1. Opening Pandora's Box will FLOOD out a massive spiral of spinning wheels of death
-2. Loads more cultists - ran into a heap of troubles duplicating the cultists with their animations. More learning necesssary.
-
 ## 🎓Lessons Learned🎓
 - Didn't know that GLB or GLTF files can embed animations! Gamechanger.
 - Multiple animations can be embedded in the same file = how games work! This all makes SOOO much sense.
+- Animations are stored at the gltf level, not in the gltf.scene
+- **Loading Multiple Animations**
+  - The first thing to know is that each animation needs its own AnimationMixer
+
+```
+function loadCultists(){
+    for(let i = 0; i < cultistCount; i++){
+        gltfLoader.load('Cultist_Animated.glb', (gltf) => {
+            const cultist = gltf.scene;
+            cultist.position.x = -cultistCount + 2*i; // positioning code goes here
+            scene.add(cultist); // put them in the scene
+            const animMixer = new THREE.AnimationMixer(cultist); // chuck in the model
+            const animation = gltf.animations[0]; // load up the animation from the root level, NOT the scene (which confused me for the longest time)
+            const action = animMixer.clipAction(animation);
+            action.time = gltf.animations[0].duration * i / cultistCount; // offset to stagger them
+            action.play(); // by default, I guess it loops?
+            mixers.push(animMixer);
+        });
+    }
+}
+```
+  - In the animation loop, we just iterate over the mixers and tell them to update
+
+```
+if(mixers && mixers.length > 0){
+        for(let mixer of mixers){
+            mixer.update(deltaT);
+        } 
+    }
+```
+
+  - What is this deltaT? 
+
+```
+const clock = new THREE.Clock() // initiated at the top
+let deltaT = clock.getDelta();
+// if(mixers) etc...
+```
+
+  - How is this different to how we might do it in p5js land? I asked Gemini to help out
+>We use clock.getDelta() for updating AnimationMixers because animation is all about advancing time consistently, frame by frame.
+>
+>Here's why getDelta() is the perfect fit:
+>
+>**Frame Rate Independence:** Games and real-time applications run at varying frame rates. If you have a super-fast computer, it might render 120 frames per second (fps). A slower computer might only manage 30 fps. If you simply advanced an animation by a fixed amount per frame, it would play much faster on the fast computer than on the slow one. getDelta() provides the actual time elapsed since the last frame, allowing you to advance the animation by a proportional amount, making it play at the same speed regardless of the frame rate.
+>
+>**Smooth, Continuous Motion:** AnimationMixer.update() expects a deltaTime argument, which is precisely this "time elapsed since the last update." It uses this value to calculate how far each animation should progress for the current frame. By continuously feeding it the delta value, you ensure the animation plays smoothly and at a consistent speed.
+>
+>**Accurate Time Tracking:** getDelta() not only gives you the time passed, but it also resets its internal timer for the next frame. This ensures that each delta value is accurate for the period between the current and the previous frame. If you used getElapsedTime(), which just gives the total time since the clock started, you'd constantly be giving the mixer a larger and larger number, which isn't what it needs for incremental updates.
+>
+>In essence, getDelta() is like giving the AnimationMixer a precise, tiny instruction for how much time has passed since its last instruction, allowing it to move the animation forward exactly as much as needed for that specific frame to maintain a consistent playback speed."
 
 
 ## Resources:
@@ -139,7 +185,7 @@ if (wheel && wheelStart && wheelEnd) {
 - Chucked in a basic floor texture and had to call it day
 ![The submitted scene](/assets/images/2025-05-18_WCCChallenge2025Wk20_Errors_FirstPass.png)
 
-## 2025-05-19 Finishing touches
+## 2025-05-19 Finishing touches... or so I thought 😅
 - Fixed a weight painting issue where the keys on the monitor face were being left behind because they weren't influenced by the head bone 🤕
 - Used alphaMap to introduce a drop-off to the floor texture
 ![alphaMap](/assets/images/2025-05-19_WCCChallenge2025Wk20_Errors_Fix01_AlphaMap.png)
@@ -161,5 +207,21 @@ floor.rotation.x = -Math.PI/2; //texture is only visible from one side
 scene.add(floor);
 ```
 - Made the spinning wheel of death a group so I could have it rotate independently on the y axis while spinning in all directions globally
-- Made an instancedMesh swarm of hundreds of spinning wheels of death 
+- Made an instancedMesh swarm of hundreds of spinning wheels of death... only to discover I liked it better simpler 😅 
 
+## 2025-05-26 The horde
+- Decided that many cultists was the way to go
+- Asked Claude.ai and Gemini to help me out with getting multiple animations to load up... it failed.
+
+![Big Issues with cloning](/assets/images/2025-05-26_WCCChallenge2025Wk02_Error_FrustratingErrors.png)
+- Made a clean version of the file where all I'm dealing with is loading up multiple models
+
+![Multiple Models](/assets/images/2025-05-26_WCCChallenge2025Wk02_Error_MultipleAnimations.png)
+
+- Hmmm... so now I've got confusing issues with everything doubling up...
+
+![Mystery double-ups of everything](/assets/images/2025-05-26_WCCChallenge2025Wk02_Error_MysteryDoubles.png)
+
+- Aha! Turns out I'd declared and called init twice 😅 Made some gui controls to position the camera for autoRotate mode and totally calling it a day 🥰
+
+![Finished!](/assets/images/2025-05-26_WCCChallenge2025Wk02_Error_Done.png)
