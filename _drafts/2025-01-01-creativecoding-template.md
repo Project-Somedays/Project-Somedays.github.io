@@ -28,6 +28,7 @@ toc: true
 | 🕒 Taken        | ~6hrs                                  |
 | 🤯 Concept      | What's the story?        |
 | 🔎 Focus        | What's the technical focus?        |
+| 📔 Write-up     | https://project-somedays.github.io/ |
 
 
 

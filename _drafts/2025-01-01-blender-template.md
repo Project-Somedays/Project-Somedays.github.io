@@ -23,7 +23,8 @@ toc: true
 | Render🕒        | ~10hrs          |
 | 🤯 Concept      | What's the story?        |
 | 🔎 Focus        | What's the technical focus?       |
-| 🖥️Rig Deets     | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
+| 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
+| 📔 Write-up     | https://project-somedays.github.io/ |
 
 Created for the weekly Create with Clint/pwnisher community
 
