@@ -39,6 +39,9 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - ["Bike chain for 3D printing"](https://skfb.ly/opUIV) by VirtualBG is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - [Explosion VDB from MyCreativeFX.com](https://mycreativefx.com/details/mkfx-1406-free-explosion-vdb-24)
 - [Robotic Arm from BlenderKit](https://www.blenderkit.com/asset-gallery-detail/20f3f541-74a8-46b5-975b-d2d61117c6b7/)
+- [Pirate Coat by Anna Vidal (Milaein) on Sketchfab](https://sketchfab.com/3d-models/low-poly-pirate-torso-coat-and-shirt-bd72996641e04587a8c40af4ce1e4e37)
+- ["Pirate's Clothing"](https://skfb.ly/oESFD) by KevinChong is licensed under [CC Attribution-NonCommercial-NoDerivs](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+- ["pirate" () by rafa durand](https://sketchfab.com/3d-models/pirate-0fd1064b16074dc3b35acb485052b427#download) is licensed under [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Stretch Goals/Extension Ideas
 - [ ] Swirl the parts around artistically with open simplex noise
@@ -67,3 +70,11 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 ## 2025-05-25 Finishing off the cannon cycle
   - Item 1  
   ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png "If I've learned anything, it's start REALLY simple and build on solid ground")
+
+## 2025-05-28
+  - Found my aesthetic for the beard. I'm getting half Dr Zoidberg, half Davey Jones and I'm very pleased.
+![Captain Tootface](/assets/images/2025-05-28_RoboPirate_BeardSolution.png)
+- Used a bezier curve with a custom taper, solidify and subdiv modifier to smooth it all out 🥰
+![The Making Of Captain Tootface](/assets/images/2025-05-28_RoboPirate_TaperCurve.png)
+- Still need to parent everthing to an empty for animation... Getting weird effects with the eye patch 😔
+  
