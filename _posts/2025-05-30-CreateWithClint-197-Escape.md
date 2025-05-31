@@ -56,10 +56,10 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
 ## 2025-05-30 20:00 - 2025-05-31 00:30 🙄 Smashing the rest out
 
-  - Made a coral stick using a blenderkit texture and kitbashing from SketchFab
+  - Made a coral stick using a BlenderKit texture and kitbashing from SketchFab
   ![Coral Bindle Stick](/assets/images/2025-05-30_Octopus_CoralStick.png)
   
-  - Adding suckers with the scult tool and masking: love it!
+  - Adding suckers with the sculpt tool and masking: love it!
 
   ![Suckers](/assets/images/2025-05-30_Octopus_Suckers.png)
   
@@ -75,7 +75,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
 ![Biz](/assets/images/2025-05-30_Octopus_ShapeKeyRightEye.png)
 
-- Found a hyper-stylised work van, modified Jacques the cleaner shrimp from finding Nemo JUST enough and slapped it clumsily on the side using a UV Image Texture
+- Found a hyper-stylised work van, modified Jacques the cleaner shrimp from Finding Nemo JUST enough and slapped it clumsily on the side using a UV Image Texture
 
 ![Work van](/assets/images/2025-05-30_Octopus_LogoDesign.png)
 
@@ -85,4 +85,4 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
 ![Coastal HDRI](/assets/images/2025-05-31_FinalRender.png "Go lil guy, go!")
 
-- Keyframed some really basic camera moves, pausing on the beats - probably could have used a LITTLE more time on the side of the van to let the viewer read it - but I didn't want to lose momentum. Woud I tighten it up a little? YES! At the end of the day, projects are never finished, just published. Moving on!
+- Keyframed some really basic camera moves, pausing on the beats - probably could have used a LITTLE more time on the side of the van to let the viewer read it - but I didn't want to lose momentum. Would I tighten it up a little? YES! At the end of the day, projects are never finished, just published. Moving on!
