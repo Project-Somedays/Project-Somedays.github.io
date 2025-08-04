@@ -7,8 +7,48 @@ toc: true
 Expanding from 3D printing and CAD + Creative Coding.
 Why Blender? It's free! And crazy powerful.
 
-## My Blender Render Portfolio
+## My Blender Render Learning Journey
+### Roadmap of skills to build
+    - Modelling
+      - Low-poly modelling
+      - Hard Surface Modelling
+      - Sculpting
+        - Retopology
+    - Animation
+      - Rigging
+      - Key-frame Animation
+    - Sims
+      - Rigid Bodies
+      - Hair Sims
+      - Cloth Sims
+      - Soft Body Sims
+      - Smoke Sims
+      - Fluid Sims
+    - Lighting and Rendering
+      - Lighting placement
+      - Atmospheric effects
+      - HDRIs
+    - Materials and Textures
+      - Blender Materials
+      - Image Textures
+      - UV-Unwrapping
+      - Texture Painting
+      - Procedural Textures
+    - Tools
+      - Curve Deform
+    - Automation
+      - Geometry Nodes
+      - Scripting?
+### Courses
+- [x] Grant Abbit's [Complete Blender Creator: 3D Modelling on Udemy](https://www.udemy.com/course/blendertutorial/?couponCode=KEEPLEARNING)
+
+
+
+# My Blender Render Portfolio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=i0FT0eVlN4MOCoIg&amp;list=PLFQlXhwnTBUH5xrEaxldpxePuZW2Wumyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Comprehensive Skill Map
+
 
 # Render Challenges
 ## What are these Render Challenges?
