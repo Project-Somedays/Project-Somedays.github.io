@@ -112,6 +112,9 @@ footer:
       icon: "fa-solid fa-laptop-code"
       url: "https://openprocessing.org/user/410675/"
 
+footer_scripts:
+    - /assets/js/metricool.js
+
 defaults:
   # _posts
   - scope:
