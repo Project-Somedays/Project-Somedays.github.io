@@ -41,13 +41,12 @@ Why Blender? It's free! And crazy powerful.
       - Scripting?
 ### Courses
 - [x] Grant Abbit's [Complete Blender Creator: 3D Modelling on Udemy](https://www.udemy.com/course/blendertutorial/?couponCode=KEEPLEARNING)
-
+- [ ] Grant Abbit's [Blender Character Creator for Video Games](https://www.gamedev.tv/courses/blender4-character-creator/)
+- [ ] CGBoost's [Ultimate CG Boost Blender Bundle](https://www.cgboost.com/bundle/ultimate-cg-boost-blender-bundle)
 
 
 # My Blender Render Portfolio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=i0FT0eVlN4MOCoIg&amp;list=PLFQlXhwnTBUH5xrEaxldpxePuZW2Wumyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Comprehensive Skill Map
 
 
 # Render Challenges
