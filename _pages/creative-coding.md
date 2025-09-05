@@ -21,11 +21,11 @@ It's a process of setting parameters and witnessing the emergence of complex pat
 Essentially, we're building systems that create art, exploring the potential of computational creativity. 🌸
 
 ## What languages do I use?
-**p5.js:** ✏️ Your friendly neighborhood sketchpad! Perfect for quick, interactive 2D visuals and learning the basics. It's like finger painting with code, super accessible and fun! 🎉
+**p5.js (javascript/typescript):** ✏️ Your friendly neighborhood sketchpad! Perfect for quick, interactive 2D visuals and learning the basics. It's like finger painting with code, super accessible and fun! 🎉
 
-**Processing (Java/p5.js):** 💪 The OG creative coding powerhouse! Offers a robust environment for 2D and 3D exploration. It's like a well-equipped art studio, with lots of tools and depth. 🌀
+**Processing (Java):** 💪 The OG creative coding powerhouse! Offers a robust environment for 2D and 3D exploration. It's like a well-equipped art studio, with lots of tools and depth. 🌀
 
-**Three.js:** 🌐✨ Dive into the 3D realm! It's like building your own virtual reality sandbox, with stunning visuals and endless possibilities for immersive experiences. 🚀
+**Three.js (javascript/typescript):** 🌐✨ Dive into the 3D realm! It's like building your own virtual reality sandbox, with stunning visuals and endless possibilities for immersive experiences. 🚀
 
 ## What should I use?
 | Feature        | p5.js                                  | Processing (Java)            | Three.js                               |
@@ -85,4 +85,10 @@ Alright, so p5.js has been my 2D playground 🎨, but my brain's craving more di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=goBAw44K4zrMOSQn&amp;list=PLFQlXhwnTBUGZRylpGO-wgBqeaYar_qav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# 🧙‍♂️Where can I learn this wizardry?🧙‍♂️
+I can highly recommend the following sources:
+- Dan Shiffmans' [The Coding Train](https://www.youtube.com/c/TheCodingTrain) especially his [The Nature of Code](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) Playlist
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/70MQ-FugwbI?si=BJ7stf6kQao9uNEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [Patt Vira](https://www.youtube.com/@pattvira)
