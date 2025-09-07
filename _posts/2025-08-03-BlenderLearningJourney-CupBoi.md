@@ -5,6 +5,9 @@ categories:
   - Blender Biz
 tags:
   - LearningJourney
+header:
+  teaser: /assets/images/2025-09-07-CupBoi.png
+  image: /assets/images/2025-09-07-CupBoi-Banner.png
 toc: true
 ---
 
