@@ -1,6 +1,10 @@
 ---
 permalink: /blender/
 title: "Blender Biz"
+layout: posts
+taxonomy: blender-biz
+entries_layout: grid
+classes: wide
 toc: true
 ---
 # 2025 - My Year of Learning Blender

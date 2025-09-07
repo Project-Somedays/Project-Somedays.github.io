@@ -4,7 +4,7 @@ last_modified_at: 2025-08-03T16:20:02-05:00
 categories:
   - Blender Biz
 tags:
-  - LearningJourney
+  - blender-biz
 header:
   teaser: /assets/images/2025-09-07-CupBoi.png
   image: /assets/images/2025-09-07-CupBoi-Banner.png
