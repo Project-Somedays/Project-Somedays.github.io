@@ -1,11 +1,12 @@
 ---
 title: "What happened to my donut?! Experiments in distortion in Three.js"
 last_modified_at: 2025-04-06T16:20:02-05:00
-categories:
-  - Coding
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - ThreeJS
-  - Experiments
+  - threejs
+  - coding-experiments
 
 toc: true
 ---

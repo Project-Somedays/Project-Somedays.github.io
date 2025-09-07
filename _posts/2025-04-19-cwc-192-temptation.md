@@ -1,10 +1,11 @@
 ---
 title: "Create with Clint #193 - Temptation"
 last_modified_at: 2025-04-19T16:20:02-05:00
-categories:
-  - Blender
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - Blender
+  - blender-biz
 toc: true
 ---
 

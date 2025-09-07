@@ -1,10 +1,12 @@
 ---
 title: "Crappy Photoshop Adventures: Genus Costicus"
 last_modified_at: 2025-04-27T16:20:02-05:00
-categories:
-  - Photoshop
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - Photoshop
+  - crappy-photoshop
+
 toc: true
 ---
 

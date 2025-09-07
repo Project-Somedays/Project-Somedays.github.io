@@ -1,10 +1,12 @@
 ---
 title: "Create With Clint Weekly Challenge 195 - Invisible"
 last_modified_at: 2025-05-10T16:20:02-05:00
-categories:
-  - Blender Biz
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - CreateWithClint
+  - blender-biz
+  - create-with-clint
 toc: true
 ---
 

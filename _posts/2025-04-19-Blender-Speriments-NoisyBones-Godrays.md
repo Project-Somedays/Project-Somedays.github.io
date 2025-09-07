@@ -1,12 +1,13 @@
 ---
 title: "Blender Speriments - Noise Bones and Godrays"
 last_modified_at: 2025-04-19T13:00
-categories:
-  - Blender
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - Blender
-  - IK
-  - Godrays
+  - blender-biz
+  - inverse-kinematics
+  - godrays
 toc: true
 ---
 

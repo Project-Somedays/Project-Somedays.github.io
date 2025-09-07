@@ -1,11 +1,12 @@
 ---
 title: "Create with Clint Weekly Challenge 192 - Accelerate"
 last_modified_at: 2025-04-18T16:20:02-05:00
-categories:
-  - Blender Animations
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - Blender
-  - Physics Sims
+  - blender-biz
+  - physics-sims
 toc: true
 ---
 

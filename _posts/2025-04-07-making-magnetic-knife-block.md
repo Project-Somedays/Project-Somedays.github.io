@@ -1,11 +1,13 @@
 ---
 title: "Magnetic Knifeblock"
 last_modified_at: 2025-04-07T16:20:02-05:00
-categories:
-  - Making
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - Woodworking
-  - Laser Cutting
+  - making
+  - woodworking
+  - laser-cutting
 toc: true
 ---
 

@@ -1,11 +1,14 @@
 ---
 title: "Reverse-Engineering Challenges: Rotten Columns"
 last_modified_at: 2025-03-31T16:20:02-05:00
-categories:
-  - Coding
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
+
 tags:
-  - ThreeJS
-  - Reverse-Engineering
+  - threejs
+  - reverse-engineering
+  - coding
 toc: true
 ---
 
