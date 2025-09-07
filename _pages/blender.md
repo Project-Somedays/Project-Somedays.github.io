@@ -6,12 +6,13 @@ taxonomy: blender-biz
 entries_layout: grid
 classes: wide
 toc: true
+author_profile: false
 ---
 # 2025 - My Year of Learning Blender
 Expanding from 3D printing and CAD + Creative Coding.
 Why Blender? It's free! And crazy powerful.
 
-## My Blender Render Learning Journey
+<!-- ## My Blender Render Learning Journey
 ### Roadmap of skills to build
     - Modelling
       - Low-poly modelling
@@ -43,15 +44,15 @@ Why Blender? It's free! And crazy powerful.
     - Automation
       - Geometry Nodes
       - Scripting?
+      - 
 ### Courses
+
 - [x] Grant Abbit's [Complete Blender Creator: 3D Modelling on Udemy](https://www.udemy.com/course/blendertutorial/?couponCode=KEEPLEARNING)
 - [ ] Grant Abbit's [Blender Character Creator for Video Games](https://www.gamedev.tv/courses/blender4-character-creator/)
-- [ ] CGBoost's [Ultimate CG Boost Blender Bundle](https://www.cgboost.com/bundle/ultimate-cg-boost-blender-bundle)
-
+- [ ] CGBoost's [Ultimate CG Boost Blender Bundle](https://www.cgboost.com/bundle/ultimate-cg-boost-blender-bundle) -->
 
 # My Blender Render Portfolio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=i0FT0eVlN4MOCoIg&amp;list=PLFQlXhwnTBUH5xrEaxldpxePuZW2Wumyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 # Render Challenges
 ## What are these Render Challenges?
