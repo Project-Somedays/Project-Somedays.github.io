@@ -1,13 +1,11 @@
 ---
 title: "Blender Learning Journey - Cup Boi Part 1"
 last_modified_at: 2025-08-03T16:20:02-05:00
-categories:
-  - Blender Biz
 tags:
   - blender-biz
 header:
-  teaser: /assets/images/2025-09-07-cupboi.png
-  image: /assets/images/2025-09-07-cupBoi-banner.png
+  teaser: /assets/images/2025-09-07-cup-boi.png
+  image: /assets/images/2025-09-07-cup-boi-banner.png
 toc: true
 ---
 
