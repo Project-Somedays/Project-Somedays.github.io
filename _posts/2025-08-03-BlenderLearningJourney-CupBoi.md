@@ -6,8 +6,8 @@ categories:
 tags:
   - blender-biz
 header:
-  teaser: /assets/images/2025-09-07-CupBoi.png
-  image: /assets/images/2025-09-07-CupBoi-Banner.png
+  teaser: /assets/images/2025-09-07-cupboi.png
+  image: /assets/images/2025-09-07-cupBoi-banner.png
 toc: true
 ---
 
