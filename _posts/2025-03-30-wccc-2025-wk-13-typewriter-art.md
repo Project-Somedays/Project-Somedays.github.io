@@ -1,12 +1,12 @@
 ---
 title: "Weekly Creative Coding Challenges 2025 - Week 13 - 'Typewriter Art'"
 last_modified_at: 2025-03-30T16:20:02-05:00
-categories:
-  - Coding
+
 tags:
-  - ThreeJS
-  - WCCC
-  - Blender
+  - threejs
+  - wccc
+  - blender-biz
+  - coding
 toc: true
 ---
 
