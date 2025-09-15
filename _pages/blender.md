@@ -1,7 +1,7 @@
 ---
 permalink: /blender/
 title: "Blender Biz"
-layout: posts
+layout: tag
 taxonomy: blender-biz
 entries_layout: grid
 classes: wide
