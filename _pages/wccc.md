@@ -2,6 +2,10 @@
 permalink: /wccc/
 title: "Weekly Creative Coding Challenges"
 toc: true
+layout: tag
+entry_layout: grid
+classes: wide
+taxonomy: wccc
 ---
 # What are these Weekly Creative Coding Challenges?
 Every week, creative coders from all over the world participate in responding to a prompt. It's a beginner-friendly great excuse to stretch those brain muscles and jump in!
@@ -17,3 +21,5 @@ Check out this playlist of live code playing from all over the world:
 # My Biz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ANF1IPoF_oNOF9ky&amp;list=PLFQlXhwnTBUFMTUznWv1Q-eKfxKIGFZPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# All Projects

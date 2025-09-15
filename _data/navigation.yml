@@ -4,14 +4,33 @@ main:
   - title: "3D Printing"
     url: /3dprinting/
   - title: "Creative Coding"
-    url: /creative-coding/
-    children:
+    url: '#'
+    sublinks:
+      - title: "What is creative coding?"
+        url: /creative-coding/
       - title: "Weekly Creative Coding Challenges"
         url: /wccc/
       - title: "Genuary"
         url: /genuary/
+      - title: "Threejs"
+        url: /threejs/
+      - title: "p5js"
+        url: /p5js/
+      - title: "Recode Rethink"
+        url: /recode-rethink/
+      - title: "Reverse Engineering Challenges"
+        url: /rec-coding/
   - title: "Blender Biz"
-    url: /blender/
+    url: '#''
+    sublinks:
+      - title: "Learning Blender in 2025"
+        url: /blender/
+      - title: "pwnisher Community Render Challenges"
+        url: /cwc-render-challenges/
+      - title: "Create with Clint Weeklies"
+        url: /cwc-weeklies/
+      - title: "Reverse Engineering Challenges"
+        url: /rec-blender/
   - title: "Tutorials"
     url: /tutorials/
   - title: "Courses"

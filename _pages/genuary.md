@@ -2,6 +2,10 @@
 permalink: /genuary/
 title: "Genuary - Celebrating Generative Art each January"
 toc: true
+layout: tag
+taxonomy: genuary
+entries_layout: grid
+classes: wide
 ---
 
 # What is Genuary?
@@ -12,3 +16,5 @@ Interested? Check it out here: [https://genuary.art/prompts](https://genuary.art
 # My Entries
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-F6iGnolJc?si=wam_aVPpg8xj4qta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# All Articles
