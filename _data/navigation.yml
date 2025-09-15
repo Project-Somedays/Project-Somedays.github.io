@@ -21,7 +21,7 @@ main:
       - title: "Reverse Engineering Challenges"
         url: /rec-coding/
   - title: "Blender Biz"
-    url: '#''
+    url: '#'
     sublinks:
       - title: "Learning Blender in 2025"
         url: /blender/
