@@ -1,5 +1,5 @@
 ---
-title: What happened to my donut?! Experiments in distortion in Three.js
+title: "What happened to my donut?! Distortion in Three.js"
 last_modified_at: 2025-04-06T16:20:02-05:00
 header:
   teaser: /assets/images/coding/2025-04-06-distorted-donut/teaser.png
