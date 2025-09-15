@@ -2,6 +2,8 @@
 permalink: /creative-coding/
 title: "Creative Coding and Generative Art"
 toc: true
+toc_sticky: true
+layout: single
 entries_layout: grid
 classes: wide
 author_profile: true
