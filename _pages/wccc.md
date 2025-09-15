@@ -3,9 +3,11 @@ permalink: /wccc/
 title: "Weekly Creative Coding Challenges"
 toc: true
 layout: tag
-entry_layout: grid
+entries_layout: grid
 classes: wide
 taxonomy: wccc
+sidebar:
+    nav: "creative_coding_nav"
 ---
 # What are these Weekly Creative Coding Challenges?
 Every week, creative coders from all over the world participate in responding to a prompt. It's a beginner-friendly great excuse to stretch those brain muscles and jump in!
