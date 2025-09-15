@@ -8,6 +8,8 @@ entries_layout: grid
 classes: wide
 author_profile: true
 taxonomy: rec-coding
+sidebar:
+    nav: "creative_coding_nav"
 ---
 
 # Reverse Engineering Challenges: Retracing another's steps

@@ -7,6 +7,8 @@ entries_layout: grid
 classes: wide
 toc: true
 author_profile: true
+sidebar:
+    nav: "creative_coding_nav"
 ---
 
 # What is Threejs?

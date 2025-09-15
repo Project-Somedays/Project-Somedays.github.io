@@ -8,6 +8,8 @@ entries_layout: grid
 classes: wide
 author_profile: true
 taxonomy: recode-rethink
+sidebar:
+    nav: "creative_coding_nav"
 ---
 
 # Recode Rethink: Riffing on the shoulders of giants 🕹️🎨
