@@ -2,8 +2,8 @@
 title: "Blender Speriments - Noise Bones and Godrays"
 last_modified_at: 2025-04-19T13:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/blender-biz/2025-04-18-ik-godrays/teaser.png
+  image: /assets/images/blender-biz/2025-04-18-ik-godrays/banner.png
 tags:
   - blender-biz
   - inverse-kinematics
