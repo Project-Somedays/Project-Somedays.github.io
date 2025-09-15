@@ -2,8 +2,8 @@
 title: "Reverse Engineering Challenge - Kinetic Sculpture by Damien Beneteau"
 last_modified_at: 2025-04-28T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/teaser.png
+  image: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/banner.png
 tags:
   - blender-biz
   - reverse-engineering
@@ -11,9 +11,10 @@ toc: true
 ---
 
 # Final Result - Video
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+[![Watch the video](https://img.youtube.com/vi/y5KdgKQca6U/maxresdefault.jpg)](https://youtu.be/y5KdgKQca6U)
 
 # Summary
+
 ## WCCChallenge Blurb
 
 | Biz             | Biz Biz                               |
@@ -29,7 +30,7 @@ toc: true
 | 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
 ## 🎓Lessons Learned🎓
-- Item 1
+- Go super simple
 
 ## Resources:
 - Inspired by this post
@@ -46,8 +47,3 @@ toc: true
 ## Stretch Goals/Extension Ideas
 - [x] Look at a better way of doing the ring lighting and also
 
-# 🪵Dev Log🪵
-
-## 2025-03-29 Threejs exploded view
-  - Item 1  
-  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png "If I've learned anything, it's start REALLY simple and build on solid ground")
