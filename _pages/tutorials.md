@@ -1,13 +1,12 @@
 ---
 permalink: /tutorials/
 title: "Tutorials"
-toc: true
-layout: tags
+layout: tag
 taxonomy: tutorial
-collection: posts
-classes: wide
 entries_layout: grid
-
+classes: wide
+toc: true
+author_profile: true
 ---
 
 # WIP
