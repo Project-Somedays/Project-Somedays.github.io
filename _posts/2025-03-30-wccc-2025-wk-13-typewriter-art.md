@@ -1,9 +1,9 @@
 ---
-title: "Weekly Creative Coding Challenges 2025 - Week 13 - 'Typewriter Art'"
+title: "WCCC 2025 Week 13 Typewriter Art"
 last_modified_at: 2025-03-30T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/wccc/2025-wk13-typerwriter-art/teaser.png
+  image: /assets/images/wccc/2025-wk13-typerwriter-art/banner.png
 tags:
   - threejs
   - wccc
@@ -84,14 +84,14 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
   - Easing functions are fun
   - Begin work on making my own in Blender
   
-  ![Typewriter Mockup](/assets/images//2025-03-30-WCCC-Basic-Mockup.png "Didn't really want this to become a modelling project...")
+  ![Typewriter Mockup](/assets/images/wccc/2025-wk13-typerwriter-art/2025-03-30-WCCC-Basic-Mockup.png "Didn't really want this to become a modelling project...")
 
 ## 2025-03-30 The Deadline approaches
 
    - Quick tests with applying transforms or resetting... not quite what I'm after
    - Hooray! Generating random targets works great and is close enough to what I'm after
   
-  ![Test](/assets/images/2025-03-30_QuickTest.png "And THIS is why we test as we go.")
-  ![Test](/assets/images/2025-03-30_QuickTestSuccess.png "FaaaaaaTASTIC")
+  ![Test](/assets/images/wccc/2025-wk13-typerwriter-art/2025-03-30_QuickTest.png "And THIS is why we test as we go.")
+  ![Test](/assets/images/wccc/2025-wk13-typerwriter-art/2025-03-30_QuickTestSuccess.png "FaaaaaaTASTIC")
 
   - Get it to run in openProcessing --> involved declaring my initial setup in p5js setup. Good to know!
