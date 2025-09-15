@@ -1,16 +1,14 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Showcase"
-    url: /showcase/
   - title: "3D Printing"
     url: /3dprinting/
-  - title: "Weekly Creative Coding Challenges"
-    url: /wccc/
+  - title: "Creative Coding"
+    url: /creative-coding/
   - title: "Blender Biz"
     url: /blender/
-  - title: "Genuary"
-    url: /genuary/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "Courses"
     url: /courses/
   - title: "About"
