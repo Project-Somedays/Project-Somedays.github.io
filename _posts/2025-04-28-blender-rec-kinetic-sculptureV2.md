@@ -2,8 +2,8 @@
 title: "Reverse Engineering Challenge - Kinetic Sculpture by Damien Beneteau V2"
 last_modified_at: 2025-04-28T16:20:02-05:00
 header:
-  teaser: /assets/images/blender-biz/2025-04-27-kinetic-scuplture/teaser2.png
-  image: /assets/images/blender-biz/2025-04-27-kinetic-scuplture/banner2.png
+  teaser: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/teaser2.png
+  image: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/banner2.png
 tags:
   - blender-biz
   - reverse-engineering
