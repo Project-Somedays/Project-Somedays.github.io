@@ -7,6 +7,8 @@ entries_layout: grid
 classes: wide
 toc: true
 author_profile: true
+sidebar:
+    nav: "blender_nav"
 ---
 
 # Create With Clint Weeklies

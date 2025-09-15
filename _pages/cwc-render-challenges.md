@@ -6,10 +6,11 @@ taxonomy: render-challenge
 entries_layout: grid
 classes: wide
 toc: true
+toc_sticky: true
 author_profile: true
+sidebar:
+    nav: "blender_nav"
 ---
-
-# Render Challenges
 
 Nothing like biting off more than you can chew to upskill quickly! 
 
@@ -17,7 +18,7 @@ Have I spent more time than I can rightly afford on these challenges? Yes!
 
 Do I learn more in these challenges than at any other time? Also yes!
 
-## What are these Render Challenges?
+# What are these Render Challenges?
 The [pwnisher](https://www.youtube.com/channel/UCWIfzAYHyNSyHmT2AO-54yg) has an incredible community of 3D artists from around the world that come together to learn, create and showcase their incredible talennts. I'm a complete novice in the world of VFX and, while I've spent a fair amount of time creative coding and 3D printing, the waters are VERY deep here.
 
 ## Rampage Rally

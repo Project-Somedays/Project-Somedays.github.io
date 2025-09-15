@@ -8,6 +8,8 @@ entries_layout: grid
 classes: wide
 author_profile: true
 taxonomy: rec-blender
+sidebar:
+    nav: "blender_nav"
 ---
 
 # Why Reverse Engineering Challenges?
