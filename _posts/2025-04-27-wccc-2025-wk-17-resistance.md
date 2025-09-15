@@ -40,7 +40,7 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 
 ## 🎓Lessons Learned🎓
 - Hooray! My old applied physics degree is finally coming in handy... 🤣 
-- Electrical restivity tomography is a pretty awesome technology for detecting the structure of biz from the electrical resistance between electrodes
+- Electrical resistivity tomography is a pretty awesome technology for detecting the structure of biz from the electrical resistance between electrodes
 - Turns out it can be used for fluid analysis in pipes and not just geological surveys
 - I really like science-ish displays
 
