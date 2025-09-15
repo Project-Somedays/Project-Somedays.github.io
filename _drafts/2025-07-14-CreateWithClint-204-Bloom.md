@@ -1,8 +1,7 @@
 ---
 title: Create with Clint Weekly Challenge 204 - Bloom
 last_modified_at: 2025-07-14T16:20:02-05:00
-categories:
-  - Blender Biz
+categories: []
 tags:
   - create-with-clint
 toc: true

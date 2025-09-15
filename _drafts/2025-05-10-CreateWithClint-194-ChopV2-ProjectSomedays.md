@@ -1,8 +1,7 @@
 ---
 title: "[WIP] Create With Clint Weekly Challenge 194 - Chop - Version 2"
 last_modified_at: 2025-04-30T16:20:02-05:00
-categories:
-  - Blender Biz
+categories: []
 tags:
   - create-with-clint
 toc: true

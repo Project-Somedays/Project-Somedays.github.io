@@ -1,8 +1,7 @@
 ---
 title: Create With Clint Weekly Challenge 196 - Unfinished
 last_modified_at: 2025-05-19T16:20:02-05:00
-categories:
-  - Blender Biz
+categories: []
 tags:
   - create-with-clint
 toc: true

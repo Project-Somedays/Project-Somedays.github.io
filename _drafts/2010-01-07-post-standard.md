@@ -1,8 +1,7 @@
 ---
 title: "Post: Standard"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
+excerpt_separator: <!--more-->
+categories: []
 tags:
   - Post Formats
   - readability

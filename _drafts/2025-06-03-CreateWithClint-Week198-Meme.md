@@ -1,8 +1,7 @@
 ---
 title: Create With Clint Weekly Challenge 198 - Meme
 last_modified_at: 2025-03-30T16:20:02-05:00
-categories:
-  - Blender Biz
+categories: []
 tags:
   - create-with-clint
 toc: true
