@@ -7,6 +7,8 @@ entries_layout: grid
 classes: wide
 toc: true
 author_profile: true
+sidebar:
+  nav: "blender_nav"
 ---
 # 2025 - My Year of Learning Blender
 Expanding from 3D printing and CAD + Creative Coding.

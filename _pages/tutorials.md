@@ -9,4 +9,4 @@ toc: true
 author_profile: true
 ---
 
-# WIP
+# Learning through doing!

@@ -1,13 +1,13 @@
 ---
-permalink: /creative-coding/
-title: "Creative Coding and Generative Art"
+permalink: /rec-coding/
+title: "Reverse Engineering Challenges"
 toc: true
 toc_sticky: true
 layout: tag
 entries_layout: grid
 classes: wide
 author_profile: true
-taxonomy: creative-coding
+taxonomy: rec-coding
 ---
 
 # Reverse Engineering Challenges: Retracing another's steps

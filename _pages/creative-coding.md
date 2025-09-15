@@ -8,6 +8,8 @@ entries_layout: grid
 classes: wide
 author_profile: true
 taxonomy: creative-coding
+sidebar:
+    nav: "creative_coding_nav"
 ---
 # What the heck is Creative Coding?
 ## Creative Coding: 💻✨
