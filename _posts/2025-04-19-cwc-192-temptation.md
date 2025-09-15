@@ -2,15 +2,17 @@
 title: "Create with Clint #193 - Temptation"
 last_modified_at: 2025-04-19T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/cwc/193-temptation/teaser.png
+  image: /assets/images/cwc/193-temptation/banner.png
 tags:
   - blender-biz
+  - create-with-clint
 toc: true
 ---
 
 # Final Result - Video
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-jEPSsjZSo?si=Hxpo4SHRifRO9Hpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Summary
 
@@ -51,20 +53,20 @@ Join [the discord community!](https://discord.com/channels/673719770410909696/68
 ## 2025-04-19 Gathering Assets and Blocking 🕒1hr
 - Found an awesome free dog model in exactly the style I'm after
 
-![So cute!](/assets/images/2025-04-19_DogModel.png)
+![So cute!](/assets/images/cwc/193-temptation/2025-04-19_DogModel.png)
 
 - Found a neat burger model that doesn't QUITE match the aesthetic but it's a very decent stand-in in the meantime
 
-![Makes me hungry](/assets/images/2025-04-19_BurderModel.png)
+![Makes me hungry](/assets/images/cwc/193-temptation/2025-04-19_BurderModel.png)
 
 - Framing the shot with cubes as stand-ins for the dog shoulder angels
 
-![I'm sure this will change MANY times](/assets/images/2025-04-19%20Framing.png)
+![I'm sure this will change MANY times](/assets/images/cwc/193-temptation/2025-04-19%20Framing.png)
 
 - Started texturing the doggo after decimating the mesh to 20%
 
-![This will take a little while](/assets/images/2025-04-19%20Begin%20Texturing.png)
+![This will take a little while](/assets/images/cwc/193-temptation/2025-04-19%20Begin%20Texturing.png)
 
 - Set up basic IK bone rig for adding just a little bit of life my render
 
-![Rigging - EVENTUALLY it'll make more sense... I hope...](/assets/images/2025-04-19%20Rigging%20for%20basic%20animation.png)
+![Rigging - EVENTUALLY it'll make more sense... I hope...](/assets/images/cwc/193-temptation/2025-04-19%20Rigging%20for%20basic%20animation.png)
