@@ -4,13 +4,10 @@ last_modified_at: 2025-08-03T16:20:02-05:00
 tags:
   - blender-biz
 header:
-  teaser: /assets/images/2025-09-07-cup-boi.png
-  image: /assets/images/2025-09-07-cup-boi-banner.png
+  teaser: /assets/images/blender-biz/2025-08-05-cup-boi/2025-09-07-cup-boi.png
+  image: /assets/images/blender-biz/2025-08-05-cup-boi/2025-09-07-cup-boi-banner.png
 toc: true
 ---
-
-# The Final Result
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
 
 # Summary
 
@@ -25,7 +22,7 @@ toc: true
 | 🤯 Concept      | Robocup Boi sloshes coffee and yeets himself off the table in sadness     |
 | 🔎 Focus        | Hard Surface Modelling + Rigging + Painterly Material Effect      |
 | 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
-<!-- | 📔 Write-up     | https://project-somedays.github.io/ | -->
+
 
 ##  📦Resources📦
 - [Blender Hard Surface Modelling Fundamentals](https://www.youtube.com/watch?v=nsTjnQ067sw) by [CGBoost](https://www.youtube.com/@cgboost)
@@ -39,11 +36,11 @@ toc: true
 ## 🎓Lessons Learned🎓
 ### How to apply the lighting but not the image from an HDRI
 
-![Lighting from HDRI only](/assets/images/2025-08-04%20Cup%20Boi%20World%20Node%20Setup.png "Aha! Mixshader with the camera ray as the factor... I'n sure I'll learn what that means one day 😅")
+![Lighting from HDRI only](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Cup%20Boi%20World%20Node%20Setup.png "Aha! Mixshader with the camera ray as the factor... I'n sure I'll learn what that means one day 😅")
 
 ### Painterly Effect Node Setup  
 
-![Painterly Effect Node Setup](/assets/images/2025-08-04%20Cup%20Boi%20Painterly%20Effect.png "Oh MAN this unlocks a lot of biz")
+![Painterly Effect Node Setup](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Cup%20Boi%20Painterly%20Effect.png "Oh MAN this unlocks a lot of biz")
 
 ### Lightweight rigging of hard-surface modelling biz
 
@@ -67,13 +64,13 @@ There's also a library called ["Parent to nearest bone"](https://github.com/g3nt
 
 I should definitely go through and limit the rotation axis for the rig, but I'm only planning on having really simple animation anyway.
 
-![Lightweight rigging of hard-surface modelling biz](/assets/images/2025-08-04%20Cup%20Boi%20IK%20Wins.gif)
+![Lightweight rigging of hard-surface modelling biz](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Cup%20Boi%20IK%20Wins.gif)
 
 ### Making a REALLY simple rig for setting the eyelid shape key
 
 Duplicated the lens of my eye, shrink-wrapped it to the lens and set up shape keys to make a lower lid that can do the needfuls.
 
-![Driver Settings](/assets/images/)
+![Driver Settings](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04-eyelid-driver-settings.png)
 
 ## 🎯Stretch Goals/Extension Ideas🎯
 - [ ] Swirl the parts around artistically with open simplex noise
@@ -92,21 +89,21 @@ Duplicated the lens of my eye, shrink-wrapped it to the lens and set up shape ke
 # 🪵Dev Log🪵
 
 ## 2025-08-03 Modelling following the tutorial 🕑~2hrs  
-  ![Modelling following the tutorial](/assets/images/2025-08-04%20Cup%20Boi%20Modelling.png "I like it!")
+  ![Modelling following the tutorial](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Cup%20Boi%20Modelling.png "I like it!")
 
 ## 2025-08-03 Painterly effect shader 🕑~2hrs
-  ![Applying the painterly effect](/assets/images/2025-08-04%20Cup%20Boi%20Painterly%20Boi.png "LOVE this look)
+  ![Applying the painterly effect](/assets/images/blender-biz/2025-08-05-cup-boi/painterly-boi.png "LOVE this look")
 
 ## 2025-08-03 Test Render
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xO7khjSBym4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2025-08-04 Rigging 🕑~1hr (troubleshooting)
-  ![It LIVES!](/assets/images/2025-08-04%20Rig%20is%20working.png "It LIVES!")
+  ![It LIVES!](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Rig%20is%20working.png "It LIVES!")
 
 ## 2025-08-04 Driving the lower eyelid
 
-  ![Driving the lower eyelid](/assets/images/2025-08-04%20Cup%20Boi%20Rigging%20Wins.gif "Oh this is VERY fun")
+  ![Driving the lower eyelid](/assets/images/blender-biz/2025-08-05-cup-boi/2025-08-04%20Cup%20Boi%20Rigging%20Wins.gif "Oh this is VERY fun")
 
-  ![Driver Settings](/assets/images/2025-08-04%20Cup%20Boi%20Eyelid%20Driver%20Settings.png "clamp for the win")
+  ![Driver Settings](/assets/images/blender-biz/2025-08-05-cup-boi/eyelid-driver-settings.png "clamp for the win")
 
