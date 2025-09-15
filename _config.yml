@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project Somedays - Just Do Stuff
+title: Project Somedays
+subtitle: "Just Do Stuff"
 email: projectsomedays@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hosting the creative and professional work of Pete of Project Somedays; Creative Coder, Maker, App Developer, Blender Beginner, Course Designer, Teacher in remission, Full-time Science Communicator. Slave to many passions.
+  Hosting the creative and professional work of Pete of Project Somedays: Creative Coder, Maker, App Developer, Blender Beginner, Course Designer, Teacher in remission, Full-time Science Communicator. Slave to many passions.
 twitter_username: ProjectSomedays
 github_username: Project-Somedays
 minimal_mistakes_skin: dark
