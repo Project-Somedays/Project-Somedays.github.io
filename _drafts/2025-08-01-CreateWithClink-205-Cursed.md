@@ -1,10 +1,10 @@
 ---
-title: "Post Template"
+title: Post Template
 last_modified_at: 2025-03-30T16:20:02-05:00
 categories:
   - Blender Biz
 tags:
-  - CreateWithClint
+  - create-with-clint
 toc: true
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Post Template
-last_modified_at: 2025-03-30T16:20:02-05:00
+title: WCCChallenge 2025 Week 37 - Greenhouse
+last_modified_at: 2025-09-14T16:20:02-05:00
 header:
   teaser: /assets/images/placeholder.jpg
   image: /assets/images/placeholder-banner.png
 tags:
   - blender-biz
-  - p5js
+  - coding
   - threejs
   - wccc
 toc: true
@@ -34,7 +34,6 @@ toc: true
 
 
 
-
 Made for Sableraph's weekly creative coding challenges, reviewed weekly on [https://www.twitch.tv/sableraph](https://www.twitch.tv/sableraph)
 
 See other submissions here: [https://openprocessing.org/curation/78544](https://openprocessing.org/curation/78544)
@@ -48,16 +47,32 @@ Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://
 - "Typewriter" by Metro on Sketchfab: [https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39](https://sketchfab.com/3d-models/typewriter-c212b517cbdd4fa1930ed31a45670d39)
 
 ## Stretch Goals/Extension Ideas
-- [ ] Swirl the parts around artistically with open simplex noise
-- [ ] Look at a bunch of different machines that would be cool to explode
-- [ ] Explode extent controls
+- [ ] Sandbox mode
 
 ## TODO:
-- [ ] To do
+- [x] Low-Fi Music
+- [x] Pixel shader
+- [x] Greenhouse model
+- [x] Planter model
+- [x] Drop in and out functionality
+- [] Offset drop in and out by x
+- [ ] Partitioning floor and walls
+- [ ] Positioning
 
 
 # 🪵Dev Log🪵
 
-## 2025-03-29 Threejs exploded view
-  - Item 1  
-  ![Basic scene as a test](/assets/images/2025-03-30-WCCC-Basic-Scene.png "If I've learned anything, it's start REALLY simple and build on solid ground")
+## 2025-09-13 Shader test
+  - Using claude.ai and gemini to get my my pixel-art shader as a proof of concept
+  - Modelled greenhouse and pot
+
+## 2025-09-14 Transitions in and out
+- Better greenhouse model
+
+![Greenhouse](/assets/images/wccc/2025-wk37-greenhouse/simple-greenhouse.png)
+- Planter model complete
+  
+![Planter](/assets/images/wccc/2025-wk37-greenhouse/planter-model.png)
+ - Got a staggered drop in and drop out animation going. Fantastic!
+  
+![Animation](/assets/images/wccc/2025-wk37-greenhouse/step01-dropin-and-out.gif)

@@ -1,11 +1,11 @@
 ---
-title: "WCCChallenge 2025 Week 30 - Must Be Moved"
+title: WCCChallenge 2025 Week 30 - Must Be Moved
 last_modified_at: 2025-07-26T16:20:02-05:00
 categories:
   - Coding
 tags:
   - p5js
-  - WCCC
+  - wccc
 toc: true
 ---
 

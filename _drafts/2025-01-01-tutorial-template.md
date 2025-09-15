@@ -1,12 +1,15 @@
 ---
-title: "Post Template"
+title: Post Template
 last_modified_at: 2025-03-30T16:20:02-05:00
-categories:
-  - Coding
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 tags:
-  - ThreeJS
-  - WCCC
-  - Blender
+  - blender-biz
+  - coding
+  - p5js
+  - threejs
+  - wccc
 toc: true
 ---
 

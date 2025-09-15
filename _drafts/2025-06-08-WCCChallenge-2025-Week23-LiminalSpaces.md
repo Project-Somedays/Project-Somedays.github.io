@@ -1,12 +1,12 @@
 ---
-title: "WCCChallenge 2025 Week 23 - Liminal Spaces"
+title: WCCChallenge 2025 Week 23 - Liminal Spaces
 last_modified_at: 2025-06-08T16:20:02-05:00
 categories:
   - Coding
 tags:
-  - ThreeJS
-  - WCCC
-  - Blender
+  - blender-biz
+  - threejs
+  - wccc
 toc: true
 ---
 

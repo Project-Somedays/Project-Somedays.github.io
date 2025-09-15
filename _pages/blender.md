@@ -6,7 +6,7 @@ taxonomy: blender-biz
 entries_layout: grid
 classes: wide
 toc: true
-author_profile: false
+author_profile: true
 ---
 # 2025 - My Year of Learning Blender
 Expanding from 3D printing and CAD + Creative Coding.
