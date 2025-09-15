@@ -2,8 +2,8 @@
 title: WCCChallenge 2025 Week 17 - Resistance
 last_modified_at: 2025-04-27T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/wccc/2025-wk17-resistance/teaser.png
+  image: /assets/images/wccc/2025-wk17-resistance/banner.png
 tags:
   - creative-coding
   - p5js
@@ -13,7 +13,8 @@ toc: true
 ---
 
 # Final Live Code
-<iframe src="https://openprocessing.org/sketch/2627098/embed/?plusEmbedHash=060b4a18&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
+
+<iframe src="https://openprocessing.org/sketch/2627098/embed/?plusEmbedHash=060b4a18&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
 
 <!-- # Final Result - Video -->
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
