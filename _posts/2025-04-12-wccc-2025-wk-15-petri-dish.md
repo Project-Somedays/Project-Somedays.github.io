@@ -4,11 +4,7 @@ last_modified_at: 2025-04-12T16:20:02-05:00
 header:
   teaser: /assets/images/wccc/2025-wk15-petri-dish/teaser.png
   image: /assets/images/wccc/2025-wk15-petri-dish/banner.png
-tags:
-  - creative-coding
-  - p5js
-  - shaders
-  - wccc
+tags: ["creative-coding", "p5js", "shaders", "wccc"]
 toc: true
 ---
 

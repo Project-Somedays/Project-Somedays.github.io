@@ -4,9 +4,7 @@ last_modified_at: 2025-05-10T16:20:02-05:00
 header:
   teaser: /assets/images/cwc/195-invisible/teaser.png
   image: /assets/images/cwc/195-invisible/banner.png
-tags:
-  - blender-biz
-  - create-with-clint
+tags: ["blender-biz", "create-with-clint"]
 toc: true
 ---
 

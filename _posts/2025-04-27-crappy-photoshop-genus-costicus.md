@@ -4,8 +4,7 @@ last_modified_at: 2025-04-27T16:20:02-05:00
 header:
   teaser: /assets/images/crappy-photoshop/2025-04-27-genus-costicas/teaser.png
   image: /assets/images/crappy-photoshop/2025-04-27-genus-costicas/banner.png
-tags:
-  - crappy-photoshop
+tags: ["crappy-photoshop"]
 
 toc: true
 ---

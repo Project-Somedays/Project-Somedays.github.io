@@ -4,9 +4,7 @@ last_modified_at: 2025-04-06T16:20:02-05:00
 header:
   teaser: /assets/images/coding/2025-04-06-distorted-donut/teaser.png
   image: /assets/images/coding/2025-04-06-distorted-donut/banner.png
-tags:
-  - creative-coding
-  - threejs
+tags: ["creative-coding", "threejs"]
 toc: true
 ---
 

@@ -4,10 +4,7 @@ last_modified_at: 2025-04-19T13:00
 header:
   teaser: /assets/images/blender-biz/2025-04-18-ik-godrays/teaser.png
   image: /assets/images/blender-biz/2025-04-18-ik-godrays/banner.png
-tags:
-  - blender-biz
-  - inverse-kinematics
-  - godrays
+tags: ["blender-biz", "inverse-kinematics", "godrays"]
 toc: true
 ---
 

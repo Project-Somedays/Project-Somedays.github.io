@@ -4,10 +4,7 @@ last_modified_at: 2025-03-31T16:20:02-05:00
 header:
   teaser: /assets/images/coding/2025-04-01-rotten-columns/teaser.png
   image: /assets/images/coding/2025-04-01-rotten-columns/banner.png
-tags:
-  - creative-coding
-  - reverse-engineering
-  - threejs
+tags: ["creative-coding", "reverse-engineering", "threejs"]
 toc: true
 ---
 

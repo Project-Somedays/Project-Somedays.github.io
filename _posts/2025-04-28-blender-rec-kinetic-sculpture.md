@@ -4,9 +4,7 @@ last_modified_at: 2025-04-28T16:20:02-05:00
 header:
   teaser: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/teaser.png
   image: /assets/images/blender-biz/2025-04-27-kinetic-sculpture/banner.png
-tags:
-  - blender-biz
-  - reverse-engineering
+tags: ["blender-biz", "reverse-engineering"]
 toc: true
 ---
 

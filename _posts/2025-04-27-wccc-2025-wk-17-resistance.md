@@ -4,11 +4,7 @@ last_modified_at: 2025-04-27T16:20:02-05:00
 header:
   teaser: /assets/images/wccc/2025-wk17-resistance/teaser.png
   image: /assets/images/wccc/2025-wk17-resistance/banner.png
-tags:
-  - creative-coding
-  - p5js
-  - vibe-coding
-  - wccc
+tags: ["creative-coding", "p5js", "vibe-coding", "wccc"]
 toc: true
 ---
 

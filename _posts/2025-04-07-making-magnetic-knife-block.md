@@ -4,10 +4,7 @@ last_modified_at: 2025-04-07T16:20:02-05:00
 header:
   teaser: /assets/images/making/2025-04-07-knifeblock/teaser.png
   image: /assets/images/making/2025-04-07-knifeblock/banner.png
-tags:
-  - making
-  - woodworking
-  - laser-cutting
+tags: ["making", "woodworking", "laser-cutting"]
 toc: true
 ---
 
