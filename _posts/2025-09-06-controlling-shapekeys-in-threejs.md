@@ -6,6 +6,7 @@ header:
   image: /assets/images/coding/2025-08-27-pariah/banner.png
 tags: ["tutorial", "blender-biz", "threejs", "creative-coding"]
 toc: true
+toc_sticky: true
 ---
 
 # Controlling Blender Shapekeys with Threejs: "Pariah"
