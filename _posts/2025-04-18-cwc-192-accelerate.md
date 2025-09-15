@@ -2,11 +2,12 @@
 title: "Create with Clint Weekly Challenge 192 - Accelerate"
 last_modified_at: 2025-04-18T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/cwc/192-accelerate/teaser.png
+  image: /assets/images/cwc/192-accelerate/banner.png
 tags:
   - blender-biz
   - physics-sims
+  - create-with-clint
 toc: true
 ---
 
@@ -74,8 +75,6 @@ toc: true
 ## Stretch Goals/Extension Ideas
 - Release mechanism
 - Bit more of a story to the release
-
-
 
 # 🪵Dev Log🪵
 
