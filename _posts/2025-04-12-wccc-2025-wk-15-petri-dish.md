@@ -2,8 +2,8 @@
 title: WCCChallenge 2025 Week 15 - Petri Dish
 last_modified_at: 2025-04-12T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/wccc/2025-wk15-petri-dish/teaser.png
+  image: /assets/images/wccc/2025-wk15-petri-dish/banner.png
 tags:
   - creative-coding
   - p5js
@@ -13,10 +13,7 @@ toc: true
 ---
 
 # Final Live Code
-<iframe src="https://openprocessing.org/sketch/2612826/embed/?plusEmbedHash=14069f26&userID=410675&plusEmbedTitle=true&show=sketch" width="720" height="720"></iframe>
-
-<!-- # Final Result - Video -->
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+<iframe src="https://openprocessing.org/sketch/2612826/embed/?plusEmbedHash=14069f26&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
 
 # Summary
 ## WCCChallenge Blurb
