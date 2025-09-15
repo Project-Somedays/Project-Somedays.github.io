@@ -2,16 +2,17 @@
 title: What happened to my donut?! Experiments in distortion in Three.js
 last_modified_at: 2025-04-06T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/coding/2025-04-06-distorted-donut/teaser.png
+  image: /assets/images/coding/2025-04-06-distorted-donut/banner.png
 tags:
-  - coding
+  - creative-coding
   - threejs
 toc: true
 ---
 
 # Final Live Code
-<iframe src="https://openprocessing.org/sketch/2604884/embed/?plusEmbedHash=6d4f35b5&userID=410675&plusEmbedTitle=true&show=sketch" width="600" height="600"></iframe>
+
+<iframe src="https://openprocessing.org/sketch/2604884/embed/?plusEmbedHash=6d4f35b5&userID=410675&plusEmbedTitle=true&show=sketch" width="400" height="400"></iframe>
 
 # Final Result - Video
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
