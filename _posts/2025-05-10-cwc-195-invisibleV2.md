@@ -2,8 +2,8 @@
 title: "Create With Clint Weekly Challenge 195 - Invisible"
 last_modified_at: 2025-05-10T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/cwc/195-invisible/teaser.png
+  image: /assets/images/cwc/195-invisible/banner.png
 tags:
   - blender-biz
   - create-with-clint
@@ -68,7 +68,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 ## 2025-05-10 10:00 - 10:30AM 🕒0.5hrs
    - Test to set up the particle physics and collisions
   
-  ![Basic test](/assets/images/2025-05-10_CreateWithClint195_Test.png "If I've learned anything, it's start REALLY simple and build on solid ground")
+  ![Basic test](/assets/images/cwc/195-invisible/2025-05-10_CreateWithClint195_Test.png "If I've learned anything, it's start REALLY simple and build on solid ground")
 
 ## 2025-05-14 8:00 - 10:00 🕒2hrs
  - Test out fluid sims
@@ -77,7 +77,7 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
   
 
-![Fluid Sim Test](/assets/images/2025-05-14_FluidSimTest.jpg "Ok so this is too much fun")
+![Fluid Sim Test](/assets/images/cwc/195-invisible/2025-05-14_FluidSimTest.jpg "Ok so this is too much fun")
 
 ## 2025-05-16 17:00 - 20:30 🕒3.5hrs
 - Attempted to catch the paint blob in a can. No dice. I've since learned what to do
@@ -89,3 +89,4 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 - Basic camera move in and out
 - Render time!
 - Grabbed sounds
+
