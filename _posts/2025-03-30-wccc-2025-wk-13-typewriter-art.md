@@ -4,11 +4,7 @@ last_modified_at: 2025-03-30T16:20:02-05:00
 header:
   teaser: /assets/images/wccc/2025-wk13-typerwriter-art/teaser.png
   image: /assets/images/wccc/2025-wk13-typerwriter-art/banner.png
-tags:
-  - blender-biz
-  - creative-coding
-  - threejs
-  - wccc
+tags: ["blender-biz","creative-coding", "threejs", "wccc"]
 toc: true
 ---
 
