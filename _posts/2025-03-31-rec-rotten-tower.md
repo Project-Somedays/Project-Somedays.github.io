@@ -2,8 +2,8 @@
 title: "Reverse-Engineering Challenges: Rotten Columns"
 last_modified_at: 2025-03-31T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/coding/2025-04-01-rotten-columns/teaser.png
+  image: /assets/images/coding/2025-04-01-rotten-columns/banner.png
 
 tags:
   - threejs
