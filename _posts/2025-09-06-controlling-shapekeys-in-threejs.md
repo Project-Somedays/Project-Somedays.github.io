@@ -1,11 +1,10 @@
 ---
 title: Controlling Blender Shapekeys using Three.js
 last_modified_at: 2025-06-09T16:20:02-05:00
-categories: []
-tags:
-  - Tutorials
-  - blender-biz
-  - threejs
+header:
+  teaser: /assets/images/coding/2025-08-27-pariah/teaser.png
+  image: /assets/images/coding/2025-08-27-pariah/banner.png
+tags: ["tutorial", "blender-biz", "threejs", "creative-coding"]
 toc: true
 ---
 
