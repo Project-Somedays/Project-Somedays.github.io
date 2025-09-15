@@ -2,7 +2,6 @@
 permalink: /creative-coding/
 title: "Creative Coding and Generative Art"
 toc: true
-layout: tag
 entries_layout: grid
 classes: wide
 author_profile: true
@@ -100,3 +99,5 @@ I can highly recommend the following sources:
 - [Patt Vira](https://www.youtube.com/@pattvira)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=G2PBPynRtlYz7090&amp;list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Check out my Creative Coding!
