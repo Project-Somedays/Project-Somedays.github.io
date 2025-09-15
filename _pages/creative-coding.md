@@ -1,5 +1,5 @@
 ---
-permalink: /creativecoding/
+permalink: /creative-coding/
 title: "Creative Coding and Generative Art"
 toc: true
 ---

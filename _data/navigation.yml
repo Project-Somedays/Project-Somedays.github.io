@@ -5,6 +5,11 @@ main:
     url: /3dprinting/
   - title: "Creative Coding"
     url: /creative-coding/
+    children: 
+     - title: "Weekly Creative Coding Challenges"
+       url: /wccc/
+     - title: "Genuary"
+       url: /genuary/
   - title: "Blender Biz"
     url: /blender/
   - title: "Tutorials"
