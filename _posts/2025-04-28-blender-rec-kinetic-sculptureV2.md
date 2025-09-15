@@ -2,8 +2,8 @@
 title: "Reverse Engineering Challenge - Kinetic Sculpture by Damien Beneteau V2"
 last_modified_at: 2025-04-28T16:20:02-05:00
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
+  teaser: /assets/images/blender-biz/2025-04-27-kinetic-scuplture/teaser2.png
+  image: /assets/images/blender-biz/2025-04-27-kinetic-scuplture/banner2.png
 tags:
   - blender-biz
   - reverse-engineering
@@ -11,7 +11,7 @@ toc: true
 ---
 
 # Final Result - Video
-<!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
+[![Watch the video](https://img.youtube.com/vi/0Otm5PP2ENE/maxresdefault.jpg)](https://youtu.be/0Otm5PP2ENE)
 
 # Summary
 ## WCCChallenge Blurb
@@ -29,7 +29,7 @@ toc: true
 | 🖥️Rig Deets     | 24GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 1080 |
 
 ## 🎓Lessons Learned🎓
-- Item 1
+- Drivers are where it's at - working with keyframes in this particular instance was ok, but where possible, I think drivers are the way to go.
 
 ## Resources:
 - Inspired by this post
@@ -50,7 +50,7 @@ toc: true
 
 ## 2025-04-27 One and done
 - Boolean modifier = very handy
-![Cool thing](/assets/images/2025-04-27_Cutaways.png "Perfect for this very geometrical application")
+![Cool thing](/assets/images/blender-biz/2025-04-27-kinetic-sculpture/2025-04-27_Cutaways.png "Perfect for this very geometrical application")
 
 - Driving the animations
-![Animation settings](/assets/images/2025-04-27_CosineMotion.png "Note to self: Blender = degrees, not radians")
+![Animation settings](/assets/images/blender-biz/2025-04-27-kinetic-sculpture/2025-04-27_CosineMotion.png "Note to self: Blender = degrees, not radians")
