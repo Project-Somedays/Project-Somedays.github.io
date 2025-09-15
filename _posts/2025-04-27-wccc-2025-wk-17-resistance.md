@@ -1,14 +1,14 @@
 ---
-title: "WCCChallenge 2025 Week 17 - Resistance"
+title: WCCChallenge 2025 Week 17 - Resistance
 last_modified_at: 2025-04-27T16:20:02-05:00
 header:
   teaser: /assets/images/placeholder.jpg
   image: /assets/images/placeholder-banner.png
 tags:
-  - coding
-  - wccc
-  - vibe-coding
+  - creative-coding
   - p5js
+  - vibe-coding
+  - wccc
 toc: true
 ---
 

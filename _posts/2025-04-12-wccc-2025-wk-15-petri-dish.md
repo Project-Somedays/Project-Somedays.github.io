@@ -1,14 +1,14 @@
 ---
-title: "WCCChallenge 2025 Week 15 - Petri Dish"
+title: WCCChallenge 2025 Week 15 - Petri Dish
 last_modified_at: 2025-04-12T16:20:02-05:00
 header:
   teaser: /assets/images/placeholder.jpg
   image: /assets/images/placeholder-banner.png
 tags:
-  - wccc
+  - creative-coding
   - p5js
   - shaders
-  - coding
+  - wccc
 toc: true
 ---
 

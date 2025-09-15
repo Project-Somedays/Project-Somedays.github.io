@@ -1,13 +1,13 @@
 ---
-title: "Weekly Creative Coding Challenges 2025 - Week 14 - 'Zentangle'"
+title: Weekly Creative Coding Challenges 2025 - Week 14 - 'Zentangle'
 last_modified_at: 2025-04-06T16:20:02-05:00
 header:
   teaser: /assets/images/wccc/2025-wk14-zentangle/teaser.png
   image: /assets/images/wccc/2025-wk14-zentangle/banner.png
 tags:
+  - creative-coding
   - threejs
   - wccc
-  - coding
 toc: true
 ---
 

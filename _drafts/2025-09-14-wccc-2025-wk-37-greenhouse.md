@@ -6,7 +6,7 @@ header:
   image: /assets/images/placeholder-banner.png
 tags:
   - blender-biz
-  - coding
+  - creative-coding
   - threejs
   - wccc
 toc: true
