@@ -40,7 +40,7 @@ See other submissions here: [https://openprocessing.org/curation/78544](https://
 Join The Birb's Nest Discord community! [https://discord.gg/g5J6Ajx9Am](https://discord.gg/g5J6Ajx9Am)
 
 ## 🎓Lessons Learned🎓
-- Initiaiting a cannonjs world:
+- Initiating a cannonjs world:
 
 ```
 world = new CANNON.World();
