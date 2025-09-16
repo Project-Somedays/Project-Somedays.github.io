@@ -6,7 +6,7 @@ taxonomy: threejs
 entries_layout: grid
 classes: wide
 toc: true
-author_profile: true
+author_profile: false
 sidebar:
     nav: "creative_coding_nav"
 ---

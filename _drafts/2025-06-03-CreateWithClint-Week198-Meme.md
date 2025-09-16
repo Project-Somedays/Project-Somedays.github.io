@@ -1,9 +1,10 @@
 ---
 title: Create With Clint Weekly Challenge 198 - Meme
 last_modified_at: 2025-03-30T16:20:02-05:00
-categories: []
-tags:
-  - create-with-clint
+tags: ["create-with-clint"]
+header:
+  teaser: /assets/images/placeholder.jpg
+  image: /assets/images/placeholder-banner.png
 toc: true
 ---
 
@@ -16,14 +17,13 @@ toc: true
 |:--------        | :---------                                |
 | Author          | Project Somedays                      |
 | Title           | WCCChallenge 2025 Week 12 - Morph with Quadtree |
-| 📅 Started      | 2025-03-23        |
-| 📅 Completed    | 2025-03-23        |
+| 📅 Started      | 2025-06-04        |
+| 📅 Completed    | 2025-06-05        |
 | 🕒 Taken        | ~6hrs                                  |
 | Render🕒        | ~10hrs          |
 | 🤯 Concept      | ~~At the memeface hospital ward~~ Robot version of Red Dress Girl       |
 | 🔎 Focus        | Sculpting       |
 | 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
-| 📔 Write-up     | https://project-somedays.github.io/ |
 
 Created for the weekly Create with Clint/pwnisher community
 
@@ -39,19 +39,6 @@ Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or b
 
 - [Flashing light in blender tutorial](https://www.youtube.com/shorts/Qy1QdM1v-T8)
 
-
-## Stretch Goals/Extension Ideas
-- [ ] Swirl the parts around artistically with open simplex noise
-- [ ] Look at a bunch of different machines that would be cool to explode
-- [ ] Explode extent controls
-
-## 🎥Shot list🎥
-
-|Complete | Shot   | Type     | Duration | Cumulative Frames | Description                    |
-| :----:  | :----: | :----:   | :----:   | :----        | :----:                              |
-|  ❌     | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
-|  ❌     | 2      | Medium     | 150f     | 150f       |Elephant seal lurching forward and stopping quickly |
-|  ❌    | 1      | Wide     | 150f     | 150f         |Establishing shot - bumper to bumper traffic|
 
 ## TODO:
 

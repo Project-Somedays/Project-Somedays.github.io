@@ -6,7 +6,7 @@ toc_sticky: true
 layout: tag
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: false
 taxonomy: recode-rethink
 sidebar:
     nav: "creative_coding_nav"

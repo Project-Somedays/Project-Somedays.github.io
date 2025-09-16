@@ -6,7 +6,9 @@ taxonomy: p5js
 entries_layout: grid
 classes: wide
 toc: true
-author_profile: true
+author_profile: false
+sidebar:
+    nav: "creative_coding_nav"
 ---
 # What is p5js?
 

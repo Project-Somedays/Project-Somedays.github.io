@@ -6,6 +6,7 @@ layout: tag
 taxonomy: genuary
 entries_layout: grid
 classes: wide
+author_profile: false
 sidebar:
     nav: "creative_coding_nav"
 ---

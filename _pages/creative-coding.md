@@ -6,7 +6,7 @@ toc_sticky: true
 layout: tag
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: false
 taxonomy: creative-coding
 sidebar:
     nav: "creative_coding_nav"
