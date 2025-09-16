@@ -1,14 +1,10 @@
 ---
-title: Post Template
-last_modified_at: 2025-03-30T16:20:02-05:00
+title: "WCCChallenge 2025 Week 22 - Spiral"
+last_modified_at: 2025-06-01T16:20:02-05:00
 header:
   teaser: /assets/images/wccc/2025-wk22-spiral/teaser.png
   image: /assets/images/wccc/2025-wk22-spiral/banner.png
-categories: []
-tags:
-  - blender-biz
-  - threejs
-  - wccc
+tags: ["threejs", "wccc"]
 toc: true
 ---
 
