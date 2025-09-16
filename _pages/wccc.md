@@ -6,7 +6,7 @@ layout: tag
 entries_layout: grid
 classes: wide
 taxonomy: wccc
-auther_profile: false
+author_profile: false
 sidebar:
     nav: "creative_coding_nav"
 ---
