@@ -1,6 +1,6 @@
 ---
 permalink: /cwc-render-challenges/
-title: "pnwisher Community Render Challenges"
+title: "pwnisher Community Render Challenges"
 layout: tag
 taxonomy: render-challenge
 entries_layout: grid
