@@ -135,6 +135,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Archives (Add this new block)
+  - scope:
+      path: ""
+      type: archives
+    values:
+      layout: archive
+      entries_layout: grid
 
 category_archive:
   type: liquid
