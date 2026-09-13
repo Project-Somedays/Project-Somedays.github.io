@@ -228,62 +228,62 @@ Yes! Did I make top 100 in either case? No! Did I also tackle something more tha
 | #185 | 2025-01-11 | 🚠Cables 🚠 | "" | - | - | - |
 | #186 | 2025-01-18 | 🪐Rings🪐 | "" | - | - | - |
 | #187 | 2025-01-25 | ⚡️Shock ⚡️ | "" | - | - | - |
-| #188 | 2025-02-01 | 🍄Spores🍄 | "" | - | - | - |
-| #189 | 2025-03-22 | 🪜 SHELF 🪜 | "" | - | - | - |
-| #190 | 2025-03-29 | 💥Impact 💥 | "" | - | - | - |
-| #191 | 2025-04-05 | Lone | "" | - | - | - |
-| #192 | 2025-04-12 | 💨Accelerate💨 | "" | - | - | - |
+| #188 | 2025-02-01 | 🍄Spores🍄 | "" | [See my submission]({% post_url 2025-03-29-cwc188-spores %}) | 2025-03-29 | - |
+| #189 | 2025-03-22 | 🪜 SHELF 🪜 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | 2025-03-28 | - |
+| #190 | 2025-03-29 | 💥Impact 💥 | "" | [See my submission]({% post_url 2025-04-02-cwc-190-impact %}) | 2025-04-02 | - |
+| #191 | 2025-04-05 | Lone | "" | [See my submission]({% post_url 2025-04-05-cwc-191-lone %}) | 2025-04-05 | - |
+| #192 | 2025-04-12 | 💨Accelerate💨 | "" | [See my submission]({% post_url 2025-04-18-cwc-192-accelerate %}) | 2025-04-18 | - |
 | #193 | 2025-04-19 | 😯Temptation 😯 | "" | - | - | - |
 | #193A | 2025-04-19 | Technical Challenge 5 | "" | - | - | - |
-| #194 | 2025-05-03 | 🪓Chop 🪓 | "" | - | - | - |
-| #195 | 2025-05-10 | 🫥Invisible 🫥 | "" | - | - | - |
+| #194 | 2025-05-03 | 🪓Chop 🪓 | "" | [See my submission]({% post_url 2025-05-03-cwc-194-chop %}) | 2025-05-03 | - |
+| #195 | 2025-05-10 | 🫥Invisible 🫥 | "" | [See my submission]({% post_url 2025-05-10-cwc-195-invisibleV2 %}) | 2025-05-10 | - |
 | #196 | 2025-05-17 | 🏗️Unfinished 🏗️ | "" | - | - | - |
-| #197 | 2025-05-24 | 🏃Escape 🏃 | "" | - | - | - |
+| #197 | 2025-05-24 | 🏃Escape 🏃 | "" | [See my submission]({% post_url 2025-05-30-cwc-197-escape %}) | 2025-05-30 | - |
 | #198 | 2025-05-31 | 👌Meme 👌 | "" | - | - | - |
 | #199 | 2025-06-07 | 🎲Risk 🎲 | "" | - | - | - |
-| #200 | 2025-06-14 | WEEKLY CHALLENGE 200!! | 🎉 Reimagine any submission from challenges #100-199! | - | - | - |
-| #201 | 2025-06-21 | 👺Mask 👺 | "" | - | - | - |
+| #200 | 2025-06-14 | WEEKLY CHALLENGE 200!! | 🎉 Reimagine any submission from challenges #100-199! | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #201 | 2025-06-21 | 👺Mask 👺 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #202 | 2025-06-28 | 🛤️Path 🛤️ | "" | - | - | - |
 | #203 | 2025-07-05 | 🧭Expedition 🧭 | "" | - | - | - |
-| #204 | 2025-07-12 | 🌺Bloom 🌺 | "" | - | - | - |
-| #205 | 2025-07-19 | 💥Burst 💥 | "" | - | - | - |
-| #206 | 2025-07-26 | ☠️Cursed ☠️ | "" | - | - | - |
+| #204 | 2025-07-12 | 🌺Bloom 🌺 | "" | [See my submission]({% post_url 2025-07-14-cwc-204-bloom %}) | 2025-07-14 | - |
+| #205 | 2025-07-19 | 💥Burst 💥 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #206 | 2025-07-26 | ☠️Cursed ☠️ | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #207 | 2025-09-06 | 🗑️Scavenger 🗑️ | "" | - | - | - |
-| #208 | 2025-09-20 | 💔Left Behind 💔 | "" | - | - | - |
-| #209 | 2025-09-27 | 💉Cure💉 | "" | - | - | - |
+| #208 | 2025-09-20 | 💔Left Behind 💔 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #209 | 2025-09-27 | 💉Cure💉 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #210 | 2025-10-04 | 💿2000's 💿 | "" | - | - | - |
 | #210 | 2025-10-11 | 🤬Fury 🤬 | "" | - | - | - |
 | #212 | 2025-10-18 | ❤️‍🔥Aura ❤️‍🔥 | "" | - | - | - |
-| #213 | 2025-10-25 | 📦✂️🧵Homemade Halloween Costume 📦✂️🧵 | "" | - | - | 🥈 |
+| #213 | 2025-10-25 | 📦✂️🧵Homemade Halloween Costume 📦✂️🧵 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | 🥈 |
 | #214 | 2025-11-02 | Suit Up Challenge! | Working through a curated list of 28 prompts designed to test your modeling and texturing skills. Each prompt features an item a seasoned adventurer might carry, and by the end of the month, you’ll have a fully equipped adventurer! | - | - | - |
-| #215 | 2025-11-29 | 🏰Tower 🏰 | "" | - | - | - |
-| #216 | 2025-12-06 | 🚪Door 🚪 | "" | - | - | - |
-| #216 | 2025-12-13 | 🐚Shell 🐚 | "" | - | - | - |
-| #217 | 2025-12-20 | 🦌Rankin-Bass Style Scene🦌 | Rudolph 1964 style | - | - | - |
+| #215 | 2025-11-29 | 🏰Tower 🏰 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #216 | 2025-12-06 | 🚪Door 🚪 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #216 | 2025-12-13 | 🐚Shell 🐚 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #217 | 2025-12-20 | 🦌Rankin-Bass Style Scene🦌 | Rudolph 1964 style | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #218 | 2025-12-27 | 🕯️💡Evolve 🕯️💡 | Rudolph 1964 style | - | - | - |
-| #219 | 2026-01-03 | 🔆Caustics 🔆 | "" | - | - | - |
-| #220 | 2026-01-10 | 🔀 Anachronism 🔀 | Something in a time period it doesn't belong | - | - | - |
-| #221 | 2026-01-17 | 🥊Dodge 🥊 | "" | - | - | - |
-| #222 | 2026-01-24 | 🦗Insect 🦗 | "" | - | - | - |
-| #223 | 2026-01-24 | 👑Judgement 👑 | "" | - | - | - |
+| #219 | 2026-01-03 | 🔆Caustics 🔆 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #220 | 2026-01-10 | 🔀 Anachronism 🔀 | Something in a time period it doesn't belong | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #221 | 2026-01-17 | 🥊Dodge 🥊 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #222 | 2026-01-24 | 🦗Insect 🦗 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #223 | 2026-01-24 | 👑Judgement 👑 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #224 | 2026-03-14 | Turn an Everyday Object into a Spaceship 2.0 | "" | - | - | - |
-| #225 | 2026-03-21 | 🕺Iconic / Famous Pose 🕺 | "" | - | - | - |
-| #226 | 2026-03-28 | 🧚Whimsical 🧚 | "" | - | - | - |
-| #227 | 2026-04-04 | 🎊Festive 🎊 | "" | - | - | - |
-| #228 | 2026-04-11 | 🚨Beacon 🚨 | "" | - | - | - |
-| #229 | 2026-04-18 | 🗺️Journey 🗺️ | "" | - | - | - |
-| #230 | 2026-04-25 | 🟥Monochromatic (Single Color) 🟥 | "" | - | - | - |
-| #231 | 2026-05-02 | ⛓️‍💥Unleashed ⛓️‍💥 | "" | - | - | - |
-| #232 | 2026-05-09 | 🔧Modification 🔧 | "" | - | - | - |
-| #233 | 2026-05-16 | 🌳Tree House 🌳 | "" | - | - | 🏆 |
-| #234 | 2026-05-23 | 🥸Disguise 🥸 | "" | - | - | - |
-| #235 | 2026-05-30 | 🕯️Single Light Source 🕯️ | "" | - | - | - |
-| #236 | 2026-06-06 | 🏬Liminal Space 2.0 🏬 | "" | - | - | - |
-| #237 | 2026-06-13 | 🎣Fishing 🎣 | "" | - | - | - |
-| #238 | 2026-06-20 | Climb 🧗 | "" | - | - | - |
-| #239 | 2026-06-27 | 🦷Teeth 🦷 | "" | - | - | - |
-| #240 | 2026-07-04 | 🟥🟦🟨Only Primary Colors🟥🟦🟨 | "" | - | - | - |
-| #241 | 2026-07-11 | 💥Critical Hit 💥 | "" | - | - | 🏆 |
-| #241 | 2026-07-18 | 🌠Anomaly 🌠 | "" | - | - | - |
-| #241 | 2026-07-25 | 🃏Card Art Challenge🃏 | Reimagine a TCG Card's Art (Pokémon, MTG, Yu-Gi-Oh, etc...) | - | - | - |
-| #244 | 2026-08-12 | 🔋Battery 🔋 | "" | - | - | - |
+| #225 | 2026-03-21 | 🕺Iconic / Famous Pose 🕺 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #226 | 2026-03-28 | 🧚Whimsical 🧚 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #227 | 2026-04-04 | 🎊Festive 🎊 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #228 | 2026-04-11 | 🚨Beacon 🚨 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #229 | 2026-04-18 | 🗺️Journey 🗺️ | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #230 | 2026-04-25 | 🟥Monochromatic (Single Color) 🟥 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #231 | 2026-05-02 | ⛓️‍💥Unleashed ⛓️‍💥 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #232 | 2026-05-09 | 🔧Modification 🔧 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #233 | 2026-05-16 | 🌳Tree House 🌳 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | 🏆 |
+| #234 | 2026-05-23 | 🥸Disguise 🥸 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #235 | 2026-05-30 | 🕯️Single Light Source 🕯️ | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #236 | 2026-06-06 | 🏬Liminal Space 2.0 🏬 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #237 | 2026-06-13 | 🎣Fishing 🎣 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #238 | 2026-06-20 | Climb 🧗 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #239 | 2026-06-27 | 🦷Teeth 🦷 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #240 | 2026-07-04 | 🟥🟦🟨Only Primary Colors🟥🟦🟨 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #241 | 2026-07-11 | 💥Critical Hit 💥 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | 🏆 |
+| #241 | 2026-07-18 | 🌠Anomaly 🌠 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #241 | 2026-07-25 | 🃏Card Art Challenge🃏 | Reimagine a TCG Card's Art (Pokémon, MTG, Yu-Gi-Oh, etc...) | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #244 | 2026-08-12 | 🔋Battery 🔋 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
