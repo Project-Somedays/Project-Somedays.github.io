@@ -53,12 +53,7 @@ Note: the offset property only moves all vertices relative to the origin
 
 ## Resources:
 - Models: 
-  - ["Stylized Fishing Boat"](https://skfb.ly/oOAVU) by [salwanmax](https://sketchfab.com/salwanmax) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-  - ["salmon Fish"](https://skfb.ly/op7WI) by [Mostafa](https://sketchfab.com/patroo) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-  - ["Fish Skeleton"](https://skfb.ly/pAZXZ) by [_alice_wang_](https://sketchfab.com/alice_wang_1997) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-  - ["Stylised long boot"](https://www.blenderkit.com/asset-gallery-detail/10718a6a-72d3-46a3-b3f1-264a52f9d72a/)
-  - ["Anchor"](https://www.blenderkit.com/asset-gallery-detail/c80f1105-3a60-4dca-b078-c8647eee23cf/)
-  - ["Victor"](https://www.blenderkit.com/asset-gallery-detail/4b4e7b47-d4f5-4e7d-9525-bd9b8739e2aa/)
+- ["Cute little Duck"](https://skfb.ly/oBRTA) by [TadenStar](https://sketchfab.com/tadenstar) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 
 ## TODO:
 - [x] Find ship

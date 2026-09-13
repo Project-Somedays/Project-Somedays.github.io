@@ -25,6 +25,13 @@ toc: true
 | 🔎 Focus        | Rigging      |
 | 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
 
+Three hunters in a log cabin bar showing off their goat kills
+1. Big horn
+2. Mega big horn with ridiculous horns
+3. Demon goat hunter with many massive horns and many eyes
+GREAT Tutorial https://www.youtube.com/watch?v=5BXvwqVyCQw&t=144s
+Wiggle Bones 2 Add-on: https://www.youtube.com/watch?v=S-itfgj37GE
+
 Created for the weekly Create with Clint/pwnisher community
 
 Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
