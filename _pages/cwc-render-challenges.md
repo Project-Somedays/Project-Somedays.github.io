@@ -229,7 +229,7 @@ Yes! Did I make top 100 in either case? No! Did I also tackle something more tha
 | #186 | 2025-01-18 | 🪐Rings🪐 | "" | - | - | - |
 | #187 | 2025-01-25 | ⚡️Shock ⚡️ | "" | - | - | - |
 | #188 | 2025-02-01 | 🍄Spores🍄 | "" | - | - | - |
-| #189 | 2025-03-22 | 🪜 SHELF 🪜 | "" | [Article]({% post_url 2025-03-28-cwc189-shelf.md %}) | - | - |
+| #189 | 2025-03-22 | 🪜 SHELF 🪜 | "" | - | - | - |
 | #190 | 2025-03-29 | 💥Impact 💥 | "" | - | - | - |
 | #191 | 2025-04-05 | Lone | "" | - | - | - |
 | #192 | 2025-04-12 | 💨Accelerate💨 | "" | - | - | - |
