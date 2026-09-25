@@ -1,1 +1,9 @@
-{}
+{
+  "assets": {
+    "images": {
+      "cwc": {
+        "225-famouse-pose": {}
+      }
+    }
+  }
+}
