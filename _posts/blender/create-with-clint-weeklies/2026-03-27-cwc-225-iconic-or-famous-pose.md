@@ -44,7 +44,7 @@ The real challenge was just trying to recreate the lighting
 
 This rig comes from Blendkit just in his underwear?? That's what I'm  claiming anyway.
 
-![Questionable pose](/assets/images/cwc/225-famouse-pose/cwc-225-test.png "Hope someone peeks over your shoulder while you're looking at this with zero context...")
+![Questionable pose](/assets/images/cwc/225-famous-pose/cwc-225-test.png "Hope someone peeks over your shoulder while you're looking at this with zero context...")
 
 Something I'm still working on, but my current technique is to:
 
@@ -57,7 +57,7 @@ Something I'm still working on, but my current technique is to:
 
 Resizing the clothes to make them stick out from the skin is can't really be done from the world origin etc. This is my current workaround anyway.
 
-![It's basically just his skin!](/assets/images/cwc/225-famouse-pose/cwc-225-clothes.png "Shirt ghost!")
+![It's basically just his skin!](/assets/images/cwc/225-famous-pose/cwc-225-clothes.png "Shirt ghost!")
 
 Turns out if you do this for a rigged character, your clothes will also be rigged! Super handy.
 
@@ -65,21 +65,21 @@ Turns out if you do this for a rigged character, your clothes will also be rigge
 
 Fill only
 
-![Fill Light Only](/assets/images/cwc/225-famouse-pose/cwc-225-fill.png "Little unexciting")
+![Fill Light Only](/assets/images/cwc/225-famous-pose/cwc-225-fill.png "Little unexciting")
 
 Key light: to highlight the face
 
-![Key Light](/assets/images/cwc/225-famouse-pose/cwc-225-key.png "Ah, there he is. But he doesn't pop off the page atm...")
+![Key Light](/assets/images/cwc/225-famous-pose/cwc-225-key.png "Ah, there he is. But he doesn't pop off the page atm...")
 
 Edge light: to make Mr Goldblum pop off the backdrop
 
-![Edge Light](/assets/images/cwc/225-famouse-pose/cwc-225-edge.png "THAT's better!")
+![Edge Light](/assets/images/cwc/225-famous-pose/cwc-225-edge.png "THAT's better!")
 
 ### Compositor Setup
 
 Still experimenting with the alpha-over workflow. I do enjoy how quick it is though.
 
-![Alpha-Over for the win!](/assets/images/cwc/225-famouse-pose/cwc-225-compositor.png "Easier to use a background image than make a subtle but interesting thing from scratch")
+![Alpha-Over for the win!](/assets/images/cwc/225-famous-pose/cwc-225-compositor.png "Easier to use a background image than make a subtle but interesting thing from scratch")
 
 ## Stretch Goal
 
