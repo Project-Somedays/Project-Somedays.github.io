@@ -7,98 +7,69 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "Description",
+          "title": "description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "Publishing date",
+          "title": "date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "type": "datetime"
         },
         {
-          "title": "Content preview",
+          "title": "preview",
           "name": "preview",
-          "type": "image"
+          "type": "string"
         },
         {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "Tags",
+          "title": "tags",
           "name": "tags",
           "type": "tags"
         },
         {
-          "title": "Categories",
+          "title": "categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "last_modified_at",
+          "name": "last_modified_at",
+          "type": "datetime"
+        },
+        {
+          "title": "header",
+          "name": "header",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "teaser",
+              "name": "teaser",
+              "type": "string"
+            },
+            {
+              "title": "image",
+              "name": "image",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "title": "toc",
+          "name": "toc",
+          "type": "boolean"
         }
       ]
-    },
-
-    {
-    "name": "Blender Challenge",
-    "template": "blender-challenge.md",
-    "fields": [
-      {
-        "title": "Title",
-        "name": "title",
-        "type": "string"
-      },
-      {
-        "title": "Draft Status",
-        "name": "draft",
-        "type": "draft"
-      },
-      {
-        "title": "Header Teaser Thumbnail",
-        "name": "header.teaser",
-        "type": "image"
-      },
-      {
-        "title": "Header Banner Image",
-        "name": "header.image",
-        "type": "image"
-      },
-      {
-        "title": "Social Preview Image",
-        "name": "preview",
-        "type": "image"
-      },
-      {
-        "title": "Tags",
-        "name": "tags",
-        "type": "tags"
-      },
-      {
-        "title": "Keywords",
-        "name": "keywords",
-        "type": "categories"
-      },
-      {
-        "title": "Table of Contents",
-        "name": "toc",
-        "type": "boolean",
-        "hidden": true
-      },
-      {
-        "title": "Last Modified",
-        "name": "last_modified_at",
-        "type": "datetime",
-        "isModifiedDate": true
-      }
-    ]
-  }
+    }
   ],
   "frontMatter.framework.id": "jekyll",
   "frontMatter.content.publicFolder": "assets",
@@ -112,7 +83,6 @@
       "title": "posts",
       "path": "[[workspace]]/_posts"
     }
-  
   ],
   "frontMatter.git.enabled": true
 }
