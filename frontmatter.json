@@ -44,7 +44,61 @@
           "type": "categories"
         }
       ]
-    }
+    },
+
+    {
+    "name": "Blender Challenge",
+    "template": "blender-challenge.md",
+    "fields": [
+      {
+        "title": "Title",
+        "name": "title",
+        "type": "string"
+      },
+      {
+        "title": "Draft Status",
+        "name": "draft",
+        "type": "draft"
+      },
+      {
+        "title": "Header Teaser Thumbnail",
+        "name": "header.teaser",
+        "type": "image"
+      },
+      {
+        "title": "Header Banner Image",
+        "name": "header.image",
+        "type": "image"
+      },
+      {
+        "title": "Social Preview Image",
+        "name": "preview",
+        "type": "image"
+      },
+      {
+        "title": "Tags",
+        "name": "tags",
+        "type": "tags"
+      },
+      {
+        "title": "Keywords",
+        "name": "keywords",
+        "type": "categories"
+      },
+      {
+        "title": "Table of Contents",
+        "name": "toc",
+        "type": "boolean",
+        "hidden": true
+      },
+      {
+        "title": "Last Modified",
+        "name": "last_modified_at",
+        "type": "datetime",
+        "isModifiedDate": true
+      }
+    ]
+  }
   ],
   "frontMatter.framework.id": "jekyll",
   "frontMatter.content.publicFolder": "assets",
@@ -58,6 +112,7 @@
       "title": "posts",
       "path": "[[workspace]]/_posts"
     }
+  
   ],
   "frontMatter.git.enabled": true
 }
