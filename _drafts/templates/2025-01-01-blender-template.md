@@ -1,5 +1,5 @@
 ---
-title: "CWC 206 - Scavenger"
+title: "Create With Clint Weekly Render Challenge #..."
 last_modified_at: 2025-09-15T16:20:02-05:00
 header:
   teaser: /assets/images/placeholder.jpg

@@ -2,9 +2,11 @@
   "taxonomy": {
     "categories": [],
     "tags": [
+      "CAD",
       "Jekyll",
       "Post Formats",
       "Tutorials",
+      "animating",
       "blender-biz",
       "chat",
       "crappy-photoshop",
@@ -15,21 +17,22 @@
       "laser-cutting",
       "link",
       "making",
+      "modelling",
       "notice",
       "p5js",
       "physics-sims",
       "quote",
       "readability",
       "reverse-engineering",
+      "rigging",
       "shaders",
       "standard",
       "threejs",
       "update",
+      "vfxbreakdown",
       "vibe-coding",
       "wccc",
-      "woodworking",
-      "vfxbreakdown",
-      "CAD"
+      "woodworking"
     ]
   }
 }
