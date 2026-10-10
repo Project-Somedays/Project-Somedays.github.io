@@ -2,7 +2,64 @@
   "assets": {
     "images": {
       "cwc": {
-        "225-famouse-pose": {}
+        "225-famouse-pose": {},
+        "247-blacklight": {
+          "cwc-247-blacklight-header.png": {
+            "alt": "",
+            "caption": "Cycles, Clay, Material Previews",
+            "title": "BTS"
+          },
+          "cwc-247-blacklight-nothing-sus.png": {
+            "alt": "Nothing Sus",
+            "caption": "Nothing sus",
+            "title": "Scene Blocking"
+          },
+          "cwc-247-blacklight-reference.png": {
+            "alt": "There are some NASTY toilets out there...",
+            "caption": "Sadly, I'm pretty sure most of these are real 😩",
+            "title": "cwc-247-blacklight-reference"
+          },
+          "cwc-247-blacklight-shader-setup.png": {
+            "alt": "Shader node setup",
+            "caption": "Using the Ink image as a mask for our emissive material",
+            "title": "The Shader Setup"
+          },
+          "cwc-247-blacklight-submission.png": {
+            "alt": "I stay in a lot of hotels for work. I don't want to know.",
+            "caption": "\"Don't ask questions you don't want answered.\"",
+            "title": "CWC 247 - Blacklight Final Submission"
+          },
+          "cwc-247-blacklight-teaser.png": {
+            "alt": "",
+            "caption": "Clay Render through to Material Preview to Final Render",
+            "title": "Toxic Triptych"
+          },
+          "cwc-247-blacklight-test.png": {
+            "alt": "Toxic Toilet Test",
+            "caption": "Before constructing an entire scene, we need to know: will this masking technique work?",
+            "title": "Fail Fast: Proof of Concept"
+          },
+          "glow-colour.png": {
+            "alt": "",
+            "caption": "",
+            "title": ""
+          },
+          "shader-alt-setup.png": {
+            "alt": "",
+            "caption": "Where the png has a transparent background, we can just use the alpha channel to drive the factor to choose from one material or the other.",
+            "title": "Alt Shader Setup"
+          },
+          "uv-light-colour.png": {
+            "alt": "",
+            "caption": "",
+            "title": ""
+          },
+          "v900-sasi-pattern-17.jpg": {
+            "alt": "",
+            "caption": "Used as a mask",
+            "title": "Inksplatter"
+          }
+        }
       }
     }
   }

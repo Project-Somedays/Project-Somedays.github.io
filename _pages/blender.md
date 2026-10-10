@@ -9,7 +9,6 @@ author_profile: false
 sidebar:
   nav: "blender_nav"
 ---
-## 2025 - My Year of Learning Blender
 
 Expanding from 3D printing and CAD + Creative Coding.
 Why Blender? It's free! And crazy powerful.
