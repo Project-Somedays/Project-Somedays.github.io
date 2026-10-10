@@ -2,11 +2,22 @@
 title: Controlling Blender Shapekeys using Three.js
 last_modified_at: 2025-06-09T16:20:02-05:00
 header:
-  teaser: /assets/images/coding/2025-08-27-pariah/teaser.png
-  image: /assets/images/coding/2025-08-27-pariah/banner.png
-tags: ["tutorial", "blender-biz", "threejs", "creative-coding"]
+    teaser: /assets/images/coding/2025-08-27-pariah/teaser.png
+    image: /assets/images/coding/2025-08-27-pariah/banner.png
+tags:
+    - tutorial
+    - blender-biz
+    - threejs
+    - creative-coding
 toc: true
 toc_sticky: true
+preview: /images/coding/2025-08-27-pariah/teaser.png
+description: A tutorial on how to control shapekeys in three.js + some troubleshooting
+excerpt: "How-To's and Pitfalls: Have Fun!"
+keywords:
+    - blender
+    - threejs
+    - shapekeys
 ---
 
 # Controlling Blender Shapekeys with Threejs: "Pariah"
@@ -17,25 +28,29 @@ toc_sticky: true
 
 Did you know you can control shapekeys from Blender in Threejs? In this tutorial, I'll walk you through Blender so much more user-friendly when it comes to vertex This one seemed to strike a chord with people - it got 5x my usual (small) viewership on YouTube. The creative coding
 
-## 🏗️The Building Blocks🏗️
+### 🏗️The Building Blocks🏗️
+
 Before we dive in, let's get our environment set up.
 
-## 🔨Software/Tools🔨
+### 🔨Software/Tools🔨
 
 - This [Three.js template](https://openprocessing.org/sketch/2619755) I've been adding to over time
 - [Blender](https://www.blender.org/) - I used version 4.5.2 but apparently it's been in there since Blender 2.4, December 2005
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## 🦆Prerequisites🦆
+### 🦆Prerequisites🦆
 
 This is NOT a beginner tutorial in Three.js or Blender. I'm assuming:
+
 - Basic familiarity with the Blender interface
 - Familiarity with the threejs set up and structure (see [other helpful links](other-helpful-links) below)
 - You already know how to use lil-gui for a basic ui interface
 
-# 💪The Core Technique💪
+## 💪The Core Technique💪
+
 The short answer is this pair of functions
-```
+
+```javascript
 /**
  * Sets a specific shape key's influence value on a Three.js mesh.
  * This function checks if the mesh has morph target influences (the Three.js equivalent of shape keys)
@@ -68,24 +83,29 @@ function transitionShapekeys(face, shapekeyStart, shapekeyEnd, value) {
     setShapeKey(face, shapeKeyStart, 1 - value);
 }
 ```
-## Step 1: Set up shapekeys in Blender
-### What even are shapekeys though?
+
+### Step 1: Set up shapekeys in Blender
+
+#### What even are shapekeys though?
+
 Shapekeys are like poses for vertices in your mesh relative to some base position.
 So, in Blender, you set up the Basis and then add as many shapekeys as you like for, in my case, the whole face.
-These are controlled by a value between 0 and 1 where 0 is the basis and 1 is the fully realised mesh
+These are controlled by a value between 0 and 1 where 0 is the basis and 1 is the fully realised mesh.
 
--  Gif showing shapekeys being controlled
+- Gif showing shapekeys being controlled
 
 This is WAY simpler and lightweight than facial riggings
 
 - Blender rigify image
 
-### Transitioning from one shapekey to another without passing through the basis
+#### Transitioning from one shapekey to another without passing through the basis
+
 All shapekeys are defined relative to the basis i.e. neutral face so how do we transition smoothly between two expressions eg: from smiling to frowning without needing to get to the rest position in between?
 
 Simple: transition one expression from 0.0 to 1.0 at the same time as we transition the other from 1.0 to 0.0
 
-### Shapekeys in other 3D software
+#### Shapekeys in other 3D software
+
 | Software | Term for Shape Keys | Common Use Case |
 |:---:|:---:|:---:|
 | **Blender** | Shape Keys | Facial expressions, muscle deformation, and object transformation. |
@@ -95,20 +115,22 @@ Simple: transition one expression from 0.0 to 1.0 at the same time as we transit
 | **ZBrush** | Morph Targets | A core feature for saving and blending between different sculpted states. |
 | **Unreal Engine** | Morph Targets | Used for importing and animating shape deformations from other software. |
 
-### Blender Human Base Meshes
+#### Blender Human Base Meshes
+
 For this project, I used the Blender Foundation's [Human Base Meshes asset pack](https://developer.blender.org/docs/release_notes/4.0/asset_bundles/) because making my own topology seemed like far too much work.
 They already have great topology - something I'm still learning to do for myself.
 
 To keep my sketch super light-weight, I deleted all the faces I knew I wouldn't need. Note: you need to do this BEFORE you set up the shape keys.
 
-## Step 2: Export as GLB
+### Step 2: Export as GLB
+
 Make sure you have y axis as up and include only the mesh we're after in your export. 
 
 - Blender picture
 
-## Step 3: Import into your Three.js scene
+### Step 3: Import into your Three.js scene
 
-```
+```javascript
 /**
  * Loads a GLTF model, applies a material, and positions it in the scene.
  * This function loads the 'Pariah.glb' file, iterates through its meshes
@@ -166,8 +188,9 @@ function loadBiz(colour, x, y, z) {
 }
 ```
 
-### Making sure shapekeys will work
-```
+#### Making sure shapekeys will work
+
+```javascript
 newLocalScene.traverse((child) => {
     if (child.isMesh) {
         child.material = new THREE.MeshStandardMaterial({ color: colour });
@@ -177,12 +200,14 @@ newLocalScene.traverse((child) => {
     }
 });
 ```
+
 The ```material.needsUpdate``` flag is the key here
 
+#### How do we arrange the faces?
 
-### How do we arrange the faces?
 I used this function generated by gemini to distribute them on the surface of a sphere
-```
+
+```javascript
 /**
  * Generates an array of points evenly distributed on the surface of a sphere.
  * This uses the Golden Spiral algorithm, which avoids the clustering at the poles
@@ -218,24 +243,31 @@ function generatePointsOnSphere(numPoints, radius) {
     return new Float32Array(positions);
 }
 ```
+
 To load up the faces, first I got my Float32Array corresponding to the xyz positions
 Why Float32Array? If you're making a point cloud in Threejs, that's what you can feed in for a lightning fast GPU-accelerated shade render.
 
 Now I just loop through, loading faces as we go and making them face the camera
-```
+
+```javascript
 spawnPoints = generatePointsOnSphere(totalFaces, 3);
 for(let i = 0; i < totalFaces; i++){
     let ix = 3*i; // getting the index from the Float32 array
     loadBiz(random(palette), spawnPoints[ix], spawnPoints[ix+1], spawnPoints[ix+2]);
 }
 ```
-### How do you set the material colour?
+
+#### How do you set the material colour?
+
 Emulating the random(arr) function from p5.js...
-```
+
+```javascript
 const random = (arr) => arr[Math.floor(Math.random() * arr.length)]
 ```
+
 Then it's a matter of making a standard material and applying it to the mesh. From the code above: 
-```
+
+```javascript
 newLocalScene.traverse((child) => {
     if (child.isMesh) {
         child.material = new THREE.MeshStandardMaterial({ color: colour });
@@ -246,41 +278,50 @@ newLocalScene.traverse((child) => {
 });
 ```
 
-### Where did I get my colours from?
+#### Where did I get my colours from?
+
 If I were better at colour theory, I'd maybe make them myself, but I'd rather leverage the brilliant work of others:
 [Vibrant Tones](https://coolors.co/f94144-f3722c-f8961e-f9844a-f9c74f-90be6d-43aa8b-4d908e-577590-277da1) from [Coolors.co](https://coolors.co/)
-```
+
+```javascript
 const palette = "#f94144, #f3722c, #f8961e, #f9844a, #f9c74f, #90be6d, #43aa8b, #4d908e, #577590, #277da1".split(", ");
 ```
 
-## Step 4: Controlling the shapekeys
-### Unpacking the two core functions:
-```
+### Step 4: Controlling the shapekeys
+
+#### Unpacking the two core functions:
+
+```javascript
 function setShapekeyValue(face, shapekey, value){
     if(face.children[0].morphTargetInfluences) {
             face.children[0].morphTargetInfluences[shapekey] = value;
     }
 }
 ```
+
 The property of the mesh we're after is ```morphTargetInfluences```
 It's an array of all the shapekeys embedded in that mesh. Which order are they in? Apparently in the export from Blender, especially in earlier versions, they can get jumbled. [See below](#ooooh-i-have-a-lot-of-shapekeys-how-do-i-get-the-index-of-their-name) for how to look up the shapekey by the name you gave them in Blender.
 
-### How do we swap directly from one expression to the other?
-```
+#### How do we swap directly from one expression to the other?
+
+```javascript
 function transitionShapekeys(face, shapekeyStart, shapekeyEnd, value) {
     setShapeKey(face, shapeKeyEnd, value);
     setShapeKey(face, shapeKeyStart, 1 - value);
 }
 ```
+
 Note: Now as the "value" moves from 0 to 1, shapeKeyEnd goes 0 --> 1 at the same time as shapeKeyStart goes 1 --> 0
 
 💪 YISSS 💪
 
 However, also not that those two values are still independent normally. I came across this problem when flicking over to manual control mode. See below for how I handled that.
 
-### Manually setting the value
+#### Manually setting the value
+
 To test it out, if in manual mode, I can set the value with the lil-gui slider:
-```
+
+```javascript
 function animate() {
     requestAnimationFrame(animate);
 
@@ -288,20 +329,22 @@ function animate() {
     for(let face of allFaces){
         face.lookAt(camera.position); // update so they're always facing the camera
         if(params.manualControlMode){
-					setShapekeyValue(face,params.shapekeyIndex, params.shapekeyValue);
-				}
+			setShapekeyValue(face,params.shapekeyIndex, params.shapekeyValue);
+		}
     }
 
     controls.update(); // Update controls (required for damping)
     renderer.render(scene, camera);
 }
 ```
+
 This slider is set up for values between 0 and 1
-```
+
+```javascript
 let params = {
     manualControlMode: false,
     shapekeyValue: 0,
-		shapekeyIndex: 0,
+	shapekeyIndex: 0,
     colour: new THREE.Color(0xffffff),
     debug: false,
     playSound: true
@@ -311,7 +354,7 @@ gui.add(params, 'shapekeyValue', 0, 1, 0.001);
 
 ### The core mechanic: controlling the sneer by how much the user is looking at the face
 
-```
+```javascript
 for(let face of allFaces){
         face.lookAt(camera.position); // update so they're always facing the camera
         disgustLevel = isFacing(camera, face)
@@ -325,7 +368,7 @@ If only there was a mathematical function that gave us a measure of how much we'
 
 I did a mathematics degree back in the day, but linear algebra was never my strong suit. Claude.ai to the rescue:
 
-```
+```javascript
 /**
  * Calculates a normalized value (0-1) indicating how much the camera is facing an object.
  * A value of 1 means the camera is looking directly at the object.
@@ -346,7 +389,7 @@ function isFacing(camera, targetObject) {
     // The dot product of two normalized vectors gives the cosine of the angle between them.
     // A dot product of 1 means the vectors are pointing in the same direction.
     // A dot product of -1 means they are pointing in opposite directions.
-    const dotDigust = cameraDirection.dot(direction);
+    const dotDisgust = cameraDirection.dot(direction);
     
 
     return dotDisgust;
@@ -355,19 +398,21 @@ function isFacing(camera, targetObject) {
 
 Is it a problem that morphTargetValues expects values between 0 and 1? Nah, Three.js clamps the input behind the scenes.
 
-### How do we control how much we have to be looking at the camera to affect the sneer?
+#### How do we control how much we have to be looking at the camera to affect the sneer?
+
 For the effect to truly shine, it needs to be super clear that it's only when we're looking at the faces that they show us disdain. If only there was a nice set of functions that are great for modifying values between 0 and 1... Wait, they're called easing functions! I use [Easings.net](https://easings.net/) all the time.
 
 Of the choices, we want something with a fast drop-off away from 1:
 
-```
+```javascript
 function easeInExpo(x) {
   return x === 0 ? 0 : Math.pow(2, 10 * x - 10);
 }
 ```
 
 Putting it all together, we get this animation loop which gets called each frame:
-```
+
+```javascript
 function animate() {
     requestAnimationFrame(animate);
 
@@ -375,10 +420,10 @@ function animate() {
     for(let face of allFaces){
         face.lookAt(camera.position); // update so they're always facing the camera
         if(params.manualControlMode){
-					setShapekeyValue(face,params.shapekeyIndex, params.shapekeyValue);
-					continue; // no need to calculate further
-				}
-				disgustLevel = isFacing(camera, face); // based on how much you're facing the camera, max disgust at head on
+            setShapekeyValue(face,params.shapekeyIndex, params.shapekeyValue);
+            continue; // no need to calculate further
+        }
+        disgustLevel = isFacing(camera, face); // based on how much you're facing the camera, max disgust at head on
         easedDisgust = easeInExpo(disgustLevel); // drop off this value (i.e. smile) not too far from head on
         if(!params.manualControlMode) transitionShapekeys(face, 0, 1, easedDisgust);
     }
@@ -388,13 +433,15 @@ function animate() {
 }
 ```
 
-# 🤔Troubleshooting🤔
+## 🤔Troubleshooting🤔
 
-## Ooooh I have a lot of shapekeys... how do I get their index by their name?
+### Ooooh I have a lot of shapekeys... how do I get their index by their name?
+
 In this example, I didn't bother because I only had two shape keys: "smile" and "sneer" at indexes 0 and 1 respectively, but there's another property of the mesh which is ```morphTargetDictionary```
 
 You could use the following function to extract the index by name.
-```
+
+```javascript
 /**
  * Finds the index of a morph target by its name on a given mesh.
  * @param {THREE.Mesh} mesh The mesh to search for the morph target.
@@ -409,29 +456,34 @@ function getMorphTargetIndexByName(mesh, name) {
 }
 ```
 
-## My shapekeys are out of order!
+### My shapekeys are out of order!
+
 See above. Apparently they can get scrambled on export from Blender.
 
-## I've switched to manual mode, but now all my faces look like they've had a stroke
+### I've switched to manual mode, but now all my faces look like they've had a stroke
+
 Ah! It may be that you've forgotten that the influence value for any given shapekey is independent. So when we flip to manual control mode, we'll need to reset all the other shapekey values. For me, that meant adding this onChange function for when I toggled manualControlMode:
-```
-gui.add(params, 'manualControlMode').onChange(() => {
-	 // set the influence of the one not in control
-	 let otherExpressionInfluence = 1 - params.shapekeyIndex;
-	 for(let face of allFaces){
-		 setShapekeyValue(face, otherExpressionInfluence, 0);
-		 setShapekeyValue(face, params.shapekeyIndex, params.shapekeyValue);
-	 }
- });
+
+```javascript
+    gui.add(params, 'manualControlMode').onChange(() => {
+        // set the influence of the one not in control
+        let otherExpressionInfluence = 1 - params.shapekeyIndex;
+        for(let face of allFaces){
+            setShapekeyValue(face, otherExpressionInfluence, 0);
+            setShapekeyValue(face, params.shapekeyIndex, params.shapekeyValue);
+        }
+    });
 ```
 
-# 🔗Other helpful links🔗
+## 🔗Other helpful links🔗
+
 - [Three.js Journey](https://threejs-journey.com/): Bruno Simon's incredibly comprehensive guide to all things threejs
 - [Blender Human Base Meshes](https://developer.blender.org/docs/release_notes/4.0/asset_bundles/)
 - [Coolors.co](https://coolors.co/)
 - [Easings.net](https://easings.net/)
 
-# 🫡Where to next?🫡
-H
+## 🫡Where to next?🫡
+
+I'll definitely be looking for an excuse to include shapekeys into future projects. This is definitely been the most helpful thing I've found when learning a new technique: shoe-horn it wherever it goes!
 
 Feel free to ask questions in the comments below! Happy creating! 🎉

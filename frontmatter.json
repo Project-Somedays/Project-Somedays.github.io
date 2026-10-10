@@ -74,6 +74,21 @@
           "title": "toc",
           "name": "toc",
           "type": "boolean"
+        },
+        {
+          "title": "toc_sticky",
+          "name": "toc_sticky",
+          "type": "boolean"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "blender",
+            "threejs",
+            "shapekeys"
+          ]
         }
       ]
     }
