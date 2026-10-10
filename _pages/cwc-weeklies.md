@@ -1,13 +1,10 @@
 ---
 permalink: /cwc-weeklies/
 title: "Create With Clint Weeklies"
-layout: tag
-taxonomy: create-with-clint
-entries_layout: grid
+layout: archive
 classes: wide
 toc: true
 author_profile: false
-show_excerpts: true
 sidebar:
   nav: "blender_nav"
 ---
@@ -21,6 +18,14 @@ Apart from a month-long thing twice a year, the community votes on a different p
 ## Where can I participate?
 
 Join us on Discord - [Create with Clint](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbjdmcGhJb0JMM3BSc1dvc2JwMWdaT0VGdF9QUXxBQ3Jtc0trVGNmZ0FWSjZRcHFLb3h1M1pheUdfWWx6SnNsajJ1djJEQUx2YWI3bGg2YkVJU29oU05uS0VJZE1hVjJCTkh0dkZPV05aanItVE9TaXo4SDAxazdheC12OUdKanEwYU56R3RDT0xEbTN0ZFRscUYzWQ&q=https%3A%2F%2Fdiscord.gg%2FuqTcJDy)
+
+## Recent Submissions
+
+<div class="entries-grid">
+  {% for post in site.tags['create-with-clint'] %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
 ## Every Challenge On Record
 
