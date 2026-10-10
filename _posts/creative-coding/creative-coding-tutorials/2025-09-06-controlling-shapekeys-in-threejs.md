@@ -1,26 +1,26 @@
 ---
-title: Controlling Blender Shapekeys using Three.js
-last_modified_at: 2025-06-09T16:20:02-05:00
+title: "Controlling Blender Shapekeys using Three.js"
+last_modified_at: "2025-06-09T16:20:02-05:00"
 header:
-    teaser: /assets/images/coding/2025-08-27-pariah/teaser.png
-    image: /assets/images/coding/2025-08-27-pariah/banner.png
+  teaser: "/assets/images/coding/2025-08-27-pariah/teaser.png"
+  image: "/assets/images/coding/2025-08-27-pariah/banner.png"
 tags:
-    - tutorial
-    - blender-biz
-    - threejs
-    - creative-coding
+  - tutorial
+  - blender-biz
+  - threejs
+  - creative-coding
 toc: true
 toc_sticky: true
-preview: /images/coding/2025-08-27-pariah/teaser.png
-description: A tutorial on how to control shapekeys in three.js + some troubleshooting
+preview: "/images/coding/2025-08-27-pariah/teaser.png"
+description: "A tutorial on how to control shapekeys in three.js + some troubleshooting"
 excerpt: "How-To's and Pitfalls: Have Fun!"
 keywords:
-    - blender
-    - threejs
-    - shapekeys
+  - blender
+  - threejs
+  - shapekeys
 ---
 
-# Controlling Blender Shapekeys with Threejs: "Pariah"
+# Controlling Blender Shapekeys with Threejs: Pariah
 
 ## 🎯Where we're headed🎯
 
