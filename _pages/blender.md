@@ -11,6 +11,7 @@ sidebar:
   nav: "blender_nav"
 ---
 # 2025 - My Year of Learning Blender
+
 Expanding from 3D printing and CAD + Creative Coding.
 Why Blender? It's free! And crazy powerful.
 
@@ -54,6 +55,7 @@ Why Blender? It's free! And crazy powerful.
 - [ ] CGBoost's [Ultimate CG Boost Blender Bundle](https://www.cgboost.com/bundle/ultimate-cg-boost-blender-bundle) -->
 
 # My Blender Render Portfolio
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=i0FT0eVlN4MOCoIg&amp;list=PLFQlXhwnTBUH5xrEaxldpxePuZW2Wumyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # All Project Walkthroughs
