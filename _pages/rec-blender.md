@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 layout: tag
 entries_layout: grid
+show_excerpts: true
 classes: wide
 taxonomy: rec-blender
 author_profile: false

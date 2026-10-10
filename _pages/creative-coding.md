@@ -12,6 +12,7 @@ sidebar:
     nav: "creative_coding_nav"
 ---
 # What the heck is Creative Coding?
+
 ## Creative Coding: 💻✨
 
 Creative coding is the art of wielding programming languages as a tool for artistic exploration. It's where logic meets aesthetics, producing digital experiences that transcend traditional software development. 🎨🚀
@@ -29,6 +30,7 @@ It's a process of setting parameters and witnessing the emergence of complex pat
 Essentially, we're building systems that create art, exploring the potential of computational creativity. 🌸
 
 ## What languages do I use?
+
 **p5.js (javascript/typescript):** ✏️ Your friendly neighborhood sketchpad! Perfect for quick, interactive 2D visuals and learning the basics. It's like finger painting with code, super accessible and fun! 🎉
 
 **Processing (Java):** 💪 The OG creative coding powerhouse! Offers a robust environment for 2D and 3D exploration. It's like a well-equipped art studio, with lots of tools and depth. 🌀
@@ -52,4 +54,4 @@ Essentially, we're building systems that create art, exploring the potential of 
 | Dependencies   | Minimal                                 | Java Runtime Environment (Java mode)| Requires understanding of JavaScript, WebGL, and 3D concepts |
 | Development Environment | Browser based or simple text editor | Java IDEs or p5.js web editor | Requires understanding of javascript development and build tools |
 
-# All Creative Coding Projects
+## All Creative Coding Projects

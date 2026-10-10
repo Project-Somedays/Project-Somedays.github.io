@@ -7,8 +7,9 @@ entries_layout: grid
 classes: wide
 toc: true
 author_profile: false
+show_excerpts: true
 sidebar:
-    nav: "blender_nav"
+  nav: "blender_nav"
 ---
 
 Apart from a month-long thing twice a year, the community votes on a different prompt every week. You can get ample feedback on your work. There are prizes to be won. It's a great time to be learning something new. Everyone there is super passionate and is about continual improvement.

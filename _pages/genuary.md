@@ -4,6 +4,7 @@ title: "Genuary - Celebrating Generative Art each January"
 toc: true
 layout: tag
 taxonomy: genuary
+show_excerpts: true
 entries_layout: grid
 classes: wide
 author_profile: false

@@ -4,6 +4,7 @@ title: "Reverse Engineering Challenges"
 toc: true
 toc_sticky: true
 layout: tag
+show_excerpts: true
 entries_layout: grid
 classes: wide
 author_profile: false

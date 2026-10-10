@@ -3,6 +3,7 @@ permalink: /p5js/
 title: "p5js"
 layout: tag
 taxonomy: p5js
+show_excerpts: true
 entries_layout: grid
 classes: wide
 toc: true

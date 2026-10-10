@@ -4,6 +4,7 @@ title: "Weekly Creative Coding Challenges"
 toc: true
 layout: tag
 entries_layout: grid
+show_excerpts: true
 classes: wide
 taxonomy: wccc
 author_profile: false

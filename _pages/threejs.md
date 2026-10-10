@@ -3,6 +3,7 @@ permalink: /threejs/
 title: "Threejs"
 layout: tag
 taxonomy: threejs
+show_excerpts: true
 entries_layout: grid
 classes: wide
 toc: true
