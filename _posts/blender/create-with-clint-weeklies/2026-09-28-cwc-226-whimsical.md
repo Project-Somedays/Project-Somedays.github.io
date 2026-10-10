@@ -2,8 +2,8 @@
 title: CWC226 - Whimsical
 last_modified_at: 2025-09-15T16:20:02-05:00
 header:
-  teaser: /assets/images/cwc-226-teaser.png
-  image: /images/cwc/226-whimsical/cwc-226-header.png
+  teaser: /assets/images/cwc/226-whimsical/cwc-226-teaser.png
+  image: /assets/images/cwc/226-whimsical/cwc-226-header.png
 tags:
   - blender-biz
   - create-with-clint
@@ -14,7 +14,7 @@ tags:
 toc: true
 date: 2026-04-03T13:00:00.000Z
 description: "A VFX breakdown: modelling, rigging and animating a little looping tableau that pleased me."
-preview: /assets/images/cwc-226-preview.png
+preview: /assets/images/cwc/226-whimsical/cwc-226-preview.png
 categories:
   - project-breakdown
 ---
