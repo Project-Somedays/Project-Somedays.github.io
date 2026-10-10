@@ -15,12 +15,12 @@ sidebar:
 
 Apart from a month-long thing twice a year, the community votes on a different prompt every week. You can get ample feedback on your work. There are prizes to be won. It's a great time to be learning something new. Everyone there is super passionate and is about continual improvement.
 
-# Where can I participate?
+## Where can I participate?
 Join us on Discord - [Create with Clint](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbjdmcGhJb0JMM3BSc1dvc2JwMWdaT0VGdF9QUXxBQ3Jtc0trVGNmZ0FWSjZRcHFLb3h1M1pheUdfWWx6SnNsajJ1djJEQUx2YWI3bGg2YkVJU29oU05uS0VJZE1hVjJCTkh0dkZPV05aanItVE9TaXo4SDAxazdheC12OUdKanEwYU56R3RDT0xEbTN0ZFRscUYzWQ&q=https%3A%2F%2Fdiscord.gg%2FuqTcJDy)
 
-# All Project Walkthroughs
+## All Project Walkthroughs
 
-# All Weekly Challenges
+<!-- # All Weekly Challenges
 
 | Challenge # | Date | Challenge Title | Description | Submission | Submission Date | Result |
 |:--- |:---  | :---   | :---         | :---:       |:---:    | :---: |
@@ -270,4 +270,4 @@ Join us on Discord - [Create with Clint](https://www.youtube.com/redirect?event=
 | #241 | 2026-07-11 | 💥Critical Hit 💥 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | 🏆 |
 | #241 | 2026-07-18 | 🌠Anomaly 🌠 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
 | #241 | 2026-07-25 | 🃏Card Art Challenge🃏 | Reimagine a TCG Card's Art (Pokémon, MTG, Yu-Gi-Oh, etc...) | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
-| #244 | 2026-08-12 | 🔋Battery 🔋 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - |
+| #244 | 2026-08-12 | 🔋Battery 🔋 | "" | [See my submission]({% post_url 2025-03-28-cwc189-shelf %}) | - | - | -->
