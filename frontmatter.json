@@ -7,39 +7,41 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "description",
+          "title": "Description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "date",
+          "title": "Publishing date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
         },
         {
-          "title": "preview",
+          "title": "Content preview",
           "name": "preview",
-          "type": "string"
+          "type": "image"
         },
         {
-          "title": "tags",
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
           "name": "tags",
           "type": "tags"
         },
         {
-          "title": "categories",
+          "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
-        {
-          "title": "draft",
-          "name": "draft",
-          "type": "draft"
         },
         {
           "title": "last_modified_at",
@@ -64,6 +66,11 @@
           ]
         },
         {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
           "title": "toc",
           "name": "toc",
           "type": "boolean"
@@ -75,6 +82,14 @@
   "frontMatter.content.publicFolder": "assets",
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.content.pageFolders": [
+    {
+      "title": "drafts",
+      "path": "[[workspace]]/_drafts"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/_posts"
+    },
     {
       "title": "drafts",
       "path": "[[workspace]]/_drafts"

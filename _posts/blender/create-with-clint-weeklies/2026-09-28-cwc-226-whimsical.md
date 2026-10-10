@@ -4,6 +4,7 @@ last_modified_at: 2025-09-15T16:20:02-05:00
 header:
   teaser: /assets/images/cwc/226-whimsical/cwc-226-teaser.png
   image: /assets/images/cwc/226-whimsical/cwc-226-header.png
+excerpt: "There are worse fates than being turned into a Knight Light..."
 tags:
   - blender-biz
   - create-with-clint
@@ -19,22 +20,23 @@ categories:
   - project-breakdown
 ---
 
-# The Final Result
+## The Final Result
+
 [![Watch the video](https://img.youtube.com/vi/djvtXkh3_Mg/maxresdefault.jpg)](https://youtu.be/djvtXkh3_Mg)
 
-# Summary
+## Summary
 
-| Biz             | Biz Biz                               |
-|:--------        | :---------                            |
-| Author          | Project Somedays                      |
-| Title           | Create With Clint Weeklies 226 - Whimsical aka "Knight Light"                 |
-| 📅 Started      | 2025-03-23                            |
-| 📅 Completed    | 2025-03-23                            |
-| 🕒 Taken        | ~6hrs                                 |
-| Render🕒        | ~1hr                                |
-| 🤯 Concept      | There are worse fates than being turned into a Knight Light                             |
-| 🔎 Focus        | Modelling from reference + simple animation                         |
-| 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti |
+| Biz             | Biz Biz                                                               |
+|:--------        | :---------                                                            |
+| Author          | Project Somedays                                                      |
+| Title           | Create With Clint Weeklies 226 - Whimsical aka "Knight Light"         |
+| 📅 Started      | 2025-03-23                                                            |
+| 📅 Completed    | 2025-03-23                                                            |
+| 🕒 Taken        | ~6hrs                                                                 |
+| Render🕒        | ~1hr                                                                  |
+| 🤯 Concept      | What do dragon parents use the entertain their young? Knight Lights!  |
+| 🔎 Focus        | Modelling from reference + simple animation                           |
+| 🖥️ Rig Deets    | 64GB RAM, 13th Gen Core i9, NVIDIA GeForce GTX 4060 Ti                |
 
 > Created for the weekly Create with Clint/pwnisher community
 >
@@ -66,11 +68,11 @@ I guess it's also a lesson in what you can get away with when you're not overly 
 
 For this one, I animated just the one dragon wing that I had parented to the main rig then mirrored it. I like the Rigify FK/IK setup and I THINK I can add extra bones at the meta-rig stage before generating the rig, but I'm yet to do it. Adding a secondary rig for the wings worked here where I knew animation was going to be minimal.
 
-Apparently, before you rigify, you need to make sure that your wings have been symmetrised and that the type of kinetic chain is set to something like ```limbs.super_tentacle```. Watch this space
+Apparently, before you rigify, you need to make sure that your wings have been symmetrised and that the type of kinetic chain is set to something like ```limbs.super_tentacle```. Watch this space!
 
 ### Hand-Animation: does the trick
 
-In this project, I very literally hand-animated the head movement on the baby dragon. I:
+In this project, I very literally hand-animated the head movement on the baby dragon. To do it, I:
 
 1. turned off every collection to maximise performance in the viewport
 2. entered pose mode
@@ -86,11 +88,11 @@ Did this hack pay off? You be the judge!
 
 What is topology in 3D graphics? The functional answer is, if you look at the wireframe of your mesh, it's the spacing, shape and positioning of your quads (and triangles and n-gons for where you either can't be bothered fixing it or where it doesn't matter). What I discovered the hard way in this project is that you really do want your quads to follow nice flowing lines and have detail in the right places to produce natural deformation of the mesh as you try to move things around. And there are a few other reasons also to get this right:
 
-Weird folds appearing in my meshes? Bad topology.
+- Weird folds appearing in my meshes? Bad topology.
 
-Performance chugging in the viewport? Bad topology. I had WAY too many faces.
+- Performance chugging in the viewport? Bad topology. I had WAY too many faces.
 
-Not great experience with some texture painting? Bad topology. I had way too FEW faces.
+- Not great experience with some texture painting? Bad topology. I had way too FEW faces.
 
 Rest assured, I have since invested in [Quad Remesher](https://exoside.com/) to help even out all my quads without spending a lifetime mastering a skill I have great appreciation for, but not enough time to put into.
 
@@ -105,7 +107,8 @@ If you're reading this and want to know more, there are entire youtube channels 
 - SoundFX
   - [Dragons Lair](https://pixabay.com/sound-effects/film-special-effects-dragons-lair-159877/) by [Mavopix](https://pixabay.com/users/mavopix-2288045/) on [Pixabay](https://pixabay.com)
 
-## Stretch Goal
+## Stretch Goal(s)
 
-- Actually match the reference and have the main dragon reading.
+- Actually match the reference and have the main dragon reading a book.
 - Improve topology of my models... offt.
+- Re-rig the dragon to use rigify for the wings also.
