@@ -1,6 +1,6 @@
 ---
 title: CWC226 - Whimsical
-last_modified_at: 2025-09-15T16:20:02-05:00
+last_modified_at: 2026-10-11T16:20:02-05:00
 header:
   teaser: /assets/images/cwc/226-whimsical/cwc-226-teaser.png
   image: /assets/images/cwc/226-whimsical/cwc-226-header.png
@@ -30,8 +30,8 @@ categories:
 |:--------        | :---------                                                            |
 | Author          | Project Somedays                                                      |
 | Title           | Create With Clint Weeklies 226 - Whimsical aka "Knight Light"         |
-| 📅 Started      | 2025-03-23                                                            |
-| 📅 Completed    | 2025-03-23                                                            |
+| 📅 Started      | 2026-03-29                                                            |
+| 📅 Completed    | 2026-04-03                                                            |
 | 🕒 Taken        | ~6hrs                                                                 |
 | Render🕒        | ~1hr                                                                  |
 | 🤯 Concept      | What do dragon parents use the entertain their young? Knight Lights!  |
