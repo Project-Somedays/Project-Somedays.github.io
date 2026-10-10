@@ -7,6 +7,7 @@ header:
 tags:
   - blender-biz
   - create-with-clint
+  - vfxbreakdown
 toc: true
 preview: /assets/images/cwc/225-famous-pose/cwc-225-famous-pose-thumbnail.png
 draft: false
@@ -14,6 +15,10 @@ keywords:
   - compositor
   - lighting
   - meme
+excerpt: Recreating Jeff Goldblum's iconic pose with just 3 lights
+description: A quick VFX breakdown of a fun, silly project from when I was very short on time.
+categories:
+  - project-breakdown
 ---
 
 # Summary
