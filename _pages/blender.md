@@ -1,9 +1,7 @@
 ---
 permalink: /blender/
 title: "Blender Biz"
-layout: tag
-taxonomy: blender-biz
-entries_layout: grid
+layout: archive
 classes: wide
 show_excerpts: true
 toc: true
@@ -61,3 +59,8 @@ Why Blender? It's free! And crazy powerful.
 
 ## All Project Walkthroughs
 
+<div class="entries-grid">
+  {% for post in site.tags['blender-biz'] %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
