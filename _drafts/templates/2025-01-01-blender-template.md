@@ -1,17 +1,24 @@
 ---
-title: "Create With Clint Weekly Render Challenge #..."
-last_modified_at: 2025-09-15T16:20:02-05:00
+title: title
+description: ""
+date: 2026-10-11T07:22:54.175Z
+preview: ""
+tags: []
+categories: []
+last_modified_at: null
 header:
-  teaser: /assets/images/placeholder.jpg
-  image: /assets/images/placeholder-banner.png
-tags: ["blender-biz", "create-with-clint"]
+  teaser: ""
+  image: ""
+excerpt: ""
 toc: true
+toc_sticky: true
+keywords: ""
 ---
 
-# The Final Result
+## The Final Result
 <!-- [![Watch the video](https://img.youtube.com/vi/4eS8dGd9_TI/maxresdefault.jpg)](https://youtu.be/4eS8dGd9_TI) -->
 
-# Summary
+## Summary
 
 | Biz             | Biz Biz                               |
 |:--------        | :---------                            |
@@ -29,15 +36,14 @@ toc: true
 >
 >Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
-## 🎓Lessons Learned🎓
+### 🎓Lessons Learned🎓
 
-## Resources:
-- Models 
+### Resources
+
+- Models
 - Music
 - SoundFX
 
-## TODO:
+### TODO:
 
-
-
-# 🪵Dev Log🪵
+### 🪵Dev Log🪵
