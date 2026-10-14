@@ -41,6 +41,10 @@ keywords:
 >
 >Check out his awesome [YouTube channel](https://www.youtube.com/c/pwnisher) or better yet, join [the discord community!](https://discord.com/channels/673719770410909696/688444060737994785/922141725944872980)
 
+## The Final Result
+
+[![Watch the video](https://img.youtube.com/vi/citzESq-T-Q/maxresdefault.jpg)](https://youtu.be/citzESq-T-Q)
+
 Of the 47 people who submitted for this one, I alone apparently went straight for the worst case scenario: what DOES a hotel toilet reveal under blacklight.
 
 No regrets.
